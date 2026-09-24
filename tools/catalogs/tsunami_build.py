@@ -20,35 +20,37 @@ SER={'wq':('WQ','MultiChannel','двухканальное (по описани�
      'krtf':('KRTF','Vortex','свободновихревое','канализационный погружной')}
 def v(s):
     m=re.search(r'[\d]+(?:[.,]\d+)?',s or ''); return float(m.group(0).replace(',','.')) if m else 0
-recs=[];cnt=collections.Counter()
+EXC=[];recs=[];cnt=collections.Counter()
+CH=json.load(open('tsunami/tsunami_charts.json'))
 for f,d in D.items():
     s=re.search(r'pages/_fek_([a-z-]+)_',f).group(1); p=d['props']
     series,imp,imptxt,app=SER[s]
     model=re.sub(r'^Tsunami\s+','',d['name'].split(' — ')[0]).strip()
+    ch=CH.get(f)
+    if not ch: cnt['нет графика']+=1; EXC.append((model,'на странице нет графика')); continue
+    P=ch['lines'][0]['points']
+    if len(P)<=3: cnt['схема из 3 точек (не заводская кривая)']+=1; EXC.append((model,'на сайте схема из 3 точек, не заводская кривая')); continue
+    P=sorted(P,key=lambda z:z['q'])
+    qh=[(z['q'],z['h']) for z in P]
+    qe=[(z['q'],z['eff']) for z in P if 'eff' in z]; qp=[(z['q'],z['kw']) for z in P if 'kw' in z]
     qn=v(p.get('Номинальная производительность')) or v(p.get('Производительность')); hn=v(p.get('Номинальный напор')) or v(p.get('Напор'))
-    qmax=v(p.get('Максимальная производительность')); hmax=v(p.get('Максимальный напор'))
     kw=v(p.get('Номинальная мощность')) or v(p.get('Мощность')); rpm=int(v(p.get('Скорость')))
-    poles=int(v(p.get('Полюсов'))) or ({2:2}.get(0) or (2 if rpm>2000 else 4 if rpm>1200 else 6 if rpm>900 else 8 if rpm>650 else 10 if rpm>500 else 0) if rpm else 0)
-    if not qn or not hn: cnt['noq']+=1; continue
-    if hmax>hn*1.02 and qmax>qn*1.02:
-        k=(hmax-hn)/qn**2; qe=qmax; qs=np.linspace(0,qe,13); pts=[(q,hmax-k*q*q) for q in qs]
-        how=f"по каталожным Hmax={hmax:g} м, Qmax={qmax:g} м³/ч и номинальной точке: парабола H=Hmax−k·Q² (принято, что Hmax — напор при Q=0)"
-        cnt['3pt']+=1
-    else:
-        ok=~np.isnan(P); pts=[(float(q)*qn,float(h)*hn) for q,h in zip(Q[ok],P[ok]) if q<=1.6]
-        how="по единственной номинальной точке с типовой формой кривой серий WQ (медиана оцифрованных кривых Fancy/Purity WQ; H0≈%.2f·Hном). Реальная кривая может заметно отличаться — уточняйте у поставщика"%P[0]
-        cnt['1pt']+=1
+    poles=int(v(p.get('Полюсов'))) or ((2 if rpm>2000 else 4 if rpm>1200 else 6 if rpm>900 else 8 if rpm>650 else 10) if rpm else 0)
     dn=int(v(p.get('Выходной диаметр')) or v(p.get('Диаметр выхода')))
-    note=f"Рабочее колесо: {imptxt}. Номинальная точка Q={qn:g} м³/ч, H={hn:g} м. Кривая аппроксимирована {how}."
-    if p.get('Рабочее колесо'): note+=f" Диаметр рабочего колеса по сайту: {p['Рабочее колесо']}."
-    if p.get('Свободный проход'): note+=f" Свободный проход: {p['Свободный проход']}."
-    url='https://tsunami-pump.ru'+f.split('pages/')[1].replace('_','/').replace('.html','')
+    note=f"Рабочее колесо: {imptxt}. Кривая Q–H — точки интерактивного графика на странице модели tsunami-pump.ru («кривые оцифрованы с заводских характеристик»). Номинальная точка: Q={qn:g} м³/ч, H={hn:g} м."
+    if qe: note+=" QEta — КПД насоса, QP — мощность на валу (проверено: P=ρgQH/η)."
+    if p.get('Рабочее колесо'): note+=f" Диаметр рабочего колеса: {p['Рабочее колесо']}."
+    if qh[0][0]>0: note+=" Сайт приводит кривую только в рабочем диапазоне (без Q=0)."
+    url='https://tsunami-pump.ru'+ch['lines'][0].get('url','')
+    cnt['ok']+=1
     recs.append(rec("Tsunami",series,model,"Китай (бренд РФ)",Application=app,Impeller=imp,HasCutter=imp=='Cutter',DnOut=dn,
         FreePassageMm=v(p.get('Свободный проход')),P2Kw=kw,Rpm=rpm,Poles=poles,Voltage='3~'+str(int(v(p.get('Вольтаж')) or 380))+' В',
-        WeightKg=v(p.get('Вес')),ImpellerDmm=v(p.get('Рабочее колесо')),NominalQ=qn,NominalH=hn,QH=[(round(a,2),round(b,2)) for a,b in pts],
-        Document=f"Сайт производителя tsunami-pump.ru, карточка модели (паспортные данные), серия {series}",Url=url,Quality='CatalogNominal',Notes=note))
+        WeightKg=v(p.get('Вес')),ImpellerDmm=v(p.get('Рабочее колесо')),NominalQ=qn,NominalH=hn,QH=qh,QEta=qe,QP=qp,
+        Document=f"Сайт производителя tsunami-pump.ru, карточка модели, вкладка «Графики производительности», серия {series}",Url=url,Notes=note))
 seen=set();out=[]
 for r in sorted(recs,key=lambda r:(r['Series'],r['Model'])):
     if r['Model'] in seen: continue
     seen.add(r['Model']); out.append(r)
 save('out/tsunami.json',out); print(cnt, collections.Counter(r['Series'] for r in out))
+
+json.dump(sorted(set(map(tuple,EXC))),open('out/tsunami_excluded.json','w'),ensure_ascii=False,indent=1)

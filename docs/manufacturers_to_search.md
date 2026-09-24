@@ -58,3 +58,17 @@ Flygt (Xylem), Grundfos, KSB, LEO, Lowara (Xylem), ONIS, Pedrollo, Tsurumi, Unip
 * [Standart Pompa](https://standartpompa.su/), [Sempa](https://sempapompa.su/)
 * [Топ-5 производителей дренажных насосов РФ 2025 (Stream, Unipump, Джилекс, Belamos, Aquario)](https://www.streampumps.ru/news/top5-submersible-pump-manufacturers-russia2025.html)
 * [Катайский насосный завод](https://knz.ru/), [ГМС (Гидромашсервис)](http://hms.ru/)
+
+## Статус проработки приоритета 1 (09.2026)
+
+| Производитель | Результат | Источник |
+|---|---|---|
+| Sulzer / ABS | **кривых в открытом доступе нет** — в техлистах XFP (50 Гц, 2025–2026) только поля применения; кривые отдельных насосов даёт только программа ABSEL | sulzer.com, absel.sulzer.com |
+| HOMA | 311 моделей (MXS, V(X), K(X), KX) | каталоги DN80–150 (01.2026) и DN200–500 (07.2025) |
+| Shimge | 25 моделей (WQK, WQ 1450, WQD-L, WQD-X2) | графики на сайте shimgepump.com |
+| Shanghai Liancheng | 155 моделей (WQ, WQC; по 3 точки таблицы); WL — только номинал, не взята | liancheng-pump.com |
+| Standart Pompa | 33 модели серии C | общий каталог 2024 |
+| Sempa | 59 моделей DPT | каталог DPT 01.2024 |
+| Hidroo (Hydroo, Испания) | 69 моделей WF/WG | каталог WDROO 06.2023 |
+| Shinmaywa | 19 моделей CN/CN-MT/CNH; серии CV* показаны полосами — не взяты | каталог CN 03.2021 (копия дистрибьютора) |
+| Hanil | **не найдено** — каталог недоступен (сайт изготовителя и DirectIndustry закрыты), сеть Кореи 60 Гц | — |

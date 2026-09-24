@@ -137,3 +137,15 @@ def untangle(tracks, w=25, close=3.5):
                 if changed: break
             if changed: break
     return [sorted(d.items()) for d in T]
+def run_filter(m, lo=3, hi=25):
+    """Оставляет только вертикальные «пробежки» длиной lo..hi пикселей (толстые кривые без тонкой сетки)."""
+    out=np.zeros_like(m)
+    H,W=m.shape
+    for x in range(W):
+        col=m[:,x]; ys=np.nonzero(col)[0]
+        if len(ys)==0: continue
+        br=np.where(np.diff(ys)>1)[0]
+        starts=np.r_[ys[0],ys[br+1]]; ends=np.r_[ys[br],ys[-1]]
+        for s,e in zip(starts,ends):
+            if lo<=e-s+1<=hi: out[s:e+1,x]=1
+    return out

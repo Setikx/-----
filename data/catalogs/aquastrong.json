@@ -1,0 +1,559 @@
+[
+  {
+    "Id": "99511553",
+    "Manufacturer": "Aquastrong",
+    "Series": "SES (дренажный/канализационный)",
+    "Model": "SES050",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.37,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.62
+        },
+        {
+          "Q": 8.517,
+          "V": 6.096
+        },
+        {
+          "Q": 11.546,
+          "V": 4.572
+        },
+        {
+          "Q": 14.195,
+          "V": 3.048
+        },
+        {
+          "Q": 14.498,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SES050_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES050_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.5 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 5 А."
+  },
+  {
+    "Id": "fd219460",
+    "Manufacturer": "Aquastrong",
+    "Series": "SES (дренажный/канализационный)",
+    "Model": "SES050V",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.37,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.62
+        },
+        {
+          "Q": 8.517,
+          "V": 6.096
+        },
+        {
+          "Q": 11.546,
+          "V": 4.572
+        },
+        {
+          "Q": 14.195,
+          "V": 3.048
+        },
+        {
+          "Q": 14.498,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SES050V_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES050V_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.5 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 5 А. Вертикальный поплавок."
+  },
+  {
+    "Id": "f03a385f",
+    "Manufacturer": "Aquastrong",
+    "Series": "SES (дренажный/канализационный)",
+    "Model": "SES050P",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.37,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.62
+        },
+        {
+          "Q": 8.555,
+          "V": 6.096
+        },
+        {
+          "Q": 10.788,
+          "V": 4.572
+        },
+        {
+          "Q": 12.113,
+          "V": 3.048
+        },
+        {
+          "Q": 13.06,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SES050P_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES050P_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.5 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 5 А. Корпус нерж. сталь/термопласт."
+  },
+  {
+    "Id": "42ecade9",
+    "Manufacturer": "Aquastrong",
+    "Series": "SES (дренажный/канализационный)",
+    "Model": "SES075",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.55,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.144
+        },
+        {
+          "Q": 13.06,
+          "V": 6.096
+        },
+        {
+          "Q": 15.142,
+          "V": 4.572
+        },
+        {
+          "Q": 16.504,
+          "V": 3.048
+        },
+        {
+          "Q": 18.511,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SES075_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES075_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.75 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 7 А."
+  },
+  {
+    "Id": "630c32eb",
+    "Manufacturer": "Aquastrong",
+    "Series": "SES (дренажный/канализационный)",
+    "Model": "SES075V",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.55,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.144
+        },
+        {
+          "Q": 13.06,
+          "V": 6.096
+        },
+        {
+          "Q": 15.142,
+          "V": 4.572
+        },
+        {
+          "Q": 16.504,
+          "V": 3.048
+        },
+        {
+          "Q": 18.511,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SES075V_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES075V_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.75 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 7 А. Вертикальный поплавок."
+  },
+  {
+    "Id": "494d8345",
+    "Manufacturer": "Aquastrong",
+    "Series": "SES (дренажный/канализационный)",
+    "Model": "SES075P",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.55,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.144
+        },
+        {
+          "Q": 13.552,
+          "V": 6.096
+        },
+        {
+          "Q": 15.104,
+          "V": 4.572
+        },
+        {
+          "Q": 15.52,
+          "V": 3.048
+        },
+        {
+          "Q": 15.899,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SES075P_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES075P_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.75 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 7 А. В инструкции при 20 ft напечатано «35800» — принято 3580 GPH (опечатка)."
+  },
+  {
+    "Id": "a6a1eb0b",
+    "Manufacturer": "Aquastrong",
+    "Series": "SWG",
+    "Model": "SWG075A",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.069
+        },
+        {
+          "Q": 8.744,
+          "V": 9.144
+        },
+        {
+          "Q": 11.837,
+          "V": 6.096
+        },
+        {
+          "Q": 15.948,
+          "V": 3.048
+        },
+        {
+          "Q": 19.828,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SWG075CA_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SWG075CA_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 1.0 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Max. head 56 ft — по описанию товара на aquastrong.co."
+  },
+  {
+    "Id": "6de4cb99",
+    "Manufacturer": "Aquastrong",
+    "Series": "SWG (с режущим механизмом)",
+    "Model": "SWG075CA",
+    "Country": "Китай",
+    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 50,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~115 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 14.021
+        },
+        {
+          "Q": 6.416,
+          "V": 9.144
+        },
+        {
+          "Q": 9.028,
+          "V": 6.096
+        },
+        {
+          "Q": 11.913,
+          "V": 3.048
+        },
+        {
+          "Q": 14.998,
+          "V": 1.524
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SWG075CA_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SWG075CA_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 1.0 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Max. head 46 ft — по описанию товара."
+  },
+  {
+    "Id": "91f98cab",
+    "Manufacturer": "Aquastrong",
+    "Series": "SEP",
+    "Model": "SEP100CA",
+    "Country": "Китай",
+    "Application": "канализационный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 50,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 3450,
+    "Poles": 2,
+    "Voltage": "1~220 В 60 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.192
+        },
+        {
+          "Q": 3.18,
+          "V": 11.704
+        },
+        {
+          "Q": 6.359,
+          "V": 10.241
+        },
+        {
+          "Q": 9.539,
+          "V": 7.803
+        },
+        {
+          "Q": 12.719,
+          "V": 4.389
+        },
+        {
+          "Q": 14.309,
+          "V": 2.316
+        },
+        {
+          "Q": 15.899,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong, инструкция SEP100CA_manual.pdf (Max.Head 40 ft, Max.Flow 4200 GPH)",
+      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SEP100CA_manual.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogNominal"
+    },
+    "Notes": "Насос рынка США, 60 Гц. В каталоге только Hmax=40 ft и Qmax=4200 GPH; кривая аппроксимирована параболой H=Hmax·(1−(Q/Qmax)²). 1 HP, 4,1 А."
+  }
+]

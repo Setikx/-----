@@ -396990,5 +396990,1604 @@
       "Quality": "CatalogTable"
     },
     "Notes": "Рабочее колесо № 245.2: вихревое (Vx), лопастей 6. Мотор 5.5 HP (P2 пересчитана в кВт ×0,7457). Кривые Q–H и P оцифрованы с векторного графика (кривые Безье каталога); QP — мощность, HP пересчитаны в кВт."
+  },
+  {
+    "Id": "45e2deac",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN80-MT-2.2kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 11.62,
+          "V": 12.552
+        },
+        {
+          "Q": 12.46,
+          "V": 12.536
+        },
+        {
+          "Q": 15.07,
+          "V": 12.367
+        },
+        {
+          "Q": 19.97,
+          "V": 11.859
+        },
+        {
+          "Q": 28.17,
+          "V": 10.829
+        },
+        {
+          "Q": 41.06,
+          "V": 9.092
+        },
+        {
+          "Q": 60.1,
+          "V": 6.465
+        },
+        {
+          "Q": 85.82,
+          "V": 2.762
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 1 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "2fb4496d",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN80-MT-3.7kW[1]",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 0,
+    "P2Kw": 3.7,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 11.62,
+          "V": 17.824
+        },
+        {
+          "Q": 12.67,
+          "V": 17.772
+        },
+        {
+          "Q": 15.97,
+          "V": 17.458
+        },
+        {
+          "Q": 22.41,
+          "V": 16.639
+        },
+        {
+          "Q": 33.67,
+          "V": 15.075
+        },
+        {
+          "Q": 52.12,
+          "V": 12.526
+        },
+        {
+          "Q": 79.94,
+          "V": 8.75
+        },
+        {
+          "Q": 116.87,
+          "V": 3.507
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller), рабочее колесо № 1. Кривая № 2 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "72c7cd65",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN80-MT-3.7kW[3]",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 0,
+    "P2Kw": 3.7,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 11.62,
+          "V": 18.604
+        },
+        {
+          "Q": 12.42,
+          "V": 18.558
+        },
+        {
+          "Q": 14.88,
+          "V": 18.34
+        },
+        {
+          "Q": 19.43,
+          "V": 17.83
+        },
+        {
+          "Q": 26.93,
+          "V": 16.906
+        },
+        {
+          "Q": 38.52,
+          "V": 15.449
+        },
+        {
+          "Q": 55.33,
+          "V": 13.336
+        },
+        {
+          "Q": 77.62,
+          "V": 10.449
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller), рабочее колесо № 3. Кривая № 3 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "927f0509",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN100-MT-5.5kW[1]",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 11.62,
+          "V": 20.495
+        },
+        {
+          "Q": 12.79,
+          "V": 20.419
+        },
+        {
+          "Q": 16.53,
+          "V": 20.021
+        },
+        {
+          "Q": 23.94,
+          "V": 19.042
+        },
+        {
+          "Q": 37.09,
+          "V": 17.225
+        },
+        {
+          "Q": 58.66,
+          "V": 14.312
+        },
+        {
+          "Q": 90.45,
+          "V": 10.045
+        },
+        {
+          "Q": 129.73,
+          "V": 4.167
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller), рабочее колесо № 1. Кривая № 4 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "2e93ee12",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN100-MT-5.5kW[3]",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 11.62,
+          "V": 22.858
+        },
+        {
+          "Q": 12.53,
+          "V": 22.82
+        },
+        {
+          "Q": 15.38,
+          "V": 22.596
+        },
+        {
+          "Q": 20.77,
+          "V": 22.018
+        },
+        {
+          "Q": 29.88,
+          "V": 20.919
+        },
+        {
+          "Q": 44.28,
+          "V": 19.133
+        },
+        {
+          "Q": 65.41,
+          "V": 16.493
+        },
+        {
+          "Q": 93.2,
+          "V": 12.832
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller), рабочее колесо № 3. Кривая № 5 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "42a5a93d",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN100-MT-7.5kW[1]",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 14.46,
+          "V": 23.888
+        },
+        {
+          "Q": 15.66,
+          "V": 23.846
+        },
+        {
+          "Q": 19.99,
+          "V": 23.494
+        },
+        {
+          "Q": 28.7,
+          "V": 22.487
+        },
+        {
+          "Q": 44.16,
+          "V": 20.477
+        },
+        {
+          "Q": 69.49,
+          "V": 17.118
+        },
+        {
+          "Q": 106.6,
+          "V": 12.063
+        },
+        {
+          "Q": 152.04,
+          "V": 4.966
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller), рабочее колесо № 1. Кривая № 6 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "fbea937b",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN100-MT-7.5kW[3]",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 14.78,
+          "V": 27.398
+        },
+        {
+          "Q": 15.73,
+          "V": 27.321
+        },
+        {
+          "Q": 18.64,
+          "V": 27.011
+        },
+        {
+          "Q": 23.98,
+          "V": 26.35
+        },
+        {
+          "Q": 32.67,
+          "V": 25.22
+        },
+        {
+          "Q": 45.92,
+          "V": 23.502
+        },
+        {
+          "Q": 64.95,
+          "V": 21.077
+        },
+        {
+          "Q": 90.13,
+          "V": 17.828
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller), рабочее колесо № 3. Кривая № 7 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "6b625e59",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CNH",
+    "Model": "CNH100-11kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 17.62,
+          "V": 32.41
+        },
+        {
+          "Q": 19.38,
+          "V": 32.213
+        },
+        {
+          "Q": 24.95,
+          "V": 31.419
+        },
+        {
+          "Q": 35.89,
+          "V": 29.729
+        },
+        {
+          "Q": 54.99,
+          "V": 26.839
+        },
+        {
+          "Q": 85.56,
+          "V": 22.45
+        },
+        {
+          "Q": 128.96,
+          "V": 16.26
+        },
+        {
+          "Q": 179.53,
+          "V": 7.967
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 8 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "c07c3649",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CNH",
+    "Model": "CNH100-15kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 23.62,
+          "V": 38.743
+        },
+        {
+          "Q": 30.77,
+          "V": 37.843
+        },
+        {
+          "Q": 37.79,
+          "V": 37.124
+        },
+        {
+          "Q": 44.53,
+          "V": 36.431
+        },
+        {
+          "Q": 51.26,
+          "V": 35.606
+        },
+        {
+          "Q": 58.68,
+          "V": 34.493
+        },
+        {
+          "Q": 68.01,
+          "V": 32.935
+        },
+        {
+          "Q": 81.26,
+          "V": 30.775
+        },
+        {
+          "Q": 100.83,
+          "V": 27.875
+        },
+        {
+          "Q": 122.78,
+          "V": 24.403
+        },
+        {
+          "Q": 145.25,
+          "V": 20.595
+        },
+        {
+          "Q": 167.24,
+          "V": 16.658
+        },
+        {
+          "Q": 187.76,
+          "V": 12.801
+        },
+        {
+          "Q": 205.91,
+          "V": 9.23
+        },
+        {
+          "Q": 221.0,
+          "V": 6.152
+        },
+        {
+          "Q": 232.54,
+          "V": 3.775
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 9 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "fac4f91e",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CNH",
+    "Model": "CNH100-22kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 29.65,
+          "V": 44.892
+        },
+        {
+          "Q": 31.29,
+          "V": 44.71
+        },
+        {
+          "Q": 36.22,
+          "V": 44.093
+        },
+        {
+          "Q": 44.95,
+          "V": 42.928
+        },
+        {
+          "Q": 58.48,
+          "V": 41.104
+        },
+        {
+          "Q": 77.97,
+          "V": 38.512
+        },
+        {
+          "Q": 104.12,
+          "V": 35.04
+        },
+        {
+          "Q": 136.15,
+          "V": 30.577
+        },
+        {
+          "Q": 153.95,
+          "V": 27.858
+        },
+        {
+          "Q": 158.31,
+          "V": 27.186
+        },
+        {
+          "Q": 166.75,
+          "V": 25.796
+        },
+        {
+          "Q": 179.14,
+          "V": 23.636
+        },
+        {
+          "Q": 195.45,
+          "V": 20.658
+        },
+        {
+          "Q": 215.67,
+          "V": 16.811
+        },
+        {
+          "Q": 239.68,
+          "V": 12.046
+        },
+        {
+          "Q": 267.12,
+          "V": 6.312
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 10 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "3aa293f3",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN150-MT-5.5kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 29.65,
+          "V": 16.564
+        },
+        {
+          "Q": 51.38,
+          "V": 15.027
+        },
+        {
+          "Q": 81.21,
+          "V": 12.797
+        },
+        {
+          "Q": 117.61,
+          "V": 10.177
+        },
+        {
+          "Q": 156.74,
+          "V": 7.474
+        },
+        {
+          "Q": 193.13,
+          "V": 4.992
+        },
+        {
+          "Q": 220.98,
+          "V": 3.037
+        },
+        {
+          "Q": 235.87,
+          "V": 1.913
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 11 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "425ec2ef",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN150-MT-7.5kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 47.66,
+          "V": 19.738
+        },
+        {
+          "Q": 49.54,
+          "V": 19.503
+        },
+        {
+          "Q": 54.91,
+          "V": 18.877
+        },
+        {
+          "Q": 63.57,
+          "V": 17.98
+        },
+        {
+          "Q": 75.32,
+          "V": 16.935
+        },
+        {
+          "Q": 89.51,
+          "V": 15.861
+        },
+        {
+          "Q": 104.52,
+          "V": 14.879
+        },
+        {
+          "Q": 117.51,
+          "V": 14.11
+        },
+        {
+          "Q": 126.19,
+          "V": 13.577
+        },
+        {
+          "Q": 137.45,
+          "V": 12.78
+        },
+        {
+          "Q": 152.72,
+          "V": 11.647
+        },
+        {
+          "Q": 172.02,
+          "V": 10.203
+        },
+        {
+          "Q": 195.23,
+          "V": 8.469
+        },
+        {
+          "Q": 221.84,
+          "V": 6.469
+        },
+        {
+          "Q": 250.84,
+          "V": 4.225
+        },
+        {
+          "Q": 280.49,
+          "V": 1.761
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 12 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "2523e8d3",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN",
+    "Model": "CN150-11kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 61.65,
+          "V": 22.67
+        },
+        {
+          "Q": 65.08,
+          "V": 22.471
+        },
+        {
+          "Q": 75.35,
+          "V": 21.766
+        },
+        {
+          "Q": 93.4,
+          "V": 20.398
+        },
+        {
+          "Q": 120.98,
+          "V": 18.207
+        },
+        {
+          "Q": 159.85,
+          "V": 15.033
+        },
+        {
+          "Q": 210.28,
+          "V": 10.719
+        },
+        {
+          "Q": 268.86,
+          "V": 5.104
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 13 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "fa8e5377",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN",
+    "Model": "CN150-15kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 76.78,
+          "V": 26.926
+        },
+        {
+          "Q": 80.88,
+          "V": 26.655
+        },
+        {
+          "Q": 93.04,
+          "V": 25.734
+        },
+        {
+          "Q": 114.21,
+          "V": 24.001
+        },
+        {
+          "Q": 146.14,
+          "V": 21.291
+        },
+        {
+          "Q": 190.43,
+          "V": 17.441
+        },
+        {
+          "Q": 246.84,
+          "V": 12.289
+        },
+        {
+          "Q": 310.95,
+          "V": 5.671
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 14 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "6cee4884",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN",
+    "Model": "CN150-22kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 109.81,
+          "V": 30.897
+        },
+        {
+          "Q": 114.52,
+          "V": 30.569
+        },
+        {
+          "Q": 128.48,
+          "V": 29.467
+        },
+        {
+          "Q": 152.49,
+          "V": 27.418
+        },
+        {
+          "Q": 188.31,
+          "V": 24.245
+        },
+        {
+          "Q": 237.96,
+          "V": 19.773
+        },
+        {
+          "Q": 302.61,
+          "V": 13.827
+        },
+        {
+          "Q": 380.88,
+          "V": 6.232
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо (channel impeller). Кривая № 15 векторного графика 50 Гц; шкала расхода логарифмическая (m³/min → м³/ч). Кривая начинается с минимального расхода графика (без точки Q=0)."
+  },
+  {
+    "Id": "bf1f2527",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN651-MT-1.5kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 2,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 2.73,
+          "V": 17.624
+        },
+        {
+          "Q": 2.94,
+          "V": 17.528
+        },
+        {
+          "Q": 3.53,
+          "V": 17.262
+        },
+        {
+          "Q": 4.45,
+          "V": 16.863
+        },
+        {
+          "Q": 5.66,
+          "V": 16.366
+        },
+        {
+          "Q": 7.11,
+          "V": 15.807
+        },
+        {
+          "Q": 8.74,
+          "V": 15.222
+        },
+        {
+          "Q": 10.52,
+          "V": 14.647
+        },
+        {
+          "Q": 12.41,
+          "V": 14.1
+        },
+        {
+          "Q": 14.41,
+          "V": 13.512
+        },
+        {
+          "Q": 16.45,
+          "V": 12.902
+        },
+        {
+          "Q": 18.41,
+          "V": 12.304
+        },
+        {
+          "Q": 20.2,
+          "V": 11.753
+        },
+        {
+          "Q": 21.7,
+          "V": 11.286
+        },
+        {
+          "Q": 22.81,
+          "V": 10.937
+        },
+        {
+          "Q": 23.42,
+          "V": 10.741
+        },
+        {
+          "Q": 24.28,
+          "V": 10.461
+        },
+        {
+          "Q": 25.99,
+          "V": 9.909
+        },
+        {
+          "Q": 28.21,
+          "V": 9.188
+        },
+        {
+          "Q": 30.62,
+          "V": 8.403
+        },
+        {
+          "Q": 32.92,
+          "V": 7.659
+        },
+        {
+          "Q": 34.77,
+          "V": 7.06
+        },
+        {
+          "Q": 35.84,
+          "V": 6.711
+        },
+        {
+          "Q": 36.08,
+          "V": 6.632
+        },
+        {
+          "Q": 36.72,
+          "V": 6.412
+        },
+        {
+          "Q": 37.83,
+          "V": 6.03
+        },
+        {
+          "Q": 39.24,
+          "V": 5.549
+        },
+        {
+          "Q": 40.76,
+          "V": 5.029
+        },
+        {
+          "Q": 42.21,
+          "V": 4.532
+        },
+        {
+          "Q": 43.43,
+          "V": 4.119
+        },
+        {
+          "Q": 44.24,
+          "V": 3.853
+        },
+        {
+          "Q": 44.85,
+          "V": 3.636
+        },
+        {
+          "Q": 45.6,
+          "V": 3.354
+        },
+        {
+          "Q": 46.39,
+          "V": 3.038
+        },
+        {
+          "Q": 47.17,
+          "V": 2.72
+        },
+        {
+          "Q": 47.86,
+          "V": 2.433
+        },
+        {
+          "Q": 48.39,
+          "V": 2.21
+        },
+        {
+          "Q": 48.69,
+          "V": 2.083
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо. Верхний график 50 Гц (линейная шкала m³/min → м³/ч); подписи вдоль кривых сопоставлены визуально по порядку линий."
+  },
+  {
+    "Id": "8f97261a",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN501-MT-0.75kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 2,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 4.42,
+          "V": 10.957
+        },
+        {
+          "Q": 12.47,
+          "V": 8.002
+        },
+        {
+          "Q": 17.98,
+          "V": 5.81
+        },
+        {
+          "Q": 24.12,
+          "V": 3.358
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо. Верхний график 50 Гц (линейная шкала m³/min → м³/ч); подписи вдоль кривых сопоставлены визуально по порядку линий."
+  },
+  {
+    "Id": "523c2386",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN501T-MT-0.4kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 0,
+    "P2Kw": 0.4,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 2,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 2.95,
+          "V": 8.254
+        },
+        {
+          "Q": 12.19,
+          "V": 4.601
+        },
+        {
+          "Q": 18.25,
+          "V": 2.078
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо. Верхний график 50 Гц (линейная шкала m³/min → м³/ч); подписи вдоль кривых сопоставлены визуально по порядку линий."
+  },
+  {
+    "Id": "f81c7109",
+    "Manufacturer": "ShinMaywa",
+    "Series": "CN-MT",
+    "Model": "CN401T-MT-0.25kW",
+    "Country": "Япония",
+    "Application": "канализационный погружной (шламовый)",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.25,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 2,
+    "Voltage": "3~ 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.79,
+          "V": 7.412
+        },
+        {
+          "Q": 1.98,
+          "V": 7.319
+        },
+        {
+          "Q": 2.5,
+          "V": 7.074
+        },
+        {
+          "Q": 3.22,
+          "V": 6.732
+        },
+        {
+          "Q": 4.04,
+          "V": 6.344
+        },
+        {
+          "Q": 4.83,
+          "V": 5.966
+        },
+        {
+          "Q": 5.49,
+          "V": 5.65
+        },
+        {
+          "Q": 5.9,
+          "V": 5.45
+        },
+        {
+          "Q": 6.05,
+          "V": 5.371
+        },
+        {
+          "Q": 6.43,
+          "V": 5.178
+        },
+        {
+          "Q": 7.04,
+          "V": 4.874
+        },
+        {
+          "Q": 7.78,
+          "V": 4.511
+        },
+        {
+          "Q": 8.53,
+          "V": 4.14
+        },
+        {
+          "Q": 9.2,
+          "V": 3.812
+        },
+        {
+          "Q": 9.67,
+          "V": 3.577
+        },
+        {
+          "Q": 9.85,
+          "V": 3.487
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ShinMaywa «Submersible sludge pump CN/CN-MT/CNH・CNL series» (каталог, 03.2021; копия дистрибьютора chainaris.co.th), стр. 5, Performance Curves 50 Hz",
+      "Url": "https://chainaris.co.th/sites/5086/files/u/products/Shinmaywa/Sub_CN_CN-MT_CNH_CNL.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Канальное колесо. Верхний график 50 Гц (линейная шкала m³/min → м³/ч); подписи вдоль кривых сопоставлены визуально по порядку линий."
   }
 ]

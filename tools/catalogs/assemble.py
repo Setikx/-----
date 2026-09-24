@@ -1,6 +1,6 @@
 import json,glob,os,csv,collections,numpy as np
 from common import despike
-BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa','liancheng','sempa','standart']
+BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa','liancheng','sempa','standart','shinmaywa']
 allr=[];log=collections.defaultdict(list);ids=set()
 for b in BR:
     R=json.load(open(f'out/{b}.json')); keep=[]

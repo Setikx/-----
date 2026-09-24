@@ -1,0 +1,375 @@
+[
+  {
+    "Id": "bae85f8b",
+    "Manufacturer": "Grundfos",
+    "Series": "SEG",
+    "Model": "SEG.40.09.2.50B",
+    "Country": "Дания",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 40,
+    "FreePassageMm": 0,
+    "P2Kw": 0.9,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0,
+          "V": 14.6
+        },
+        {
+          "Q": 1.35,
+          "V": 13.63
+        },
+        {
+          "Q": 2.54,
+          "V": 12.78
+        },
+        {
+          "Q": 3.9,
+          "V": 11.77
+        },
+        {
+          "Q": 5.06,
+          "V": 10.9
+        },
+        {
+          "Q": 6.39,
+          "V": 9.87
+        },
+        {
+          "Q": 7.71,
+          "V": 8.82
+        },
+        {
+          "Q": 8.83,
+          "V": 7.93
+        },
+        {
+          "Q": 10.12,
+          "V": 6.84
+        },
+        {
+          "Q": 11.41,
+          "V": 5.78
+        },
+        {
+          "Q": 12.49,
+          "V": 4.83
+        },
+        {
+          "Q": 13.76,
+          "V": 3.72
+        },
+        {
+          "Q": 14.82,
+          "V": 2.77
+        },
+        {
+          "Q": 15.97,
+          "V": 1.72
+        }
+      ],
+      "QP": [
+        {
+          "Q": 0,
+          "V": 0.53
+        },
+        {
+          "Q": 1.19,
+          "V": 0.56
+        },
+        {
+          "Q": 2.39,
+          "V": 0.59
+        },
+        {
+          "Q": 3.62,
+          "V": 0.61
+        },
+        {
+          "Q": 4.83,
+          "V": 0.64
+        },
+        {
+          "Q": 6.03,
+          "V": 0.67
+        },
+        {
+          "Q": 7.26,
+          "V": 0.7
+        },
+        {
+          "Q": 8.7,
+          "V": 0.73
+        },
+        {
+          "Q": 9.93,
+          "V": 0.76
+        },
+        {
+          "Q": 11.14,
+          "V": 0.79
+        },
+        {
+          "Q": 12.35,
+          "V": 0.81
+        },
+        {
+          "Q": 13.57,
+          "V": 0.84
+        },
+        {
+          "Q": 14.78,
+          "V": 0.87
+        },
+        {
+          "Q": 15.97,
+          "V": 0.89
+        }
+      ],
+      "QEta": [
+        {
+          "Q": 0,
+          "V": 0.2
+        },
+        {
+          "Q": 0.6,
+          "V": 4.5
+        },
+        {
+          "Q": 1.4,
+          "V": 9.3
+        },
+        {
+          "Q": 2.1,
+          "V": 13.5
+        },
+        {
+          "Q": 3,
+          "V": 17.6
+        },
+        {
+          "Q": 4.2,
+          "V": 21.9
+        },
+        {
+          "Q": 5.6,
+          "V": 24.6
+        },
+        {
+          "Q": 7.5,
+          "V": 26.1
+        },
+        {
+          "Q": 9.4,
+          "V": 25.5
+        },
+        {
+          "Q": 11.3,
+          "V": 22.9
+        },
+        {
+          "Q": 12.8,
+          "V": 19.7
+        },
+        {
+          "Q": 13.9,
+          "V": 16.3
+        },
+        {
+          "Q": 15.1,
+          "V": 11.9
+        },
+        {
+          "Q": 16,
+          "V": 8.4
+        }
+      ],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Grundfos data booklet «SEG and SEG AUTOADAPT 0.9–4.0 kW 50 Hz» — оцифровка векторных кривых QH/P2/η (стр. 32)",
+      "Url": "https://www.grundfos.com",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Измельчитель. Кривые QH, P2, η — с паспортного графика буклета (векторная оцифровка)."
+  },
+  {
+    "Id": "0bea45ee",
+    "Manufacturer": "Pedrollo",
+    "Series": "VXC",
+    "Model": "VXC 15/50",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 50,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0,
+          "V": 12
+        },
+        {
+          "Q": 6,
+          "V": 11
+        },
+        {
+          "Q": 12,
+          "V": 9.9
+        },
+        {
+          "Q": 18,
+          "V": 8.6
+        },
+        {
+          "Q": 24,
+          "V": 7
+        },
+        {
+          "Q": 30,
+          "V": 5
+        },
+        {
+          "Q": 36,
+          "V": 2.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Каталог Pedrollo 50 Hz: VXC-50-65_EN_50Hz.pdf (2024), VXC_50-70_EN_50Hz3.pdf, TRITUS_EN-datasheet_50Hz.pdf, BC_EN-datasheet_50Hz.pdf",
+      "Url": "https://www.pedrollo.com",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": ""
+  },
+  {
+    "Id": "310ce8b6",
+    "Manufacturer": "Wilo",
+    "Series": "Rexa CUT",
+    "Model": "Rexa CUT GE03.20",
+    "Country": "Германия",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 32,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 10,
+    "NominalH": 12,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0,
+          "V": 20
+        },
+        {
+          "Q": 1.542,
+          "V": 19.24
+        },
+        {
+          "Q": 3.083,
+          "V": 18.253
+        },
+        {
+          "Q": 4.625,
+          "V": 17.158
+        },
+        {
+          "Q": 6.167,
+          "V": 15.986
+        },
+        {
+          "Q": 7.708,
+          "V": 14.754
+        },
+        {
+          "Q": 9.25,
+          "V": 13.471
+        },
+        {
+          "Q": 10.792,
+          "V": 12.144
+        },
+        {
+          "Q": 12.333,
+          "V": 10.779
+        },
+        {
+          "Q": 13.875,
+          "V": 9.379
+        },
+        {
+          "Q": 15.417,
+          "V": 7.948
+        },
+        {
+          "Q": 16.958,
+          "V": 6.487
+        },
+        {
+          "Q": 18.5,
+          "V": 5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Wilo-Rexa CUT: описание серии (Wilo-Rexa-CUT.pdf, Ed. 2018): Qmax, Hmax, Qopt, Hopt, P2",
+      "Url": "https://wilo.com",
+      "Date": "2026-09",
+      "Quality": "CatalogNominal"
+    },
+    "Notes": "GE — наружный, GI — внутренний режущий механизм. Кривая восстановлена по Hmax/Qmax/Qopt/Hopt"
+  }
+]

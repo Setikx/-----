@@ -185,3 +185,33 @@ def merge_chains(chs, tol=1.6, gap=14.0):
                     chs[i]=sorted(a+b); chs.pop(j); changed=True; break
             if changed: break
     return chs
+def find_frames(page, is_grid, min_lines=4, min_size=60):
+    """Находит прямоугольные сетки графиков на странице (по группам горизонтальных линий одинаковой длины)."""
+    from collections import defaultdict
+    H=[];V=[]
+    for g in page.get_drawings():
+        if not is_grid(g): continue
+        for it in g['items']:
+            if it[0]=='l':
+                a,b=it[1],it[2]
+                if abs(a.y-b.y)<0.3 and abs(a.x-b.x)>min_size*0.5: H.append((min(a.x,b.x),max(a.x,b.x),a.y))
+                elif abs(a.x-b.x)<0.3 and abs(a.y-b.y)>min_size*0.3: V.append((min(a.y,b.y),max(a.y,b.y),a.x))
+            elif it[0]=='re':
+                r=it[1]; H+= [(r.x0,r.x1,r.y0),(r.x0,r.x1,r.y1)]; V+=[(r.y0,r.y1,r.x0),(r.y0,r.y1,r.x1)]
+    grp=defaultdict(list)
+    for h in H: grp[(round(h[0]/2),round(h[1]/2))].append(h)
+    rects=[]
+    for k,hs in grp.items():
+        if len(hs)<min_lines: continue
+        x0=min(h[0] for h in hs); x1=max(h[1] for h in hs)
+        ys=sorted(h[2] for h in hs)
+        # разбить по вертикальным разрывам (несколько графиков в столбце)
+        seg=[[ys[0]]]
+        for y in ys[1:]:
+            if y-seg[-1][-1]>60: seg.append([y])
+            else: seg[-1].append(y)
+        for s in seg:
+            if len(s)<min_lines or s[-1]-s[0]<min_size*0.5: continue
+            r=pymupdf.Rect(x0,s[0],x1,s[-1])
+            if r.width>=min_size and not any(abs(r.x0-q.x0)<3 and abs(r.y0-q.y0)<3 for q in rects): rects.append(r)
+    return rects

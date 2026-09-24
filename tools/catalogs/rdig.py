@@ -55,17 +55,85 @@ def col_clusters(m, x, y0, y1, merge=2):
         cur.append(y)
     if cur: out.append(sum(cur)/len(cur))
     return out
-def track(C, x0, x1, xs, ys, max_gap=25, tol=3.0):
-    """C: dict x->clusters. Старт (xs,ys); идём вправо, выбирая ближайший кластер к экстраполяции."""
+def track(C, x0, x1, xs, ys, max_gap=25, tol=3.0, base=18):
+    """C: dict x->clusters. Старт (xs,ys); идём вправо, выбирая ближайший кластер к экстраполяции
+    (наклон и кривизна по последним ~base пикселям)."""
     pts=[(xs,ys)]
     for x in range(xs+1,x1+1):
         cands=C.get(x,[])
         lx,ly=pts[-1]
-        back=[p for p in pts if lx-p[0]>=4][-1:] 
-        slope=(ly-back[0][1])/(lx-back[0][0]) if back else 0
-        pred=ly+slope*(x-lx)
+        recent=[p for p in pts if lx-p[0]<=base]
+        if len(recent)>=6 and recent[-1][0]-recent[0][0]>=5:
+            a=np.array(recent,dtype=float)
+            deg=2 if len(recent)>=12 else 1
+            cf=np.polyfit(a[:,0]-lx,a[:,1],deg)
+            pred=float(np.polyval(cf,x-lx))
+        else:
+            back=[p for p in pts if lx-p[0]>=4][-1:]
+            slope=(ly-back[0][1])/(lx-back[0][0]) if back else 0
+            pred=ly+slope*(x-lx)
         if cands:
             c=min(cands,key=lambda c:abs(c-pred))
-            if abs(c-pred)<=tol+0.6*(x-lx): pts.append((x,c)); continue
+            if abs(c-pred)<=tol+0.3*(x-lx): pts.append((x,c)); continue
         if x-lx>max_gap: break
     return pts
+def track_lr(C, x0, x1, xs, ys, max_gap=25, tol=3.0):
+    """Трек в обе стороны от затравки."""
+    R=track(C,x0,x1,xs,ys,max_gap,tol)
+    Cm={(-x):v for x,v in C.items()}
+    Lr=track(Cm,-x1,-x0,-xs,ys,max_gap,tol)
+    L=[(-x,y) for x,y in Lr[1:]]
+    return sorted(L+R)
+def multi_tracks(C, x0, x1, fracs=(0.5,0.3,0.7,0.15,0.85), min_len=0.3, max_gap=30, tol=4):
+    tracks=[]
+    W=x1-x0
+    for f in fracs:
+        xs=int(x0+f*W)
+        # ближайший столбец с кластерами
+        for dx in range(0,15):
+            if C.get(xs+dx): xs=xs+dx; break
+        for c in C.get(xs,[]):
+            if any(abs(dict(t).get(xs,-999)-c)<4 for t in tracks): continue
+            tr=track_lr(C,x0,x1,xs,c,max_gap,tol)
+            if tr[-1][0]-tr[0][0]>=min_len*W:
+                # не дубликат ли
+                dt=dict(tr); dup=False
+                for t in tracks:
+                    d2=dict(t); common=[x for x in dt if x in d2]
+                    if len(common)>0.7*len(dt) and np.mean([abs(dt[x]-d2[x]) for x in common])<3: dup=True; break
+                if not dup: tracks.append(tr)
+    return tracks
+def untangle(tracks, w=25, close=3.5):
+    """На пересечениях двух треков меняет «хвосты» местами, если так сохраняется непрерывность наклона."""
+    T=[dict(t) for t in tracks]
+    def slope(d,xa,xb):
+        xs=[x for x in range(xa,xb+1) if x in d]
+        if len(xs)<4: return None
+        return np.polyfit(xs,[d[x] for x in xs],1)[0]
+    changed=True; guard=0
+    while changed and guard<20:
+        changed=False; guard+=1
+        for i in range(len(T)):
+            for j in range(i+1,len(T)):
+                A,B=T[i],T[j]
+                common=sorted(x for x in A if x in B)
+                xs=[x for x in common if abs(A[x]-B[x])<close]
+                # группы соседних x — отдельные пересечения
+                groups=[];cur=[]
+                for x in xs:
+                    if cur and x-cur[-1]>3: groups.append(cur);cur=[]
+                    cur.append(x)
+                if cur: groups.append(cur)
+                for g in groups:
+                    xc=g[len(g)//2]; a0=g[0]; a1=g[-1]
+                    sA=slope(A,a0-w,a0-1); sB=slope(B,a0-w,a0-1); sA2=slope(A,a1+1,a1+w); sB2=slope(B,a1+1,a1+w)
+                    if None in (sA,sB,sA2,sB2): continue
+                    if abs(sA-sB2)+abs(sB-sA2)+1e-6 < abs(sA-sA2)+abs(sB-sB2):
+                        tA={x:y for x,y in A.items() if x>xc}; tB={x:y for x,y in B.items() if x>xc}
+                        for x in tA: del A[x]
+                        for x in tB: del B[x]
+                        A.update(tB); B.update(tA); changed=True
+                        break
+                if changed: break
+            if changed: break
+    return [sorted(d.items()) for d in T]

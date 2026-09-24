@@ -210192,418 +210192,112 @@
     "Notes": "Рабочее колесо полуоткрытое (износостойкий высокохромистый сплав), патрубок под шланг. Кривые H, η насоса оцифрованы с векторного графика каталога (SDS611); кривая мощности в каталоге дана как P1 (потребляемая) и в QP не перенесена. Iном = 22 А."
   },
   {
-    "Id": "99511553",
+    "Id": "dd8f9402",
     "Manufacturer": "Aquastrong",
-    "Series": "SES (дренажный/канализационный)",
-    "Model": "SES050",
+    "Series": "WQ",
+    "Model": "50WQ20-45-7.5",
     "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Unknown",
-    "HasCutter": false,
-    "DnOut": 40,
-    "FreePassageMm": 0,
-    "P2Kw": 0.37,
-    "P1Kw": 0,
-    "Rpm": 3450,
-    "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
-    "InertiaKgM2": 0,
-    "ImpellerDmm": 0,
-    "TrimMin": 0.85,
-    "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
-    "NominalEta": 0,
-    "RangeQmin": 0,
-    "RangeQmax": 0,
-    "Curve": {
-      "QH": [
-        {
-          "Q": 0.0,
-          "V": 7.62
-        },
-        {
-          "Q": 8.517,
-          "V": 6.096
-        },
-        {
-          "Q": 11.546,
-          "V": 4.572
-        },
-        {
-          "Q": 14.195,
-          "V": 3.048
-        },
-        {
-          "Q": 14.498,
-          "V": 1.524
-        }
-      ],
-      "QP": [],
-      "QEta": [],
-      "QNpsh": []
-    },
-    "Source": {
-      "Document": "Aquastrong, инструкция SES050_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES050_manual.pdf",
-      "Date": "2026-09",
-      "Quality": "CatalogTable"
-    },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.5 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 5 А."
-  },
-  {
-    "Id": "fd219460",
-    "Manufacturer": "Aquastrong",
-    "Series": "SES (дренажный/канализационный)",
-    "Model": "SES050V",
-    "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Unknown",
-    "HasCutter": false,
-    "DnOut": 40,
-    "FreePassageMm": 0,
-    "P2Kw": 0.37,
-    "P1Kw": 0,
-    "Rpm": 3450,
-    "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
-    "InertiaKgM2": 0,
-    "ImpellerDmm": 0,
-    "TrimMin": 0.85,
-    "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
-    "NominalEta": 0,
-    "RangeQmin": 0,
-    "RangeQmax": 0,
-    "Curve": {
-      "QH": [
-        {
-          "Q": 0.0,
-          "V": 7.62
-        },
-        {
-          "Q": 8.517,
-          "V": 6.096
-        },
-        {
-          "Q": 11.546,
-          "V": 4.572
-        },
-        {
-          "Q": 14.195,
-          "V": 3.048
-        },
-        {
-          "Q": 14.498,
-          "V": 1.524
-        }
-      ],
-      "QP": [],
-      "QEta": [],
-      "QNpsh": []
-    },
-    "Source": {
-      "Document": "Aquastrong, инструкция SES050V_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES050V_manual.pdf",
-      "Date": "2026-09",
-      "Quality": "CatalogTable"
-    },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.5 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 5 А. Вертикальный поплавок."
-  },
-  {
-    "Id": "f03a385f",
-    "Manufacturer": "Aquastrong",
-    "Series": "SES (дренажный/канализационный)",
-    "Model": "SES050P",
-    "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Unknown",
-    "HasCutter": false,
-    "DnOut": 40,
-    "FreePassageMm": 0,
-    "P2Kw": 0.37,
-    "P1Kw": 0,
-    "Rpm": 3450,
-    "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
-    "InertiaKgM2": 0,
-    "ImpellerDmm": 0,
-    "TrimMin": 0.85,
-    "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
-    "NominalEta": 0,
-    "RangeQmin": 0,
-    "RangeQmax": 0,
-    "Curve": {
-      "QH": [
-        {
-          "Q": 0.0,
-          "V": 7.62
-        },
-        {
-          "Q": 8.555,
-          "V": 6.096
-        },
-        {
-          "Q": 10.788,
-          "V": 4.572
-        },
-        {
-          "Q": 12.113,
-          "V": 3.048
-        },
-        {
-          "Q": 13.06,
-          "V": 1.524
-        }
-      ],
-      "QP": [],
-      "QEta": [],
-      "QNpsh": []
-    },
-    "Source": {
-      "Document": "Aquastrong, инструкция SES050P_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES050P_manual.pdf",
-      "Date": "2026-09",
-      "Quality": "CatalogTable"
-    },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.5 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 5 А. Корпус нерж. сталь/термопласт."
-  },
-  {
-    "Id": "42ecade9",
-    "Manufacturer": "Aquastrong",
-    "Series": "SES (дренажный/канализационный)",
-    "Model": "SES075",
-    "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Unknown",
-    "HasCutter": false,
-    "DnOut": 40,
-    "FreePassageMm": 0,
-    "P2Kw": 0.55,
-    "P1Kw": 0,
-    "Rpm": 3450,
-    "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
-    "InertiaKgM2": 0,
-    "ImpellerDmm": 0,
-    "TrimMin": 0.85,
-    "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
-    "NominalEta": 0,
-    "RangeQmin": 0,
-    "RangeQmax": 0,
-    "Curve": {
-      "QH": [
-        {
-          "Q": 0.0,
-          "V": 9.144
-        },
-        {
-          "Q": 13.06,
-          "V": 6.096
-        },
-        {
-          "Q": 15.142,
-          "V": 4.572
-        },
-        {
-          "Q": 16.504,
-          "V": 3.048
-        },
-        {
-          "Q": 18.511,
-          "V": 1.524
-        }
-      ],
-      "QP": [],
-      "QEta": [],
-      "QNpsh": []
-    },
-    "Source": {
-      "Document": "Aquastrong, инструкция SES075_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES075_manual.pdf",
-      "Date": "2026-09",
-      "Quality": "CatalogTable"
-    },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.75 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 7 А."
-  },
-  {
-    "Id": "630c32eb",
-    "Manufacturer": "Aquastrong",
-    "Series": "SES (дренажный/канализационный)",
-    "Model": "SES075V",
-    "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Unknown",
-    "HasCutter": false,
-    "DnOut": 40,
-    "FreePassageMm": 0,
-    "P2Kw": 0.55,
-    "P1Kw": 0,
-    "Rpm": 3450,
-    "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
-    "InertiaKgM2": 0,
-    "ImpellerDmm": 0,
-    "TrimMin": 0.85,
-    "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
-    "NominalEta": 0,
-    "RangeQmin": 0,
-    "RangeQmax": 0,
-    "Curve": {
-      "QH": [
-        {
-          "Q": 0.0,
-          "V": 9.144
-        },
-        {
-          "Q": 13.06,
-          "V": 6.096
-        },
-        {
-          "Q": 15.142,
-          "V": 4.572
-        },
-        {
-          "Q": 16.504,
-          "V": 3.048
-        },
-        {
-          "Q": 18.511,
-          "V": 1.524
-        }
-      ],
-      "QP": [],
-      "QEta": [],
-      "QNpsh": []
-    },
-    "Source": {
-      "Document": "Aquastrong, инструкция SES075V_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES075V_manual.pdf",
-      "Date": "2026-09",
-      "Quality": "CatalogTable"
-    },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.75 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 7 А. Вертикальный поплавок."
-  },
-  {
-    "Id": "494d8345",
-    "Manufacturer": "Aquastrong",
-    "Series": "SES (дренажный/канализационный)",
-    "Model": "SES075P",
-    "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Unknown",
-    "HasCutter": false,
-    "DnOut": 40,
-    "FreePassageMm": 0,
-    "P2Kw": 0.55,
-    "P1Kw": 0,
-    "Rpm": 3450,
-    "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
-    "InertiaKgM2": 0,
-    "ImpellerDmm": 0,
-    "TrimMin": 0.85,
-    "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
-    "NominalEta": 0,
-    "RangeQmin": 0,
-    "RangeQmax": 0,
-    "Curve": {
-      "QH": [
-        {
-          "Q": 0.0,
-          "V": 9.144
-        },
-        {
-          "Q": 13.552,
-          "V": 6.096
-        },
-        {
-          "Q": 15.104,
-          "V": 4.572
-        },
-        {
-          "Q": 15.52,
-          "V": 3.048
-        },
-        {
-          "Q": 15.899,
-          "V": 1.524
-        }
-      ],
-      "QP": [],
-      "QEta": [],
-      "QNpsh": []
-    },
-    "Source": {
-      "Document": "Aquastrong, инструкция SES075P_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SES075P_manual.pdf",
-      "Date": "2026-09",
-      "Quality": "CatalogTable"
-    },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 0.75 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Iном 7 А. В инструкции при 20 ft напечатано «35800» — принято 3580 GPH (опечатка)."
-  },
-  {
-    "Id": "a6a1eb0b",
-    "Manufacturer": "Aquastrong",
-    "Series": "SWG",
-    "Model": "SWG075A",
-    "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
+    "Application": "канализационный погружной",
     "Impeller": "Unknown",
     "HasCutter": false,
     "DnOut": 50,
-    "FreePassageMm": 0,
-    "P2Kw": 0.75,
+    "FreePassageMm": 25.0,
+    "P2Kw": 7.5,
     "P1Kw": 0,
-    "Rpm": 3450,
+    "Rpm": 2850,
     "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
-    "WeightKg": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 114.0,
     "InertiaKgM2": 0,
     "ImpellerDmm": 0,
     "TrimMin": 0.85,
     "SpeedMin": 0.6,
-    "NominalQ": 0,
-    "NominalH": 0,
+    "NominalQ": 20.0,
+    "NominalH": 45.0,
     "NominalEta": 0,
     "RangeQmin": 0,
     "RangeQmax": 0,
     "Curve": {
       "QH": [
         {
-          "Q": 0.0,
-          "V": 17.069
+          "Q": 3.07,
+          "V": 49.551
         },
         {
-          "Q": 8.744,
-          "V": 9.144
+          "Q": 5.95,
+          "V": 48.865
         },
         {
-          "Q": 11.837,
-          "V": 6.096
+          "Q": 8.68,
+          "V": 48.023
         },
         {
-          "Q": 15.948,
-          "V": 3.048
+          "Q": 11.32,
+          "V": 47.127
         },
         {
-          "Q": 19.828,
-          "V": 1.524
+          "Q": 13.98,
+          "V": 46.254
+        },
+        {
+          "Q": 16.57,
+          "V": 45.477
+        },
+        {
+          "Q": 19.07,
+          "V": 44.524
+        },
+        {
+          "Q": 21.52,
+          "V": 43.588
+        },
+        {
+          "Q": 23.94,
+          "V": 42.632
+        },
+        {
+          "Q": 26.54,
+          "V": 41.705
+        },
+        {
+          "Q": 29.13,
+          "V": 40.763
+        },
+        {
+          "Q": 31.49,
+          "V": 39.727
+        },
+        {
+          "Q": 33.78,
+          "V": 38.678
+        },
+        {
+          "Q": 36.06,
+          "V": 37.637
+        },
+        {
+          "Q": 38.64,
+          "V": 36.702
+        },
+        {
+          "Q": 40.56,
+          "V": 35.53
+        },
+        {
+          "Q": 42.8,
+          "V": 34.485
+        },
+        {
+          "Q": 44.92,
+          "V": 33.408
+        },
+        {
+          "Q": 46.99,
+          "V": 32.301
+        },
+        {
+          "Q": 48.63,
+          "V": 31.066
         }
       ],
       "QP": [],
@@ -210611,29 +210305,6277 @@
       "QNpsh": []
     },
     "Source": {
-      "Document": "Aquastrong, инструкция SWG075CA_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SWG075CA_manual.pdf",
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
       "Date": "2026-09",
       "Quality": "CatalogTable"
     },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 1.0 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Max. head 56 ft — по описанию товара на aquastrong.co."
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=20 м³/ч по кривой H=44.3 м (номинал 45 м, -2 %). Таблица: Qmax=37 м³/ч, Hmax=52 м."
   },
   {
-    "Id": "6de4cb99",
+    "Id": "d3dba5c6",
     "Manufacturer": "Aquastrong",
-    "Series": "SWG (с режущим механизмом)",
-    "Model": "SWG075CA",
+    "Series": "WQ",
+    "Model": "50WQ15-40-5.5",
     "Country": "Китай",
-    "Application": "дренажный/канализационный погружной (бытовой)",
-    "Impeller": "Grinder",
-    "HasCutter": true,
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
     "DnOut": 50,
-    "FreePassageMm": 0,
+    "FreePassageMm": 25.0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 73.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 40.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 43.15
+        },
+        {
+          "Q": 4.17,
+          "V": 42.571
+        },
+        {
+          "Q": 7.33,
+          "V": 41.93
+        },
+        {
+          "Q": 10.37,
+          "V": 41.224
+        },
+        {
+          "Q": 13.05,
+          "V": 40.366
+        },
+        {
+          "Q": 15.83,
+          "V": 39.636
+        },
+        {
+          "Q": 18.55,
+          "V": 38.82
+        },
+        {
+          "Q": 21.32,
+          "V": 37.955
+        },
+        {
+          "Q": 23.93,
+          "V": 37.04
+        },
+        {
+          "Q": 26.43,
+          "V": 36.08
+        },
+        {
+          "Q": 28.95,
+          "V": 35.149
+        },
+        {
+          "Q": 31.12,
+          "V": 34.295
+        },
+        {
+          "Q": 33.35,
+          "V": 33.27
+        },
+        {
+          "Q": 35.86,
+          "V": 32.364
+        },
+        {
+          "Q": 37.95,
+          "V": 31.276
+        },
+        {
+          "Q": 40.05,
+          "V": 30.243
+        },
+        {
+          "Q": 42.41,
+          "V": 29.34
+        },
+        {
+          "Q": 44.22,
+          "V": 28.193
+        },
+        {
+          "Q": 46.23,
+          "V": 27.098
+        },
+        {
+          "Q": 48.28,
+          "V": 26.001
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=39.9 м (номинал 40 м, -0 %). Таблица: Qmax=52 м³/ч, Hmax=42 м."
+  },
+  {
+    "Id": "13f3ff3a",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQ15-26-3",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 25.0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 49.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 26.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 29.153
+        },
+        {
+          "Q": 3.48,
+          "V": 28.478
+        },
+        {
+          "Q": 6.2,
+          "V": 27.869
+        },
+        {
+          "Q": 8.72,
+          "V": 27.203
+        },
+        {
+          "Q": 11.24,
+          "V": 26.574
+        },
+        {
+          "Q": 13.84,
+          "V": 25.91
+        },
+        {
+          "Q": 16.2,
+          "V": 25.194
+        },
+        {
+          "Q": 18.54,
+          "V": 24.44
+        },
+        {
+          "Q": 21.05,
+          "V": 23.744
+        },
+        {
+          "Q": 23.63,
+          "V": 23.076
+        },
+        {
+          "Q": 25.9,
+          "V": 22.313
+        },
+        {
+          "Q": 28.22,
+          "V": 21.591
+        },
+        {
+          "Q": 30.57,
+          "V": 20.85
+        },
+        {
+          "Q": 32.85,
+          "V": 20.083
+        },
+        {
+          "Q": 35.29,
+          "V": 19.362
+        },
+        {
+          "Q": 37.39,
+          "V": 18.547
+        },
+        {
+          "Q": 39.58,
+          "V": 17.741
+        },
+        {
+          "Q": 41.73,
+          "V": 16.932
+        },
+        {
+          "Q": 43.96,
+          "V": 16.134
+        },
+        {
+          "Q": 46.11,
+          "V": 15.375
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=25.4 м (номинал 26 м, -2 %). Таблица: Qmax=46 м³/ч, Hmax=28 м."
+  },
+  {
+    "Id": "9ae641ff",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQ15-20-2.2",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 25.0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 44.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 20.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.211
+        },
+        {
+          "Q": 3.42,
+          "V": 22.809
+        },
+        {
+          "Q": 5.6,
+          "V": 22.233
+        },
+        {
+          "Q": 7.9,
+          "V": 21.708
+        },
+        {
+          "Q": 10.05,
+          "V": 21.111
+        },
+        {
+          "Q": 12.24,
+          "V": 20.526
+        },
+        {
+          "Q": 14.22,
+          "V": 19.857
+        },
+        {
+          "Q": 16.26,
+          "V": 19.212
+        },
+        {
+          "Q": 18.27,
+          "V": 18.554
+        },
+        {
+          "Q": 20.19,
+          "V": 17.866
+        },
+        {
+          "Q": 22.01,
+          "V": 17.147
+        },
+        {
+          "Q": 23.97,
+          "V": 16.48
+        },
+        {
+          "Q": 25.72,
+          "V": 15.784
+        },
+        {
+          "Q": 27.13,
+          "V": 14.979
+        },
+        {
+          "Q": 28.97,
+          "V": 14.283
+        },
+        {
+          "Q": 30.53,
+          "V": 13.508
+        },
+        {
+          "Q": 32.35,
+          "V": 12.79
+        },
+        {
+          "Q": 33.88,
+          "V": 12.004
+        },
+        {
+          "Q": 35.37,
+          "V": 11.203
+        },
+        {
+          "Q": 37.43,
+          "V": 10.654
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=19.6 м (номинал 20 м, -2 %). Таблица: Qmax=40 м³/ч, Hmax=22 м."
+  },
+  {
+    "Id": "e05fcd01",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQ8-20-1.5",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 20.0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 25.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 8.0,
+    "NominalH": 20.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.88,
+          "V": 21.507
+        },
+        {
+          "Q": 2.92,
+          "V": 21.294
+        },
+        {
+          "Q": 4.87,
+          "V": 20.851
+        },
+        {
+          "Q": 6.73,
+          "V": 20.311
+        },
+        {
+          "Q": 8.56,
+          "V": 19.795
+        },
+        {
+          "Q": 10.37,
+          "V": 19.172
+        },
+        {
+          "Q": 12.23,
+          "V": 18.595
+        },
+        {
+          "Q": 13.86,
+          "V": 17.812
+        },
+        {
+          "Q": 15.46,
+          "V": 17.032
+        },
+        {
+          "Q": 17.01,
+          "V": 16.217
+        },
+        {
+          "Q": 18.55,
+          "V": 15.4
+        },
+        {
+          "Q": 19.93,
+          "V": 14.459
+        },
+        {
+          "Q": 21.26,
+          "V": 13.487
+        },
+        {
+          "Q": 22.56,
+          "V": 12.507
+        },
+        {
+          "Q": 23.59,
+          "V": 11.418
+        },
+        {
+          "Q": 24.31,
+          "V": 10.237
+        },
+        {
+          "Q": 25.11,
+          "V": 9.117
+        },
+        {
+          "Q": 25.83,
+          "V": 7.94
+        },
+        {
+          "Q": 26.6,
+          "V": 6.775
+        },
+        {
+          "Q": 27.38,
+          "V": 5.609
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=8 м³/ч по кривой H=20.0 м (номинал 20 м, +0 %). Таблица: Qmax=25 м³/ч, Hmax=22 м."
+  },
+  {
+    "Id": "f5d977e0",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQD8-20-1.5(F)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 20.0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 26.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 8.0,
+    "NominalH": 20.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.88,
+          "V": 21.507
+        },
+        {
+          "Q": 2.92,
+          "V": 21.294
+        },
+        {
+          "Q": 4.87,
+          "V": 20.851
+        },
+        {
+          "Q": 6.73,
+          "V": 20.311
+        },
+        {
+          "Q": 8.56,
+          "V": 19.795
+        },
+        {
+          "Q": 10.37,
+          "V": 19.172
+        },
+        {
+          "Q": 12.23,
+          "V": 18.595
+        },
+        {
+          "Q": 13.86,
+          "V": 17.812
+        },
+        {
+          "Q": 15.46,
+          "V": 17.032
+        },
+        {
+          "Q": 17.01,
+          "V": 16.217
+        },
+        {
+          "Q": 18.55,
+          "V": 15.4
+        },
+        {
+          "Q": 19.93,
+          "V": 14.459
+        },
+        {
+          "Q": 21.26,
+          "V": 13.487
+        },
+        {
+          "Q": 22.56,
+          "V": 12.507
+        },
+        {
+          "Q": 23.59,
+          "V": 11.418
+        },
+        {
+          "Q": 24.31,
+          "V": 10.237
+        },
+        {
+          "Q": 25.11,
+          "V": 9.117
+        },
+        {
+          "Q": 25.83,
+          "V": 7.94
+        },
+        {
+          "Q": 26.6,
+          "V": 6.775
+        },
+        {
+          "Q": 27.38,
+          "V": 5.609
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=8 м³/ч по кривой H=20.0 м (номинал 20 м, +0 %). Таблица: Qmax=25 м³/ч, Hmax=22 м. Однофазное исполнение; кривая общая с трёхфазным (одна линия на графике)."
+  },
+  {
+    "Id": "510cdb68",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQ8-16-1.1",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 20.0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 24.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 8.0,
+    "NominalH": 16.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.94,
+          "V": 19.119
+        },
+        {
+          "Q": 2.73,
+          "V": 18.749
+        },
+        {
+          "Q": 4.55,
+          "V": 18.437
+        },
+        {
+          "Q": 6.25,
+          "V": 17.974
+        },
+        {
+          "Q": 7.95,
+          "V": 17.491
+        },
+        {
+          "Q": 9.61,
+          "V": 17.014
+        },
+        {
+          "Q": 11.15,
+          "V": 16.391
+        },
+        {
+          "Q": 12.73,
+          "V": 15.824
+        },
+        {
+          "Q": 14.22,
+          "V": 15.18
+        },
+        {
+          "Q": 15.79,
+          "V": 14.612
+        },
+        {
+          "Q": 16.87,
+          "V": 13.745
+        },
+        {
+          "Q": 18.11,
+          "V": 12.949
+        },
+        {
+          "Q": 19.35,
+          "V": 12.151
+        },
+        {
+          "Q": 20.46,
+          "V": 11.293
+        },
+        {
+          "Q": 21.4,
+          "V": 10.391
+        },
+        {
+          "Q": 22.35,
+          "V": 9.486
+        },
+        {
+          "Q": 23.34,
+          "V": 8.589
+        },
+        {
+          "Q": 24.08,
+          "V": 7.62
+        },
+        {
+          "Q": 24.66,
+          "V": 6.624
+        },
+        {
+          "Q": 25.44,
+          "V": 5.666
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=8 м³/ч по кривой H=17.5 м (номинал 16 м, +9 %). Таблица: Qmax=29 м³/ч, Hmax=18 м."
+  },
+  {
+    "Id": "6029e30d",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQD8-16-1.1(F)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 20.0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 25.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 8.0,
+    "NominalH": 16.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.94,
+          "V": 19.119
+        },
+        {
+          "Q": 2.73,
+          "V": 18.749
+        },
+        {
+          "Q": 4.55,
+          "V": 18.437
+        },
+        {
+          "Q": 6.25,
+          "V": 17.974
+        },
+        {
+          "Q": 7.95,
+          "V": 17.491
+        },
+        {
+          "Q": 9.61,
+          "V": 17.014
+        },
+        {
+          "Q": 11.15,
+          "V": 16.391
+        },
+        {
+          "Q": 12.73,
+          "V": 15.824
+        },
+        {
+          "Q": 14.22,
+          "V": 15.18
+        },
+        {
+          "Q": 15.79,
+          "V": 14.612
+        },
+        {
+          "Q": 16.87,
+          "V": 13.745
+        },
+        {
+          "Q": 18.11,
+          "V": 12.949
+        },
+        {
+          "Q": 19.35,
+          "V": 12.151
+        },
+        {
+          "Q": 20.46,
+          "V": 11.293
+        },
+        {
+          "Q": 21.4,
+          "V": 10.391
+        },
+        {
+          "Q": 22.35,
+          "V": 9.486
+        },
+        {
+          "Q": 23.34,
+          "V": 8.589
+        },
+        {
+          "Q": 24.08,
+          "V": 7.62
+        },
+        {
+          "Q": 24.66,
+          "V": 6.624
+        },
+        {
+          "Q": 25.44,
+          "V": 5.666
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=8 м³/ч по кривой H=17.5 м (номинал 16 м, +9 %). Таблица: Qmax=29 м³/ч, Hmax=18 м. Однофазное исполнение; кривая общая с трёхфазным (одна линия на графике)."
+  },
+  {
+    "Id": "90b65ecf",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQ10-10-0.75",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 25.0,
     "P2Kw": 0.75,
     "P1Kw": 0,
-    "Rpm": 3450,
+    "Rpm": 2850,
     "Poles": 2,
-    "Voltage": "1~115 В 60 Гц",
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 18.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 10.0,
+    "NominalH": 10.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.89,
+          "V": 12.732
+        },
+        {
+          "Q": 2.82,
+          "V": 12.707
+        },
+        {
+          "Q": 3.91,
+          "V": 12.245
+        },
+        {
+          "Q": 5.64,
+          "V": 11.996
+        },
+        {
+          "Q": 6.91,
+          "V": 11.562
+        },
+        {
+          "Q": 8.36,
+          "V": 11.171
+        },
+        {
+          "Q": 9.81,
+          "V": 10.784
+        },
+        {
+          "Q": 11.36,
+          "V": 10.434
+        },
+        {
+          "Q": 12.77,
+          "V": 10.059
+        },
+        {
+          "Q": 14.13,
+          "V": 9.738
+        },
+        {
+          "Q": 15.48,
+          "V": 9.33
+        },
+        {
+          "Q": 16.79,
+          "V": 8.926
+        },
+        {
+          "Q": 18.15,
+          "V": 8.527
+        },
+        {
+          "Q": 19.45,
+          "V": 8.115
+        },
+        {
+          "Q": 20.92,
+          "V": 7.771
+        },
+        {
+          "Q": 22.27,
+          "V": 7.359
+        },
+        {
+          "Q": 23.97,
+          "V": 7.056
+        },
+        {
+          "Q": 25.07,
+          "V": 6.59
+        },
+        {
+          "Q": 26.01,
+          "V": 6.096
+        },
+        {
+          "Q": 27.24,
+          "V": 5.655
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=10 м³/ч по кривой H=10.7 м (номинал 10 м, +7 %). Таблица: Qmax=26 м³/ч, Hmax=12 м."
+  },
+  {
+    "Id": "0828ecf7",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "50WQD10-10-0.75(F)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 25.0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 19.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 10.0,
+    "NominalH": 10.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.89,
+          "V": 12.732
+        },
+        {
+          "Q": 2.82,
+          "V": 12.707
+        },
+        {
+          "Q": 3.91,
+          "V": 12.245
+        },
+        {
+          "Q": 5.64,
+          "V": 11.996
+        },
+        {
+          "Q": 6.91,
+          "V": 11.562
+        },
+        {
+          "Q": 8.36,
+          "V": 11.171
+        },
+        {
+          "Q": 9.81,
+          "V": 10.784
+        },
+        {
+          "Q": 11.36,
+          "V": 10.434
+        },
+        {
+          "Q": 12.77,
+          "V": 10.059
+        },
+        {
+          "Q": 14.13,
+          "V": 9.738
+        },
+        {
+          "Q": 15.48,
+          "V": 9.33
+        },
+        {
+          "Q": 16.79,
+          "V": 8.926
+        },
+        {
+          "Q": 18.15,
+          "V": 8.527
+        },
+        {
+          "Q": 19.45,
+          "V": 8.115
+        },
+        {
+          "Q": 20.92,
+          "V": 7.771
+        },
+        {
+          "Q": 22.27,
+          "V": 7.359
+        },
+        {
+          "Q": 23.97,
+          "V": 7.056
+        },
+        {
+          "Q": 25.07,
+          "V": 6.59
+        },
+        {
+          "Q": 26.01,
+          "V": 6.096
+        },
+        {
+          "Q": 27.24,
+          "V": 5.655
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=10 м³/ч по кривой H=10.7 м (номинал 10 м, +7 %). Таблица: Qmax=26 м³/ч, Hmax=12 м. Однофазное исполнение; кривая общая с трёхфазным (одна линия на графике)."
+  },
+  {
+    "Id": "eeb74b80",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQ25-28-4",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 25.0,
+    "P2Kw": 4.0,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 61.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 25.0,
+    "NominalH": 28.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 31.026
+        },
+        {
+          "Q": 4.6,
+          "V": 30.728
+        },
+        {
+          "Q": 8.08,
+          "V": 30.378
+        },
+        {
+          "Q": 11.57,
+          "V": 29.986
+        },
+        {
+          "Q": 14.65,
+          "V": 29.412
+        },
+        {
+          "Q": 17.72,
+          "V": 28.79
+        },
+        {
+          "Q": 20.84,
+          "V": 28.213
+        },
+        {
+          "Q": 23.01,
+          "V": 27.821
+        },
+        {
+          "Q": 25.74,
+          "V": 27.091
+        },
+        {
+          "Q": 28.25,
+          "V": 26.313
+        },
+        {
+          "Q": 30.67,
+          "V": 25.499
+        },
+        {
+          "Q": 33.05,
+          "V": 24.676
+        },
+        {
+          "Q": 35.39,
+          "V": 23.843
+        },
+        {
+          "Q": 37.58,
+          "V": 22.989
+        },
+        {
+          "Q": 39.78,
+          "V": 22.139
+        },
+        {
+          "Q": 41.68,
+          "V": 21.246
+        },
+        {
+          "Q": 43.63,
+          "V": 20.344
+        },
+        {
+          "Q": 45.84,
+          "V": 19.518
+        },
+        {
+          "Q": 47.71,
+          "V": 18.611
+        },
+        {
+          "Q": 49.65,
+          "V": 17.707
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=25 м³/ч по кривой H=27.3 м (номинал 28 м, -2 %). Таблица: Qmax=58 м³/ч, Hmax=33 м."
+  },
+  {
+    "Id": "581c8d93",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQ25-22-3",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 30.0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 52.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 25.0,
+    "NominalH": 22.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.383
+        },
+        {
+          "Q": 3.74,
+          "V": 26.71
+        },
+        {
+          "Q": 6.83,
+          "V": 26.063
+        },
+        {
+          "Q": 9.8,
+          "V": 25.336
+        },
+        {
+          "Q": 12.65,
+          "V": 24.569
+        },
+        {
+          "Q": 15.49,
+          "V": 23.766
+        },
+        {
+          "Q": 18.34,
+          "V": 22.97
+        },
+        {
+          "Q": 20.92,
+          "V": 22.112
+        },
+        {
+          "Q": 23.58,
+          "V": 21.279
+        },
+        {
+          "Q": 26.12,
+          "V": 20.385
+        },
+        {
+          "Q": 28.63,
+          "V": 19.476
+        },
+        {
+          "Q": 31.11,
+          "V": 18.632
+        },
+        {
+          "Q": 33.59,
+          "V": 17.714
+        },
+        {
+          "Q": 36.08,
+          "V": 16.808
+        },
+        {
+          "Q": 38.49,
+          "V": 15.869
+        },
+        {
+          "Q": 40.99,
+          "V": 15.008
+        },
+        {
+          "Q": 43.1,
+          "V": 13.999
+        },
+        {
+          "Q": 45.27,
+          "V": 12.991
+        },
+        {
+          "Q": 47.46,
+          "V": 11.996
+        },
+        {
+          "Q": 49.95,
+          "V": 11.084
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=25 м³/ч по кривой H=20.7 м (номинал 22 м, -6 %). Таблица: Qmax=52 м³/ч, Hmax=26 м."
+  },
+  {
+    "Id": "48f1aaeb",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQ25-17-2.2",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 25.0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 42.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 25.0,
+    "NominalH": 17.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.983
+        },
+        {
+          "Q": 3.29,
+          "V": 23.401
+        },
+        {
+          "Q": 5.52,
+          "V": 22.84
+        },
+        {
+          "Q": 7.68,
+          "V": 22.267
+        },
+        {
+          "Q": 9.91,
+          "V": 21.704
+        },
+        {
+          "Q": 11.95,
+          "V": 21.058
+        },
+        {
+          "Q": 14.16,
+          "V": 20.527
+        },
+        {
+          "Q": 16.06,
+          "V": 19.835
+        },
+        {
+          "Q": 18.17,
+          "V": 19.219
+        },
+        {
+          "Q": 20.27,
+          "V": 18.602
+        },
+        {
+          "Q": 22.15,
+          "V": 17.9
+        },
+        {
+          "Q": 24.16,
+          "V": 17.24
+        },
+        {
+          "Q": 26.16,
+          "V": 16.577
+        },
+        {
+          "Q": 27.8,
+          "V": 15.804
+        },
+        {
+          "Q": 29.51,
+          "V": 15.055
+        },
+        {
+          "Q": 31.24,
+          "V": 14.305
+        },
+        {
+          "Q": 32.88,
+          "V": 13.53
+        },
+        {
+          "Q": 34.61,
+          "V": 12.791
+        },
+        {
+          "Q": 36.27,
+          "V": 12.035
+        },
+        {
+          "Q": 37.81,
+          "V": 11.286
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=25 м³/ч по кривой H=16.9 м (номинал 17 м, -0 %). Таблица: Qmax=42 м³/ч, Hmax=22 м."
+  },
+  {
+    "Id": "3cee376d",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQ15-15-1.5",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 25.0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 26.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 15.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.831
+        },
+        {
+          "Q": 2.47,
+          "V": 19.376
+        },
+        {
+          "Q": 4.46,
+          "V": 18.921
+        },
+        {
+          "Q": 6.58,
+          "V": 18.502
+        },
+        {
+          "Q": 8.37,
+          "V": 17.941
+        },
+        {
+          "Q": 10.29,
+          "V": 17.415
+        },
+        {
+          "Q": 12.21,
+          "V": 16.954
+        },
+        {
+          "Q": 13.99,
+          "V": 16.392
+        },
+        {
+          "Q": 15.91,
+          "V": 15.885
+        },
+        {
+          "Q": 17.53,
+          "V": 15.269
+        },
+        {
+          "Q": 19.36,
+          "V": 14.713
+        },
+        {
+          "Q": 20.99,
+          "V": 14.115
+        },
+        {
+          "Q": 22.73,
+          "V": 13.549
+        },
+        {
+          "Q": 24.5,
+          "V": 13.0
+        },
+        {
+          "Q": 25.99,
+          "V": 12.353
+        },
+        {
+          "Q": 27.79,
+          "V": 11.79
+        },
+        {
+          "Q": 29.44,
+          "V": 11.192
+        },
+        {
+          "Q": 31.12,
+          "V": 10.596
+        },
+        {
+          "Q": 32.97,
+          "V": 10.059
+        },
+        {
+          "Q": 34.39,
+          "V": 9.415
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=16.0 м (номинал 15 м, +7 %). Таблица: Qmax=37 м³/ч, Hmax=20 м."
+  },
+  {
+    "Id": "faf4f419",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQD15-15-1.5(F)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 25.0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 26.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 15.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.831
+        },
+        {
+          "Q": 2.47,
+          "V": 19.376
+        },
+        {
+          "Q": 4.46,
+          "V": 18.921
+        },
+        {
+          "Q": 6.58,
+          "V": 18.502
+        },
+        {
+          "Q": 8.37,
+          "V": 17.941
+        },
+        {
+          "Q": 10.29,
+          "V": 17.415
+        },
+        {
+          "Q": 12.21,
+          "V": 16.954
+        },
+        {
+          "Q": 13.99,
+          "V": 16.392
+        },
+        {
+          "Q": 15.91,
+          "V": 15.885
+        },
+        {
+          "Q": 17.53,
+          "V": 15.269
+        },
+        {
+          "Q": 19.36,
+          "V": 14.713
+        },
+        {
+          "Q": 20.99,
+          "V": 14.115
+        },
+        {
+          "Q": 22.73,
+          "V": 13.549
+        },
+        {
+          "Q": 24.5,
+          "V": 13.0
+        },
+        {
+          "Q": 25.99,
+          "V": 12.353
+        },
+        {
+          "Q": 27.79,
+          "V": 11.79
+        },
+        {
+          "Q": 29.44,
+          "V": 11.192
+        },
+        {
+          "Q": 31.12,
+          "V": 10.596
+        },
+        {
+          "Q": 32.97,
+          "V": 10.059
+        },
+        {
+          "Q": 34.39,
+          "V": 9.415
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=16.0 м (номинал 15 м, +7 %). Таблица: Qmax=37 м³/ч, Hmax=20 м. Однофазное исполнение; кривая общая с трёхфазным (одна линия на графике)."
+  },
+  {
+    "Id": "27a535f2",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQ15-10-1.1",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 25.0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 23.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 10.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.98,
+          "V": 12.842
+        },
+        {
+          "Q": 2.88,
+          "V": 12.686
+        },
+        {
+          "Q": 4.46,
+          "V": 12.326
+        },
+        {
+          "Q": 6.04,
+          "V": 11.956
+        },
+        {
+          "Q": 7.72,
+          "V": 11.641
+        },
+        {
+          "Q": 9.35,
+          "V": 11.295
+        },
+        {
+          "Q": 11.03,
+          "V": 10.977
+        },
+        {
+          "Q": 12.66,
+          "V": 10.639
+        },
+        {
+          "Q": 14.35,
+          "V": 10.323
+        },
+        {
+          "Q": 15.8,
+          "V": 9.92
+        },
+        {
+          "Q": 17.14,
+          "V": 9.498
+        },
+        {
+          "Q": 18.31,
+          "V": 9.006
+        },
+        {
+          "Q": 19.54,
+          "V": 8.529
+        },
+        {
+          "Q": 20.78,
+          "V": 8.062
+        },
+        {
+          "Q": 21.87,
+          "V": 7.544
+        },
+        {
+          "Q": 22.68,
+          "V": 6.981
+        },
+        {
+          "Q": 23.46,
+          "V": 6.408
+        },
+        {
+          "Q": 24.26,
+          "V": 5.838
+        },
+        {
+          "Q": 25.47,
+          "V": 5.405
+        },
+        {
+          "Q": 26.21,
+          "V": 4.829
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=10.2 м (номинал 10 м, +2 %). Таблица: Qmax=33 м³/ч, Hmax=15 м."
+  },
+  {
+    "Id": "da0ed968",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "65WQD15-10-1.1(F)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 65,
+    "FreePassageMm": 25.0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 23.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 15.0,
+    "NominalH": 10.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.98,
+          "V": 12.842
+        },
+        {
+          "Q": 2.88,
+          "V": 12.686
+        },
+        {
+          "Q": 4.46,
+          "V": 12.326
+        },
+        {
+          "Q": 6.04,
+          "V": 11.956
+        },
+        {
+          "Q": 7.72,
+          "V": 11.641
+        },
+        {
+          "Q": 9.35,
+          "V": 11.295
+        },
+        {
+          "Q": 11.03,
+          "V": 10.977
+        },
+        {
+          "Q": 12.66,
+          "V": 10.639
+        },
+        {
+          "Q": 14.35,
+          "V": 10.323
+        },
+        {
+          "Q": 15.8,
+          "V": 9.92
+        },
+        {
+          "Q": 17.14,
+          "V": 9.498
+        },
+        {
+          "Q": 18.31,
+          "V": 9.006
+        },
+        {
+          "Q": 19.54,
+          "V": 8.529
+        },
+        {
+          "Q": 20.78,
+          "V": 8.062
+        },
+        {
+          "Q": 21.87,
+          "V": 7.544
+        },
+        {
+          "Q": 22.68,
+          "V": 6.981
+        },
+        {
+          "Q": 23.46,
+          "V": 6.408
+        },
+        {
+          "Q": 24.26,
+          "V": 5.838
+        },
+        {
+          "Q": 25.47,
+          "V": 5.405
+        },
+        {
+          "Q": 26.21,
+          "V": 4.829
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=15 м³/ч по кривой H=10.2 м (номинал 10 м, +2 %). Однофазное исполнение; кривая общая с трёхфазным (одна линия на графике)."
+  },
+  {
+    "Id": "1ef2b7c5",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "80WQ30-33-7.5",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 30.0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 112.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 30.0,
+    "NominalH": 33.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 38.909
+        },
+        {
+          "Q": 7.84,
+          "V": 37.925
+        },
+        {
+          "Q": 13.58,
+          "V": 36.887
+        },
+        {
+          "Q": 19.32,
+          "V": 35.848
+        },
+        {
+          "Q": 25.03,
+          "V": 34.786
+        },
+        {
+          "Q": 30.5,
+          "V": 33.533
+        },
+        {
+          "Q": 35.97,
+          "V": 32.256
+        },
+        {
+          "Q": 41.48,
+          "V": 31.046
+        },
+        {
+          "Q": 46.37,
+          "V": 29.391
+        },
+        {
+          "Q": 51.66,
+          "V": 28.048
+        },
+        {
+          "Q": 56.49,
+          "V": 26.389
+        },
+        {
+          "Q": 61.02,
+          "V": 24.565
+        },
+        {
+          "Q": 64.46,
+          "V": 22.348
+        },
+        {
+          "Q": 67.87,
+          "V": 20.13
+        },
+        {
+          "Q": 70.46,
+          "V": 17.675
+        },
+        {
+          "Q": 72.82,
+          "V": 15.232
+        },
+        {
+          "Q": 74.75,
+          "V": 12.742
+        },
+        {
+          "Q": 76.62,
+          "V": 10.2
+        },
+        {
+          "Q": 77.73,
+          "V": 7.561
+        },
+        {
+          "Q": 78.94,
+          "V": 6.252
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=30 м³/ч по кривой H=33.7 м (номинал 33 м, +2 %). Таблица: Qmax=80 м³/ч, Hmax=40 м."
+  },
+  {
+    "Id": "3bf86dce",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "80WQ30-30-5.5",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 30.0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 73.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 30.0,
+    "NominalH": 30.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.94,
+          "V": 36.128
+        },
+        {
+          "Q": 7.76,
+          "V": 35.256
+        },
+        {
+          "Q": 13.5,
+          "V": 34.272
+        },
+        {
+          "Q": 19.25,
+          "V": 33.324
+        },
+        {
+          "Q": 24.86,
+          "V": 32.272
+        },
+        {
+          "Q": 30.49,
+          "V": 31.155
+        },
+        {
+          "Q": 35.29,
+          "V": 29.256
+        },
+        {
+          "Q": 39.82,
+          "V": 27.255
+        },
+        {
+          "Q": 42.56,
+          "V": 24.559
+        },
+        {
+          "Q": 43.22,
+          "V": 22.808
+        },
+        {
+          "Q": 43.87,
+          "V": 21.051
+        },
+        {
+          "Q": 43.95,
+          "V": 19.791
+        },
+        {
+          "Q": 44.01,
+          "V": 18.797
+        },
+        {
+          "Q": 44.07,
+          "V": 15.673
+        },
+        {
+          "Q": 44.29,
+          "V": 15.135
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=30 м³/ч по кривой H=31.3 м (номинал 30 м, +4 %). Таблица: Qmax=47 м³/ч, Hmax=36 м."
+  },
+  {
+    "Id": "53735469",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "80WQ40-18-4",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 30.0,
+    "P2Kw": 4.0,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 64.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 40.0,
+    "NominalH": 18.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.125
+        },
+        {
+          "Q": 7.37,
+          "V": 22.62
+        },
+        {
+          "Q": 12.25,
+          "V": 21.901
+        },
+        {
+          "Q": 17.28,
+          "V": 21.286
+        },
+        {
+          "Q": 22.09,
+          "V": 20.602
+        },
+        {
+          "Q": 26.7,
+          "V": 19.805
+        },
+        {
+          "Q": 31.41,
+          "V": 19.03
+        },
+        {
+          "Q": 35.88,
+          "V": 18.194
+        },
+        {
+          "Q": 40.33,
+          "V": 17.373
+        },
+        {
+          "Q": 44.4,
+          "V": 16.446
+        },
+        {
+          "Q": 49.09,
+          "V": 15.677
+        },
+        {
+          "Q": 52.84,
+          "V": 14.705
+        },
+        {
+          "Q": 56.71,
+          "V": 13.741
+        },
+        {
+          "Q": 60.27,
+          "V": 12.725
+        },
+        {
+          "Q": 64.22,
+          "V": 11.779
+        },
+        {
+          "Q": 67.16,
+          "V": 10.69
+        },
+        {
+          "Q": 70.45,
+          "V": 9.638
+        },
+        {
+          "Q": 73.7,
+          "V": 8.611
+        },
+        {
+          "Q": 77.38,
+          "V": 7.615
+        },
+        {
+          "Q": 80.42,
+          "V": 6.527
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=40 м³/ч по кривой H=17.5 м (номинал 18 м, -3 %). Таблица: Qmax=81 м³/ч, Hmax=24 м."
+  },
+  {
+    "Id": "61d5f97c",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "80WQ40-13-3",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 30.0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 54.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 40.0,
+    "NominalH": 13.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 2.17,
+          "V": 20.137
+        },
+        {
+          "Q": 5.99,
+          "V": 19.45
+        },
+        {
+          "Q": 9.73,
+          "V": 18.73
+        },
+        {
+          "Q": 13.65,
+          "V": 18.071
+        },
+        {
+          "Q": 17.63,
+          "V": 17.403
+        },
+        {
+          "Q": 21.43,
+          "V": 16.684
+        },
+        {
+          "Q": 25.56,
+          "V": 16.051
+        },
+        {
+          "Q": 29.5,
+          "V": 15.373
+        },
+        {
+          "Q": 33.29,
+          "V": 14.652
+        },
+        {
+          "Q": 37.09,
+          "V": 13.963
+        },
+        {
+          "Q": 40.88,
+          "V": 13.273
+        },
+        {
+          "Q": 44.79,
+          "V": 12.634
+        },
+        {
+          "Q": 47.9,
+          "V": 11.788
+        },
+        {
+          "Q": 51.24,
+          "V": 10.984
+        },
+        {
+          "Q": 54.74,
+          "V": 10.204
+        },
+        {
+          "Q": 58.0,
+          "V": 9.396
+        },
+        {
+          "Q": 61.29,
+          "V": 8.594
+        },
+        {
+          "Q": 64.42,
+          "V": 7.754
+        },
+        {
+          "Q": 67.13,
+          "V": 6.854
+        },
+        {
+          "Q": 70.38,
+          "V": 6.076
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=40 м³/ч по кривой H=13.4 м (номинал 13 м, +3 %). Таблица: Qmax=75 м³/ч, Hmax=20 м."
+  },
+  {
+    "Id": "80491335",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "80WQ40-9-2.2",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 30.0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 46.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 40.0,
+    "NominalH": 9.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 2.62,
+          "V": 14.807
+        },
+        {
+          "Q": 6.94,
+          "V": 14.501
+        },
+        {
+          "Q": 10.61,
+          "V": 13.94
+        },
+        {
+          "Q": 14.17,
+          "V": 13.367
+        },
+        {
+          "Q": 17.88,
+          "V": 12.828
+        },
+        {
+          "Q": 21.33,
+          "V": 12.234
+        },
+        {
+          "Q": 24.99,
+          "V": 11.826
+        },
+        {
+          "Q": 28.1,
+          "V": 11.153
+        },
+        {
+          "Q": 31.74,
+          "V": 10.693
+        },
+        {
+          "Q": 34.69,
+          "V": 9.995
+        },
+        {
+          "Q": 37.89,
+          "V": 9.39
+        },
+        {
+          "Q": 40.79,
+          "V": 8.769
+        },
+        {
+          "Q": 43.63,
+          "V": 8.055
+        },
+        {
+          "Q": 46.54,
+          "V": 7.363
+        },
+        {
+          "Q": 49.59,
+          "V": 6.696
+        },
+        {
+          "Q": 52.38,
+          "V": 5.974
+        },
+        {
+          "Q": 55.08,
+          "V": 5.249
+        },
+        {
+          "Q": 57.97,
+          "V": 4.55
+        },
+        {
+          "Q": 60.58,
+          "V": 3.807
+        },
+        {
+          "Q": 63.47,
+          "V": 3.111
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=40 м³/ч по кривой H=9.0 м (номинал 9 м, +0 %). Таблица: Qmax=64 м³/ч, Hmax=16 м."
+  },
+  {
+    "Id": "7bb6aad8",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ65-22-7.5",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 35.0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 115.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 65.0,
+    "NominalH": 22.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 4.86,
+          "V": 33.386
+        },
+        {
+          "Q": 11.72,
+          "V": 32.079
+        },
+        {
+          "Q": 19.12,
+          "V": 30.963
+        },
+        {
+          "Q": 26.3,
+          "V": 29.694
+        },
+        {
+          "Q": 33.22,
+          "V": 28.343
+        },
+        {
+          "Q": 40.04,
+          "V": 27.002
+        },
+        {
+          "Q": 46.52,
+          "V": 25.537
+        },
+        {
+          "Q": 52.96,
+          "V": 24.068
+        },
+        {
+          "Q": 59.47,
+          "V": 22.553
+        },
+        {
+          "Q": 65.84,
+          "V": 21.038
+        },
+        {
+          "Q": 71.95,
+          "V": 19.418
+        },
+        {
+          "Q": 77.78,
+          "V": 17.731
+        },
+        {
+          "Q": 83.38,
+          "V": 15.977
+        },
+        {
+          "Q": 88.97,
+          "V": 14.246
+        },
+        {
+          "Q": 94.03,
+          "V": 12.411
+        },
+        {
+          "Q": 98.53,
+          "V": 10.485
+        },
+        {
+          "Q": 101.39,
+          "V": 8.439
+        },
+        {
+          "Q": 104.0,
+          "V": 6.471
+        },
+        {
+          "Q": 109.33,
+          "V": 4.64
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=65 м³/ч по кривой H=21.2 м (номинал 22 м, -4 %). Таблица: Qmax=110 м³/ч, Hmax=34 м."
+  },
+  {
+    "Id": "1d98b48d",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ60-9-3",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 30.0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2850,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 57.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 60.0,
+    "NominalH": 9.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 4.08,
+          "V": 18.382
+        },
+        {
+          "Q": 9.62,
+          "V": 17.644
+        },
+        {
+          "Q": 15.19,
+          "V": 16.924
+        },
+        {
+          "Q": 20.71,
+          "V": 16.171
+        },
+        {
+          "Q": 25.92,
+          "V": 15.335
+        },
+        {
+          "Q": 30.98,
+          "V": 14.462
+        },
+        {
+          "Q": 35.75,
+          "V": 13.53
+        },
+        {
+          "Q": 41.37,
+          "V": 12.821
+        },
+        {
+          "Q": 46.2,
+          "V": 11.896
+        },
+        {
+          "Q": 51.14,
+          "V": 10.999
+        },
+        {
+          "Q": 56.14,
+          "V": 10.118
+        },
+        {
+          "Q": 60.45,
+          "V": 9.128
+        },
+        {
+          "Q": 65.31,
+          "V": 8.211
+        },
+        {
+          "Q": 69.61,
+          "V": 7.199
+        },
+        {
+          "Q": 73.99,
+          "V": 6.207
+        },
+        {
+          "Q": 77.49,
+          "V": 5.068
+        },
+        {
+          "Q": 81.91,
+          "V": 4.073
+        },
+        {
+          "Q": 86.54,
+          "V": 3.107
+        },
+        {
+          "Q": 88.86,
+          "V": 1.907
+        },
+        {
+          "Q": 89.4,
+          "V": 1.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (2850 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=60 м³/ч по кривой H=9.3 м (номинал 9 м, +3 %). Таблица: Qmax=92 м³/ч, Hmax=19 м."
+  },
+  {
+    "Id": "0023274e",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ100-36-22(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 50.0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 346.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 100.0,
+    "NominalH": 36.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 42.116
+        },
+        {
+          "Q": 17.43,
+          "V": 41.336
+        },
+        {
+          "Q": 30.79,
+          "V": 40.563
+        },
+        {
+          "Q": 43.06,
+          "V": 39.608
+        },
+        {
+          "Q": 56.4,
+          "V": 38.867
+        },
+        {
+          "Q": 69.25,
+          "V": 38.007
+        },
+        {
+          "Q": 81.7,
+          "V": 37.015
+        },
+        {
+          "Q": 93.32,
+          "V": 35.93
+        },
+        {
+          "Q": 105.31,
+          "V": 34.89
+        },
+        {
+          "Q": 117.12,
+          "V": 33.834
+        },
+        {
+          "Q": 128.33,
+          "V": 32.667
+        },
+        {
+          "Q": 138.93,
+          "V": 31.444
+        },
+        {
+          "Q": 148.55,
+          "V": 30.127
+        },
+        {
+          "Q": 158.34,
+          "V": 28.854
+        },
+        {
+          "Q": 167.07,
+          "V": 27.473
+        },
+        {
+          "Q": 175.24,
+          "V": 26.027
+        },
+        {
+          "Q": 181.94,
+          "V": 24.482
+        },
+        {
+          "Q": 188.83,
+          "V": 22.969
+        },
+        {
+          "Q": 194.71,
+          "V": 21.375
+        },
+        {
+          "Q": 200.88,
+          "V": 19.799
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=100 м³/ч по кривой H=35.4 м (номинал 36 м, -2 %). Таблица: Qmax=220 м³/ч, Hmax=44 м."
+  },
+  {
+    "Id": "79f124b4",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ100-31-18.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 50.0,
+    "P2Kw": 18.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 326.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 100.0,
+    "NominalH": 31.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 38.195
+        },
+        {
+          "Q": 16.5,
+          "V": 37.354
+        },
+        {
+          "Q": 29.45,
+          "V": 36.529
+        },
+        {
+          "Q": 41.28,
+          "V": 35.489
+        },
+        {
+          "Q": 53.56,
+          "V": 34.604
+        },
+        {
+          "Q": 65.36,
+          "V": 33.557
+        },
+        {
+          "Q": 77.3,
+          "V": 32.609
+        },
+        {
+          "Q": 87.33,
+          "V": 31.346
+        },
+        {
+          "Q": 98.05,
+          "V": 30.149
+        },
+        {
+          "Q": 109.56,
+          "V": 29.077
+        },
+        {
+          "Q": 120.65,
+          "V": 27.992
+        },
+        {
+          "Q": 130.15,
+          "V": 26.669
+        },
+        {
+          "Q": 139.89,
+          "V": 25.373
+        },
+        {
+          "Q": 149.97,
+          "V": 24.107
+        },
+        {
+          "Q": 159.62,
+          "V": 22.802
+        },
+        {
+          "Q": 168.28,
+          "V": 21.398
+        },
+        {
+          "Q": 176.7,
+          "V": 19.972
+        },
+        {
+          "Q": 184.88,
+          "V": 18.527
+        },
+        {
+          "Q": 193.1,
+          "V": 17.098
+        },
+        {
+          "Q": 199.85,
+          "V": 15.56
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=100 м³/ч по кривой H=30.0 м (номинал 31 м, -3 %). Таблица: Qmax=200 м³/ч, Hmax=38 м."
+  },
+  {
+    "Id": "80b2a198",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ100-27-15(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 50.0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 275.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 100.0,
+    "NominalH": 27.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 33.327
+        },
+        {
+          "Q": 17.17,
+          "V": 32.737
+        },
+        {
+          "Q": 30.71,
+          "V": 32.04
+        },
+        {
+          "Q": 44.01,
+          "V": 31.389
+        },
+        {
+          "Q": 55.88,
+          "V": 30.48
+        },
+        {
+          "Q": 66.94,
+          "V": 29.508
+        },
+        {
+          "Q": 78.93,
+          "V": 28.6
+        },
+        {
+          "Q": 90.46,
+          "V": 27.64
+        },
+        {
+          "Q": 102.16,
+          "V": 26.747
+        },
+        {
+          "Q": 111.99,
+          "V": 25.584
+        },
+        {
+          "Q": 122.92,
+          "V": 24.505
+        },
+        {
+          "Q": 132.85,
+          "V": 23.336
+        },
+        {
+          "Q": 143.12,
+          "V": 22.171
+        },
+        {
+          "Q": 152.32,
+          "V": 20.909
+        },
+        {
+          "Q": 161.61,
+          "V": 19.686
+        },
+        {
+          "Q": 169.48,
+          "V": 18.342
+        },
+        {
+          "Q": 177.88,
+          "V": 17.019
+        },
+        {
+          "Q": 185.29,
+          "V": 15.632
+        },
+        {
+          "Q": 192.34,
+          "V": 14.227
+        },
+        {
+          "Q": 198.85,
+          "V": 12.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=100 м³/ч по кривой H=26.8 м (номинал 27 м, -1 %). Таблица: Qmax=210 м³/ч, Hmax=35 м."
+  },
+  {
+    "Id": "d64516cb",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ100-22-11(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 50.0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 253.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 100.0,
+    "NominalH": 22.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 28.822
+        },
+        {
+          "Q": 16.4,
+          "V": 28.377
+        },
+        {
+          "Q": 28.1,
+          "V": 27.601
+        },
+        {
+          "Q": 39.5,
+          "V": 26.787
+        },
+        {
+          "Q": 51.08,
+          "V": 26.017
+        },
+        {
+          "Q": 62.32,
+          "V": 25.193
+        },
+        {
+          "Q": 72.54,
+          "V": 24.249
+        },
+        {
+          "Q": 83.34,
+          "V": 23.359
+        },
+        {
+          "Q": 93.51,
+          "V": 22.371
+        },
+        {
+          "Q": 102.91,
+          "V": 21.369
+        },
+        {
+          "Q": 112.33,
+          "V": 20.309
+        },
+        {
+          "Q": 121.82,
+          "V": 19.245
+        },
+        {
+          "Q": 131.68,
+          "V": 18.29
+        },
+        {
+          "Q": 139.66,
+          "V": 17.115
+        },
+        {
+          "Q": 147.94,
+          "V": 15.996
+        },
+        {
+          "Q": 155.29,
+          "V": 14.762
+        },
+        {
+          "Q": 162.13,
+          "V": 13.542
+        },
+        {
+          "Q": 170.74,
+          "V": 12.415
+        },
+        {
+          "Q": 177.03,
+          "V": 11.119
+        },
+        {
+          "Q": 185.3,
+          "V": 9.965
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=100 м³/ч по кривой H=21.6 м (номинал 22 м, -2 %). Таблица: Qmax=190 м³/ч, Hmax=31 м."
+  },
+  {
+    "Id": "bea50db9",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ100-15-7.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 55.0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 158.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 100.0,
+    "NominalH": 15.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 9.35,
+          "V": 21.47
+        },
+        {
+          "Q": 18.98,
+          "V": 20.981
+        },
+        {
+          "Q": 29.29,
+          "V": 20.479
+        },
+        {
+          "Q": 39.09,
+          "V": 19.907
+        },
+        {
+          "Q": 48.35,
+          "V": 19.265
+        },
+        {
+          "Q": 58.21,
+          "V": 18.657
+        },
+        {
+          "Q": 67.34,
+          "V": 18.005
+        },
+        {
+          "Q": 77.03,
+          "V": 17.38
+        },
+        {
+          "Q": 85.66,
+          "V": 16.648
+        },
+        {
+          "Q": 95.68,
+          "V": 16.09
+        },
+        {
+          "Q": 102.84,
+          "V": 15.249
+        },
+        {
+          "Q": 111.68,
+          "V": 14.602
+        },
+        {
+          "Q": 119.25,
+          "V": 13.796
+        },
+        {
+          "Q": 126.55,
+          "V": 12.974
+        },
+        {
+          "Q": 135.25,
+          "V": 12.245
+        },
+        {
+          "Q": 142.55,
+          "V": 11.433
+        },
+        {
+          "Q": 150.25,
+          "V": 10.651
+        },
+        {
+          "Q": 157.29,
+          "V": 9.834
+        },
+        {
+          "Q": 163.26,
+          "V": 8.945
+        },
+        {
+          "Q": 168.56,
+          "V": 8.048
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=100 м³/ч по кривой H=15.6 м (номинал 15 м, +4 %). Таблица: Qmax=170 м³/ч, Hmax=24 м."
+  },
+  {
+    "Id": "3bda8571",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "100WQ65-15-5.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 55.0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 142.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 65.0,
+    "NominalH": 15.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 4.54,
+          "V": 19.422
+        },
+        {
+          "Q": 10.78,
+          "V": 18.759
+        },
+        {
+          "Q": 18.3,
+          "V": 18.211
+        },
+        {
+          "Q": 26.75,
+          "V": 17.68
+        },
+        {
+          "Q": 34.47,
+          "V": 17.114
+        },
+        {
+          "Q": 42.98,
+          "V": 16.634
+        },
+        {
+          "Q": 50.66,
+          "V": 16.052
+        },
+        {
+          "Q": 57.99,
+          "V": 15.516
+        },
+        {
+          "Q": 63.89,
+          "V": 14.842
+        },
+        {
+          "Q": 72.67,
+          "V": 14.367
+        },
+        {
+          "Q": 80.97,
+          "V": 13.84
+        },
+        {
+          "Q": 89.49,
+          "V": 13.33
+        },
+        {
+          "Q": 96.12,
+          "V": 12.671
+        },
+        {
+          "Q": 103.17,
+          "V": 12.093
+        },
+        {
+          "Q": 110.64,
+          "V": 11.494
+        },
+        {
+          "Q": 118.27,
+          "V": 10.902
+        },
+        {
+          "Q": 125.79,
+          "V": 10.323
+        },
+        {
+          "Q": 132.38,
+          "V": 9.671
+        },
+        {
+          "Q": 139.11,
+          "V": 9.022
+        },
+        {
+          "Q": 148.38,
+          "V": 8.815
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=65 м³/ч по кривой H=14.8 м (номинал 15 м, -1 %). Таблица: Qmax=150 м³/ч, Hmax=19 м."
+  },
+  {
+    "Id": "e5ba61de",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-40-37(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 55.0,
+    "P2Kw": 37.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 557.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 40.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 49.34
+        },
+        {
+          "Q": 28.99,
+          "V": 47.759
+        },
+        {
+          "Q": 50.1,
+          "V": 46.247
+        },
+        {
+          "Q": 72.37,
+          "V": 44.966
+        },
+        {
+          "Q": 93.88,
+          "V": 43.573
+        },
+        {
+          "Q": 115.62,
+          "V": 42.171
+        },
+        {
+          "Q": 136.75,
+          "V": 40.665
+        },
+        {
+          "Q": 156.53,
+          "V": 38.946
+        },
+        {
+          "Q": 176.97,
+          "V": 37.323
+        },
+        {
+          "Q": 195.72,
+          "V": 35.427
+        },
+        {
+          "Q": 212.51,
+          "V": 33.326
+        },
+        {
+          "Q": 230.56,
+          "V": 31.338
+        },
+        {
+          "Q": 245.37,
+          "V": 29.059
+        },
+        {
+          "Q": 261.15,
+          "V": 26.825
+        },
+        {
+          "Q": 275.73,
+          "V": 24.503
+        },
+        {
+          "Q": 287.18,
+          "V": 21.977
+        },
+        {
+          "Q": 298.57,
+          "V": 19.502
+        },
+        {
+          "Q": 310.42,
+          "V": 17.014
+        },
+        {
+          "Q": 321.45,
+          "V": 14.449
+        },
+        {
+          "Q": 329.77,
+          "V": 11.852
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=39.6 м (номинал 40 м, -1 %). Таблица: Qmax=330 м³/ч, Hmax=50 м."
+  },
+  {
+    "Id": "2d5ccc9c",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-34-30(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 55.0,
+    "P2Kw": 30.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 497.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 34.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 44.968
+        },
+        {
+          "Q": 22.07,
+          "V": 43.629
+        },
+        {
+          "Q": 40.83,
+          "V": 42.121
+        },
+        {
+          "Q": 60.33,
+          "V": 40.755
+        },
+        {
+          "Q": 79.7,
+          "V": 39.361
+        },
+        {
+          "Q": 98.29,
+          "V": 37.809
+        },
+        {
+          "Q": 118.34,
+          "V": 36.576
+        },
+        {
+          "Q": 135.8,
+          "V": 34.875
+        },
+        {
+          "Q": 154.96,
+          "V": 33.428
+        },
+        {
+          "Q": 172.91,
+          "V": 31.779
+        },
+        {
+          "Q": 190.4,
+          "V": 30.07
+        },
+        {
+          "Q": 206.89,
+          "V": 28.241
+        },
+        {
+          "Q": 222.77,
+          "V": 26.343
+        },
+        {
+          "Q": 236.98,
+          "V": 24.304
+        },
+        {
+          "Q": 249.77,
+          "V": 22.119
+        },
+        {
+          "Q": 265.36,
+          "V": 20.195
+        },
+        {
+          "Q": 274.86,
+          "V": 17.86
+        },
+        {
+          "Q": 287.03,
+          "V": 15.654
+        },
+        {
+          "Q": 296.23,
+          "V": 13.291
+        },
+        {
+          "Q": 304.48,
+          "V": 10.861
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=33.9 м (номинал 34 м, -0 %). Таблица: Qmax=310 м³/ч, Hmax=45 м."
+  },
+  {
+    "Id": "1e4fcccc",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-28-22(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 50.0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 347.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 28.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 35.743
+        },
+        {
+          "Q": 26.2,
+          "V": 34.492
+        },
+        {
+          "Q": 44.6,
+          "V": 33.255
+        },
+        {
+          "Q": 63.91,
+          "V": 32.094
+        },
+        {
+          "Q": 84.03,
+          "V": 31.028
+        },
+        {
+          "Q": 105.13,
+          "V": 30.057
+        },
+        {
+          "Q": 125.74,
+          "V": 29.036
+        },
+        {
+          "Q": 147.85,
+          "V": 28.212
+        },
+        {
+          "Q": 167.47,
+          "V": 27.085
+        },
+        {
+          "Q": 187.03,
+          "V": 26.045
+        },
+        {
+          "Q": 206.36,
+          "V": 24.904
+        },
+        {
+          "Q": 224.56,
+          "V": 23.736
+        },
+        {
+          "Q": 243.54,
+          "V": 22.567
+        },
+        {
+          "Q": 259.19,
+          "V": 21.178
+        },
+        {
+          "Q": 274.78,
+          "V": 19.756
+        },
+        {
+          "Q": 290.64,
+          "V": 18.339
+        },
+        {
+          "Q": 306.32,
+          "V": 16.916
+        },
+        {
+          "Q": 318.46,
+          "V": 15.324
+        },
+        {
+          "Q": 325.33,
+          "V": 13.567
+        },
+        {
+          "Q": 331.0,
+          "V": 11.809
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=28.1 м (номинал 28 м, +0 %). Таблица: Qmax=330 м³/ч, Hmax=39 м."
+  },
+  {
+    "Id": "e45f0af2",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-24-18.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 50.0,
+    "P2Kw": 18.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 327.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 24.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 31.665
+        },
+        {
+          "Q": 25.22,
+          "V": 30.659
+        },
+        {
+          "Q": 43.46,
+          "V": 29.705
+        },
+        {
+          "Q": 61.35,
+          "V": 28.724
+        },
+        {
+          "Q": 78.95,
+          "V": 27.737
+        },
+        {
+          "Q": 97.05,
+          "V": 26.799
+        },
+        {
+          "Q": 114.32,
+          "V": 25.764
+        },
+        {
+          "Q": 133.3,
+          "V": 24.944
+        },
+        {
+          "Q": 149.95,
+          "V": 23.866
+        },
+        {
+          "Q": 168.3,
+          "V": 22.946
+        },
+        {
+          "Q": 184.19,
+          "V": 21.823
+        },
+        {
+          "Q": 201.59,
+          "V": 20.811
+        },
+        {
+          "Q": 216.73,
+          "V": 19.657
+        },
+        {
+          "Q": 232.43,
+          "V": 18.533
+        },
+        {
+          "Q": 245.68,
+          "V": 17.229
+        },
+        {
+          "Q": 260.16,
+          "V": 16.032
+        },
+        {
+          "Q": 270.82,
+          "V": 14.641
+        },
+        {
+          "Q": 283.55,
+          "V": 13.323
+        },
+        {
+          "Q": 295.39,
+          "V": 11.986
+        },
+        {
+          "Q": 304.01,
+          "V": 10.581
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=23.9 м (номинал 24 м, -1 %). Таблица: Qmax=300 м³/ч, Hmax=32 м."
+  },
+  {
+    "Id": "a174dfc7",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-20-15(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 50.0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 277.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 20.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.567
+        },
+        {
+          "Q": 14.58,
+          "V": 26.377
+        },
+        {
+          "Q": 29.53,
+          "V": 25.501
+        },
+        {
+          "Q": 42.14,
+          "V": 24.45
+        },
+        {
+          "Q": 56.04,
+          "V": 23.465
+        },
+        {
+          "Q": 71.07,
+          "V": 22.543
+        },
+        {
+          "Q": 88.95,
+          "V": 21.868
+        },
+        {
+          "Q": 105.5,
+          "V": 21.082
+        },
+        {
+          "Q": 122.52,
+          "V": 20.358
+        },
+        {
+          "Q": 140.68,
+          "V": 19.671
+        },
+        {
+          "Q": 157.91,
+          "V": 18.975
+        },
+        {
+          "Q": 175.43,
+          "V": 18.285
+        },
+        {
+          "Q": 191.95,
+          "V": 17.452
+        },
+        {
+          "Q": 208.93,
+          "V": 16.676
+        },
+        {
+          "Q": 224.75,
+          "V": 15.836
+        },
+        {
+          "Q": 238.11,
+          "V": 14.824
+        },
+        {
+          "Q": 253.54,
+          "V": 13.951
+        },
+        {
+          "Q": 263.64,
+          "V": 12.793
+        },
+        {
+          "Q": 274.42,
+          "V": 11.661
+        },
+        {
+          "Q": 284.71,
+          "V": 10.509
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=19.3 м (номинал 20 м, -3 %). Таблица: Qmax=290 м³/ч, Hmax=29 м."
+  },
+  {
+    "Id": "a8c3f1ae",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-15-11(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 50.0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 256.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 15.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 22.344
+        },
+        {
+          "Q": 18.06,
+          "V": 21.546
+        },
+        {
+          "Q": 28.55,
+          "V": 20.703
+        },
+        {
+          "Q": 39.99,
+          "V": 19.896
+        },
+        {
+          "Q": 51.77,
+          "V": 19.095
+        },
+        {
+          "Q": 65.24,
+          "V": 18.378
+        },
+        {
+          "Q": 78.87,
+          "V": 17.673
+        },
+        {
+          "Q": 93.26,
+          "V": 17.013
+        },
+        {
+          "Q": 107.23,
+          "V": 16.413
+        },
+        {
+          "Q": 122.05,
+          "V": 15.8
+        },
+        {
+          "Q": 137.12,
+          "V": 15.217
+        },
+        {
+          "Q": 152.15,
+          "V": 14.649
+        },
+        {
+          "Q": 167.06,
+          "V": 14.027
+        },
+        {
+          "Q": 181.14,
+          "V": 13.353
+        },
+        {
+          "Q": 194.86,
+          "V": 12.658
+        },
+        {
+          "Q": 207.24,
+          "V": 11.922
+        },
+        {
+          "Q": 219.4,
+          "V": 11.149
+        },
+        {
+          "Q": 231.56,
+          "V": 10.366
+        },
+        {
+          "Q": 240.45,
+          "V": 9.455
+        },
+        {
+          "Q": 252.92,
+          "V": 8.785
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=14.8 м (номинал 15 м, -2 %). Таблица: Qmax=260 м³/ч, Hmax=24 м."
+  },
+  {
+    "Id": "a08e3d74",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ150-10-7.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 75.0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 169.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 150.0,
+    "NominalH": 10.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.32
+        },
+        {
+          "Q": 16.29,
+          "V": 14.869
+        },
+        {
+          "Q": 30.04,
+          "V": 14.493
+        },
+        {
+          "Q": 41.5,
+          "V": 14.066
+        },
+        {
+          "Q": 53.87,
+          "V": 13.671
+        },
+        {
+          "Q": 65.22,
+          "V": 13.198
+        },
+        {
+          "Q": 78.09,
+          "V": 12.781
+        },
+        {
+          "Q": 89.51,
+          "V": 12.358
+        },
+        {
+          "Q": 100.51,
+          "V": 11.918
+        },
+        {
+          "Q": 112.39,
+          "V": 11.472
+        },
+        {
+          "Q": 122.37,
+          "V": 10.994
+        },
+        {
+          "Q": 134.06,
+          "V": 10.537
+        },
+        {
+          "Q": 145.97,
+          "V": 10.084
+        },
+        {
+          "Q": 158.39,
+          "V": 9.648
+        },
+        {
+          "Q": 169.68,
+          "V": 9.178
+        },
+        {
+          "Q": 179.96,
+          "V": 8.69
+        },
+        {
+          "Q": 192.92,
+          "V": 8.286
+        },
+        {
+          "Q": 203.06,
+          "V": 7.779
+        },
+        {
+          "Q": 214.72,
+          "V": 7.32
+        },
+        {
+          "Q": 228.93,
+          "V": 7.214
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=150 м³/ч по кривой H=9.9 м (номинал 10 м, -1 %). Таблица: Qmax=240 м³/ч, Hmax=16 м."
+  },
+  {
+    "Id": "2da93014",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "150WQ110-10-5.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 55.0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 151.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 110.0,
+    "NominalH": 10.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.723
+        },
+        {
+          "Q": 11.1,
+          "V": 14.987
+        },
+        {
+          "Q": 22.98,
+          "V": 14.451
+        },
+        {
+          "Q": 33.6,
+          "V": 13.854
+        },
+        {
+          "Q": 41.3,
+          "V": 13.095
+        },
+        {
+          "Q": 53.16,
+          "V": 12.56
+        },
+        {
+          "Q": 64.56,
+          "V": 11.998
+        },
+        {
+          "Q": 74.92,
+          "V": 11.398
+        },
+        {
+          "Q": 84.11,
+          "V": 10.716
+        },
+        {
+          "Q": 95.39,
+          "V": 10.202
+        },
+        {
+          "Q": 105.61,
+          "V": 9.557
+        },
+        {
+          "Q": 117.0,
+          "V": 8.991
+        },
+        {
+          "Q": 127.7,
+          "V": 8.39
+        },
+        {
+          "Q": 137.27,
+          "V": 7.725
+        },
+        {
+          "Q": 148.71,
+          "V": 7.163
+        },
+        {
+          "Q": 158.57,
+          "V": 6.501
+        },
+        {
+          "Q": 169.24,
+          "V": 5.885
+        },
+        {
+          "Q": 178.96,
+          "V": 5.218
+        },
+        {
+          "Q": 187.99,
+          "V": 4.513
+        },
+        {
+          "Q": 200.0,
+          "V": 3.99
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=110 м³/ч по кривой H=9.3 м (номинал 10 м, -7 %). Таблица: Qmax=200 м³/ч, Hmax=26 м."
+  },
+  {
+    "Id": "bb0b7160",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-30-45(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 80.0,
+    "P2Kw": 45.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 612.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 30.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 19.62,
+          "V": 42.177
+        },
+        {
+          "Q": 53.12,
+          "V": 40.281
+        },
+        {
+          "Q": 89.6,
+          "V": 38.548
+        },
+        {
+          "Q": 125.48,
+          "V": 36.788
+        },
+        {
+          "Q": 163.76,
+          "V": 35.197
+        },
+        {
+          "Q": 203.36,
+          "V": 33.757
+        },
+        {
+          "Q": 242.26,
+          "V": 32.198
+        },
+        {
+          "Q": 281.87,
+          "V": 30.699
+        },
+        {
+          "Q": 322.61,
+          "V": 29.304
+        },
+        {
+          "Q": 360.78,
+          "V": 27.686
+        },
+        {
+          "Q": 397.15,
+          "V": 25.941
+        },
+        {
+          "Q": 431.25,
+          "V": 24.085
+        },
+        {
+          "Q": 465.2,
+          "V": 22.198
+        },
+        {
+          "Q": 497.23,
+          "V": 20.26
+        },
+        {
+          "Q": 525.79,
+          "V": 18.143
+        },
+        {
+          "Q": 551.38,
+          "V": 15.894
+        },
+        {
+          "Q": 579.09,
+          "V": 13.761
+        },
+        {
+          "Q": 603.4,
+          "V": 11.503
+        },
+        {
+          "Q": 630.52,
+          "V": 9.329
+        },
+        {
+          "Q": 650.28,
+          "V": 7.006
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=30.0 м (номинал 30 м, +0 %). Таблица: Qmax=660 м³/ч, Hmax=43 м."
+  },
+  {
+    "Id": "73945554",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-25-37(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 0,
+    "P2Kw": 37.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 25.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 38.75
+        },
+        {
+          "Q": 30.04,
+          "V": 36.646
+        },
+        {
+          "Q": 61.13,
+          "V": 34.786
+        },
+        {
+          "Q": 94.96,
+          "V": 33.183
+        },
+        {
+          "Q": 133.52,
+          "V": 31.812
+        },
+        {
+          "Q": 170.69,
+          "V": 30.392
+        },
+        {
+          "Q": 207.62,
+          "V": 28.892
+        },
+        {
+          "Q": 248.02,
+          "V": 27.732
+        },
+        {
+          "Q": 285.3,
+          "V": 26.309
+        },
+        {
+          "Q": 323.36,
+          "V": 24.958
+        },
+        {
+          "Q": 361.72,
+          "V": 23.556
+        },
+        {
+          "Q": 398.63,
+          "V": 22.039
+        },
+        {
+          "Q": 430.76,
+          "V": 20.299
+        },
+        {
+          "Q": 464.34,
+          "V": 18.623
+        },
+        {
+          "Q": 496.79,
+          "V": 16.843
+        },
+        {
+          "Q": 520.6,
+          "V": 14.776
+        },
+        {
+          "Q": 546.39,
+          "V": 12.716
+        },
+        {
+          "Q": 569.0,
+          "V": 10.56
+        },
+        {
+          "Q": 591.79,
+          "V": 8.385
+        },
+        {
+          "Q": 610.44,
+          "V": 6.132
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=25.9 м (номинал 25 м, +3 %)."
+  },
+  {
+    "Id": "80fdd35a",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-21-30(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 80.0,
+    "P2Kw": 30.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 519.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 21.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 32.745
+        },
+        {
+          "Q": 39.99,
+          "V": 31.219
+        },
+        {
+          "Q": 74.41,
+          "V": 29.769
+        },
+        {
+          "Q": 108.74,
+          "V": 28.26
+        },
+        {
+          "Q": 141.7,
+          "V": 26.775
+        },
+        {
+          "Q": 177.08,
+          "V": 25.497
+        },
+        {
+          "Q": 213.73,
+          "V": 24.188
+        },
+        {
+          "Q": 248.04,
+          "V": 22.705
+        },
+        {
+          "Q": 284.93,
+          "V": 21.43
+        },
+        {
+          "Q": 320.39,
+          "V": 20.007
+        },
+        {
+          "Q": 355.52,
+          "V": 18.563
+        },
+        {
+          "Q": 388.82,
+          "V": 17.013
+        },
+        {
+          "Q": 421.73,
+          "V": 15.456
+        },
+        {
+          "Q": 449.59,
+          "V": 13.624
+        },
+        {
+          "Q": 472.17,
+          "V": 11.577
+        },
+        {
+          "Q": 497.9,
+          "V": 9.64
+        },
+        {
+          "Q": 522.07,
+          "V": 7.643
+        },
+        {
+          "Q": 548.37,
+          "V": 5.721
+        },
+        {
+          "Q": 556.57,
+          "V": 3.396
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=20.8 м (номинал 21 м, -1 %). Таблица: Qmax=570 м³/ч, Hmax=33 м."
+  },
+  {
+    "Id": "7e19f7b9",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-18-22(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 65.0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 374.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 18.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 28.89,
+          "V": 25.176
+        },
+        {
+          "Q": 58.73,
+          "V": 24.056
+        },
+        {
+          "Q": 90.34,
+          "V": 22.959
+        },
+        {
+          "Q": 122.46,
+          "V": 21.883
+        },
+        {
+          "Q": 156.57,
+          "V": 20.927
+        },
+        {
+          "Q": 190.79,
+          "V": 20.013
+        },
+        {
+          "Q": 226.75,
+          "V": 19.199
+        },
+        {
+          "Q": 261.4,
+          "V": 18.323
+        },
+        {
+          "Q": 295.74,
+          "V": 17.4
+        },
+        {
+          "Q": 331.09,
+          "V": 16.529
+        },
+        {
+          "Q": 365.28,
+          "V": 15.673
+        },
+        {
+          "Q": 396.24,
+          "V": 14.578
+        },
+        {
+          "Q": 425.28,
+          "V": 13.384
+        },
+        {
+          "Q": 457.29,
+          "V": 12.311
+        },
+        {
+          "Q": 483.99,
+          "V": 11.02
+        },
+        {
+          "Q": 501.58,
+          "V": 9.462
+        },
+        {
+          "Q": 519.66,
+          "V": 7.912
+        },
+        {
+          "Q": 538.26,
+          "V": 6.373
+        },
+        {
+          "Q": 551.76,
+          "V": 4.769
+        },
+        {
+          "Q": 557.81,
+          "V": 3.075
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=17.3 м (номинал 18 м, -4 %). Таблица: Qmax=550 м³/ч, Hmax=27 м."
+  },
+  {
+    "Id": "0f578c6f",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-15-18.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 0,
+    "P2Kw": 18.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 15.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.357
+        },
+        {
+          "Q": 30.85,
+          "V": 22.146
+        },
+        {
+          "Q": 54.0,
+          "V": 20.938
+        },
+        {
+          "Q": 82.68,
+          "V": 19.932
+        },
+        {
+          "Q": 109.67,
+          "V": 18.864
+        },
+        {
+          "Q": 141.23,
+          "V": 17.967
+        },
+        {
+          "Q": 172.34,
+          "V": 17.135
+        },
+        {
+          "Q": 204.55,
+          "V": 16.316
+        },
+        {
+          "Q": 238.0,
+          "V": 15.534
+        },
+        {
+          "Q": 270.44,
+          "V": 14.696
+        },
+        {
+          "Q": 301.27,
+          "V": 13.856
+        },
+        {
+          "Q": 335.3,
+          "V": 13.187
+        },
+        {
+          "Q": 361.46,
+          "V": 12.12
+        },
+        {
+          "Q": 390.15,
+          "V": 11.119
+        },
+        {
+          "Q": 418.64,
+          "V": 10.085
+        },
+        {
+          "Q": 438.88,
+          "V": 8.808
+        },
+        {
+          "Q": 462.57,
+          "V": 7.621
+        },
+        {
+          "Q": 480.44,
+          "V": 6.29
+        },
+        {
+          "Q": 501.85,
+          "V": 5.037
+        },
+        {
+          "Q": 520.04,
+          "V": 3.709
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=13.9 м (номинал 15 м, -7 %)."
+  },
+  {
+    "Id": "0edca12b",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-12-15(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 65.0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 302.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 12.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 18.31,
+          "V": 18.609
+        },
+        {
+          "Q": 42.83,
+          "V": 17.736
+        },
+        {
+          "Q": 68.92,
+          "V": 16.907
+        },
+        {
+          "Q": 97.67,
+          "V": 16.173
+        },
+        {
+          "Q": 125.35,
+          "V": 15.429
+        },
+        {
+          "Q": 152.38,
+          "V": 14.64
+        },
+        {
+          "Q": 182.45,
+          "V": 13.985
+        },
+        {
+          "Q": 212.04,
+          "V": 13.383
+        },
+        {
+          "Q": 241.66,
+          "V": 12.705
+        },
+        {
+          "Q": 270.72,
+          "V": 11.991
+        },
+        {
+          "Q": 299.91,
+          "V": 11.308
+        },
+        {
+          "Q": 326.51,
+          "V": 10.505
+        },
+        {
+          "Q": 348.76,
+          "V": 9.564
+        },
+        {
+          "Q": 375.32,
+          "V": 8.786
+        },
+        {
+          "Q": 398.39,
+          "V": 7.871
+        },
+        {
+          "Q": 418.6,
+          "V": 6.901
+        },
+        {
+          "Q": 442.8,
+          "V": 6.016
+        },
+        {
+          "Q": 461.94,
+          "V": 5.014
+        },
+        {
+          "Q": 477.03,
+          "V": 3.931
+        },
+        {
+          "Q": 495.46,
+          "V": 2.898
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=11.3 м (номинал 12 м, -6 %). Таблица: Qmax=490 м³/ч, Hmax=21 м."
+  },
+  {
+    "Id": "7c3bb407",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ300-9-11(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 65.0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 280.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 300.0,
+    "NominalH": 9.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 16.093
+        },
+        {
+          "Q": 27.09,
+          "V": 15.299
+        },
+        {
+          "Q": 54.59,
+          "V": 14.694
+        },
+        {
+          "Q": 78.71,
+          "V": 13.933
+        },
+        {
+          "Q": 103.74,
+          "V": 13.22
+        },
+        {
+          "Q": 131.21,
+          "V": 12.589
+        },
+        {
+          "Q": 155.73,
+          "V": 11.883
+        },
+        {
+          "Q": 185.93,
+          "V": 11.396
+        },
+        {
+          "Q": 212.82,
+          "V": 10.758
+        },
+        {
+          "Q": 239.41,
+          "V": 10.128
+        },
+        {
+          "Q": 267.01,
+          "V": 9.511
+        },
+        {
+          "Q": 293.2,
+          "V": 8.83
+        },
+        {
+          "Q": 318.44,
+          "V": 8.164
+        },
+        {
+          "Q": 339.39,
+          "V": 7.316
+        },
+        {
+          "Q": 360.35,
+          "V": 6.474
+        },
+        {
+          "Q": 379.5,
+          "V": 5.587
+        },
+        {
+          "Q": 396.26,
+          "V": 4.644
+        },
+        {
+          "Q": 414.41,
+          "V": 3.725
+        },
+        {
+          "Q": 429.87,
+          "V": 2.763
+        },
+        {
+          "Q": 448.14,
+          "V": 1.85
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=300 м³/ч по кривой H=8.6 м (номинал 9 м, -4 %). Таблица: Qmax=450 м³/ч, Hmax=17 м."
+  },
+  {
+    "Id": "0aa7f90d",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "200WQ250-6-7.5(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 200,
+    "FreePassageMm": 55.0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 200.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 250.0,
+    "NominalH": 6.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 14.47,
+          "V": 11.213
+        },
+        {
+          "Q": 35.35,
+          "V": 10.72
+        },
+        {
+          "Q": 59.61,
+          "V": 10.39
+        },
+        {
+          "Q": 80.55,
+          "V": 9.905
+        },
+        {
+          "Q": 104.53,
+          "V": 9.558
+        },
+        {
+          "Q": 124.91,
+          "V": 9.051
+        },
+        {
+          "Q": 146.55,
+          "V": 8.592
+        },
+        {
+          "Q": 169.41,
+          "V": 8.174
+        },
+        {
+          "Q": 192.93,
+          "V": 7.809
+        },
+        {
+          "Q": 210.2,
+          "V": 7.21
+        },
+        {
+          "Q": 226.73,
+          "V": 6.601
+        },
+        {
+          "Q": 248.57,
+          "V": 6.141
+        },
+        {
+          "Q": 264.9,
+          "V": 5.521
+        },
+        {
+          "Q": 284.57,
+          "V": 5.004
+        },
+        {
+          "Q": 302.69,
+          "V": 4.432
+        },
+        {
+          "Q": 315.98,
+          "V": 3.761
+        },
+        {
+          "Q": 331.91,
+          "V": 3.132
+        },
+        {
+          "Q": 344.57,
+          "V": 2.447
+        },
+        {
+          "Q": 357.24,
+          "V": 1.761
+        },
+        {
+          "Q": 369.84,
+          "V": 1.073
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=250 м³/ч по кривой H=6.1 м (номинал 6 м, +1 %). Таблица: Qmax=400 м³/ч, Hmax=12 м."
+  },
+  {
+    "Id": "401dab79",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "250WQ500-21-45(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 250,
+    "FreePassageMm": 85.0,
+    "P2Kw": 45.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 606.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 500.0,
+    "NominalH": 21.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 38.91,
+          "V": 31.48
+        },
+        {
+          "Q": 84.33,
+          "V": 29.753
+        },
+        {
+          "Q": 136.27,
+          "V": 28.281
+        },
+        {
+          "Q": 191.4,
+          "V": 26.919
+        },
+        {
+          "Q": 251.67,
+          "V": 25.789
+        },
+        {
+          "Q": 313.73,
+          "V": 24.739
+        },
+        {
+          "Q": 376.16,
+          "V": 23.732
+        },
+        {
+          "Q": 436.73,
+          "V": 22.681
+        },
+        {
+          "Q": 499.06,
+          "V": 21.654
+        },
+        {
+          "Q": 558.97,
+          "V": 20.499
+        },
+        {
+          "Q": 611.28,
+          "V": 18.986
+        },
+        {
+          "Q": 666.11,
+          "V": 17.577
+        },
+        {
+          "Q": 715.71,
+          "V": 15.997
+        },
+        {
+          "Q": 760.43,
+          "V": 14.282
+        },
+        {
+          "Q": 801.43,
+          "V": 12.461
+        },
+        {
+          "Q": 841.01,
+          "V": 10.598
+        },
+        {
+          "Q": 872.34,
+          "V": 8.582
+        },
+        {
+          "Q": 900.79,
+          "V": 6.554
+        },
+        {
+          "Q": 927.74,
+          "V": 4.512
+        },
+        {
+          "Q": 950.96,
+          "V": 2.396
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=500 м³/ч по кривой H=21.6 м (номинал 21 м, +3 %). Таблица: Qmax=950 м³/ч, Hmax=34 м."
+  },
+  {
+    "Id": "e40562cc",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "250WQ500-18-37(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 250,
+    "FreePassageMm": 85.0,
+    "P2Kw": 37.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 570.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 500.0,
+    "NominalH": 18.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 28.727
+        },
+        {
+          "Q": 41.26,
+          "V": 27.77
+        },
+        {
+          "Q": 87.47,
+          "V": 26.114
+        },
+        {
+          "Q": 142.65,
+          "V": 24.743
+        },
+        {
+          "Q": 199.67,
+          "V": 23.458
+        },
+        {
+          "Q": 261.91,
+          "V": 22.445
+        },
+        {
+          "Q": 326.21,
+          "V": 21.536
+        },
+        {
+          "Q": 391.45,
+          "V": 20.655
+        },
+        {
+          "Q": 453.19,
+          "V": 19.543
+        },
+        {
+          "Q": 513.19,
+          "V": 18.356
+        },
+        {
+          "Q": 567.41,
+          "V": 16.918
+        },
+        {
+          "Q": 619.2,
+          "V": 15.391
+        },
+        {
+          "Q": 667.47,
+          "V": 13.836
+        },
+        {
+          "Q": 712.71,
+          "V": 12.163
+        },
+        {
+          "Q": 755.28,
+          "V": 10.394
+        },
+        {
+          "Q": 796.79,
+          "V": 8.616
+        },
+        {
+          "Q": 837.57,
+          "V": 6.848
+        },
+        {
+          "Q": 870.9,
+          "V": 4.921
+        },
+        {
+          "Q": 902.29,
+          "V": 2.988
+        },
+        {
+          "Q": 937.72,
+          "V": 1.082
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=500 м³/ч по кривой H=18.6 м (номинал 18 м, +3 %). Таблица: Qmax=930 м³/ч, Hmax=30 м."
+  },
+  {
+    "Id": "1f055f0e",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "250WQ500-14-30(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 250,
+    "FreePassageMm": 85.0,
+    "P2Kw": 30.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 512.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 500.0,
+    "NominalH": 14.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 25.521
+        },
+        {
+          "Q": 29.69,
+          "V": 24.745
+        },
+        {
+          "Q": 78.01,
+          "V": 22.768
+        },
+        {
+          "Q": 136.96,
+          "V": 21.074
+        },
+        {
+          "Q": 203.48,
+          "V": 19.688
+        },
+        {
+          "Q": 271.86,
+          "V": 18.545
+        },
+        {
+          "Q": 343.14,
+          "V": 17.433
+        },
+        {
+          "Q": 412.9,
+          "V": 16.202
+        },
+        {
+          "Q": 482.01,
+          "V": 14.932
+        },
+        {
+          "Q": 545.99,
+          "V": 13.386
+        },
+        {
+          "Q": 609.36,
+          "V": 11.86
+        },
+        {
+          "Q": 667.3,
+          "V": 10.119
+        },
+        {
+          "Q": 720.17,
+          "V": 8.232
+        },
+        {
+          "Q": 769.03,
+          "V": 6.253
+        },
+        {
+          "Q": 813.53,
+          "V": 4.151
+        },
+        {
+          "Q": 858.11,
+          "V": 2.047
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=500 м³/ч по кривой H=14.5 м (номинал 14 м, +4 %)."
+  },
+  {
+    "Id": "441255f0",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "250WQ500-11-22(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 250,
+    "FreePassageMm": 70.0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 411.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 500.0,
+    "NominalH": 11.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.809
+        },
+        {
+          "Q": 47.25,
+          "V": 19.688
+        },
+        {
+          "Q": 80.11,
+          "V": 18.554
+        },
+        {
+          "Q": 118.7,
+          "V": 17.498
+        },
+        {
+          "Q": 162.13,
+          "V": 16.542
+        },
+        {
+          "Q": 209.23,
+          "V": 15.724
+        },
+        {
+          "Q": 263.67,
+          "V": 15.157
+        },
+        {
+          "Q": 316.2,
+          "V": 14.58
+        },
+        {
+          "Q": 364.81,
+          "V": 13.779
+        },
+        {
+          "Q": 410.15,
+          "V": 12.86
+        },
+        {
+          "Q": 458.78,
+          "V": 12.182
+        },
+        {
+          "Q": 498.92,
+          "V": 11.205
+        },
+        {
+          "Q": 541.01,
+          "V": 10.206
+        },
+        {
+          "Q": 577.62,
+          "V": 9.092
+        },
+        {
+          "Q": 615.16,
+          "V": 8.0
+        },
+        {
+          "Q": 656.7,
+          "V": 6.996
+        },
+        {
+          "Q": 688.52,
+          "V": 5.799
+        },
+        {
+          "Q": 725.81,
+          "V": 4.696
+        },
+        {
+          "Q": 757.37,
+          "V": 3.511
+        },
+        {
+          "Q": 784.39,
+          "V": 2.261
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=500 м³/ч по кривой H=11.2 м (номинал 11 м, +2 %). Таблица: Qmax=800 м³/ч, Hmax=22 м."
+  },
+  {
+    "Id": "caf2145c",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "300WQ800-14-45(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 300,
+    "FreePassageMm": 0,
+    "P2Kw": 45.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 800.0,
+    "NominalH": 14.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.184
+        },
+        {
+          "Q": 69.28,
+          "V": 25.875
+        },
+        {
+          "Q": 123.29,
+          "V": 24.522
+        },
+        {
+          "Q": 189.39,
+          "V": 23.442
+        },
+        {
+          "Q": 257.75,
+          "V": 22.465
+        },
+        {
+          "Q": 330.45,
+          "V": 21.618
+        },
+        {
+          "Q": 406.12,
+          "V": 20.897
+        },
+        {
+          "Q": 475.29,
+          "V": 19.977
+        },
+        {
+          "Q": 549.68,
+          "V": 19.249
+        },
+        {
+          "Q": 617.51,
+          "V": 18.196
+        },
+        {
+          "Q": 685.65,
+          "V": 17.158
+        },
+        {
+          "Q": 746.26,
+          "V": 15.915
+        },
+        {
+          "Q": 808.27,
+          "V": 14.726
+        },
+        {
+          "Q": 854.57,
+          "V": 13.297
+        },
+        {
+          "Q": 902.66,
+          "V": 11.85
+        },
+        {
+          "Q": 948.29,
+          "V": 10.406
+        },
+        {
+          "Q": 991.77,
+          "V": 8.923
+        },
+        {
+          "Q": 1026.1,
+          "V": 7.345
+        },
+        {
+          "Q": 1060.36,
+          "V": 5.711
+        },
+        {
+          "Q": 1092.94,
+          "V": 4.078
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=800 м³/ч по кривой H=14.9 м (номинал 14 м, +6 %)."
+  },
+  {
+    "Id": "3fc0517e",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "300WQ800-11-37(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 300,
+    "FreePassageMm": 90.0,
+    "P2Kw": 37.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 614.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 800.0,
+    "NominalH": 11.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 24.426
+        },
+        {
+          "Q": 63.87,
+          "V": 23.174
+        },
+        {
+          "Q": 117.16,
+          "V": 22.063
+        },
+        {
+          "Q": 174.56,
+          "V": 21.024
+        },
+        {
+          "Q": 235.47,
+          "V": 20.139
+        },
+        {
+          "Q": 299.83,
+          "V": 19.314
+        },
+        {
+          "Q": 365.98,
+          "V": 18.522
+        },
+        {
+          "Q": 433.08,
+          "V": 17.854
+        },
+        {
+          "Q": 498.78,
+          "V": 17.047
+        },
+        {
+          "Q": 560.69,
+          "V": 16.131
+        },
+        {
+          "Q": 619.5,
+          "V": 15.141
+        },
+        {
+          "Q": 677.19,
+          "V": 14.149
+        },
+        {
+          "Q": 733.48,
+          "V": 13.115
+        },
+        {
+          "Q": 785.22,
+          "V": 11.959
+        },
+        {
+          "Q": 835.13,
+          "V": 10.782
+        },
+        {
+          "Q": 881.51,
+          "V": 9.557
+        },
+        {
+          "Q": 927.84,
+          "V": 8.344
+        },
+        {
+          "Q": 967.73,
+          "V": 7.044
+        },
+        {
+          "Q": 1003.36,
+          "V": 5.688
+        },
+        {
+          "Q": 1033.48,
+          "V": 4.296
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=800 м³/ч по кривой H=11.6 м (номинал 11 м, +6 %). Таблица: Qmax=1060 м³/ч, Hmax=25 м."
+  },
+  {
+    "Id": "99576b82",
+    "Manufacturer": "Aquastrong",
+    "Series": "WQ",
+    "Model": "300WQ800-8-30(4P)",
+    "Country": "Китай",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 300,
+    "FreePassageMm": 0,
+    "P2Kw": 30.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 800.0,
+    "NominalH": 8.0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 21.346
+        },
+        {
+          "Q": 64.34,
+          "V": 20.201
+        },
+        {
+          "Q": 109.94,
+          "V": 19.055
+        },
+        {
+          "Q": 170.58,
+          "V": 18.158
+        },
+        {
+          "Q": 230.37,
+          "V": 17.244
+        },
+        {
+          "Q": 297.27,
+          "V": 16.581
+        },
+        {
+          "Q": 365.17,
+          "V": 15.86
+        },
+        {
+          "Q": 429.88,
+          "V": 15.059
+        },
+        {
+          "Q": 493.13,
+          "V": 14.261
+        },
+        {
+          "Q": 553.07,
+          "V": 13.365
+        },
+        {
+          "Q": 613.95,
+          "V": 12.461
+        },
+        {
+          "Q": 672.22,
+          "V": 11.556
+        },
+        {
+          "Q": 729.49,
+          "V": 10.586
+        },
+        {
+          "Q": 783.49,
+          "V": 9.551
+        },
+        {
+          "Q": 836.95,
+          "V": 8.495
+        },
+        {
+          "Q": 889.8,
+          "V": 7.439
+        },
+        {
+          "Q": 928.69,
+          "V": 6.195
+        },
+        {
+          "Q": 971.56,
+          "V": 4.987
+        },
+        {
+          "Q": 1006.54,
+          "V": 3.74
+        },
+        {
+          "Q": 1046.6,
+          "V": 2.495
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), раздел Submersible Sewage Pumps WQ, стр. 118–119 (таблица и Hydraulic Performance Curves)",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (1450 об/мин, 50 Гц). Проверка по номиналу из обозначения: при Q=800 м³/ч по кривой H=9.2 м (номинал 8 м, +15 %). ВНИМАНИЕ: график каталога отличается от номинала в обозначении более чем на 10 %."
+  },
+  {
+    "Id": "b9aab45a",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ45.5",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 8.5,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
     "WeightKg": 0,
     "InertiaKgM2": 0,
     "ImpellerDmm": 0,
@@ -210647,24 +216589,76 @@
     "Curve": {
       "QH": [
         {
-          "Q": 0.0,
-          "V": 14.021
+          "Q": 5.09,
+          "V": 21.992
         },
         {
-          "Q": 6.416,
-          "V": 9.144
+          "Q": 12.65,
+          "V": 21.381
         },
         {
-          "Q": 9.028,
-          "V": 6.096
+          "Q": 19.89,
+          "V": 20.644
         },
         {
-          "Q": 11.913,
-          "V": 3.048
+          "Q": 26.56,
+          "V": 19.943
         },
         {
-          "Q": 14.998,
-          "V": 1.524
+          "Q": 33.11,
+          "V": 19.112
+        },
+        {
+          "Q": 40.23,
+          "V": 18.183
+        },
+        {
+          "Q": 46.95,
+          "V": 17.159
+        },
+        {
+          "Q": 53.55,
+          "V": 16.126
+        },
+        {
+          "Q": 60.2,
+          "V": 15.084
+        },
+        {
+          "Q": 65.31,
+          "V": 13.865
+        },
+        {
+          "Q": 71.24,
+          "V": 12.575
+        },
+        {
+          "Q": 76.9,
+          "V": 11.206
+        },
+        {
+          "Q": 82.2,
+          "V": 9.777
+        },
+        {
+          "Q": 87.14,
+          "V": 8.298
+        },
+        {
+          "Q": 91.81,
+          "V": 6.776
+        },
+        {
+          "Q": 95.98,
+          "V": 5.185
+        },
+        {
+          "Q": 99.77,
+          "V": 3.554
+        },
+        {
+          "Q": 103.2,
+          "V": 1.898
         }
       ],
       "QP": [],
@@ -210672,12 +216666,1481 @@
       "QNpsh": []
     },
     "Source": {
-      "Document": "Aquastrong, инструкция SWG075CA_manual.pdf (таблица PERFORMANCE: GPH @ ft)",
-      "Url": "https://cdn.shopify.com/s/files/1/0608/6043/2486/files/SWG075CA_manual.pdf",
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 124–125",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
       "Date": "2026-09",
       "Quality": "CatalogTable"
     },
-    "Notes": "Насос рынка США, 60 Гц (при 50 Гц характеристика ниже: Q×0,83, H×0,69). Мощность 1.0 HP. Пересчёт GPH→м³/ч и ft→м; точка Q=0 — Max.Head по паспорту. Max. head 46 ft — по описанию товара."
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈5 м³/ч. Таблица: Hmax=23 м, Qmax=105 м³/ч; по графику H(5)=22.0 м, конец кривой Q=103 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "89826146",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ33.7",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 8.5,
+    "P2Kw": 3.7,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 5.32,
+          "V": 28.331
+        },
+        {
+          "Q": 8.93,
+          "V": 27.558
+        },
+        {
+          "Q": 12.31,
+          "V": 26.604
+        },
+        {
+          "Q": 15.69,
+          "V": 25.585
+        },
+        {
+          "Q": 19.1,
+          "V": 24.615
+        },
+        {
+          "Q": 21.99,
+          "V": 23.341
+        },
+        {
+          "Q": 25.05,
+          "V": 22.088
+        },
+        {
+          "Q": 27.95,
+          "V": 20.743
+        },
+        {
+          "Q": 30.84,
+          "V": 19.426
+        },
+        {
+          "Q": 33.55,
+          "V": 18.017
+        },
+        {
+          "Q": 36.14,
+          "V": 16.529
+        },
+        {
+          "Q": 38.69,
+          "V": 15.032
+        },
+        {
+          "Q": 41.21,
+          "V": 13.539
+        },
+        {
+          "Q": 43.43,
+          "V": 11.949
+        },
+        {
+          "Q": 45.6,
+          "V": 10.312
+        },
+        {
+          "Q": 47.72,
+          "V": 8.647
+        },
+        {
+          "Q": 49.84,
+          "V": 6.996
+        },
+        {
+          "Q": 51.71,
+          "V": 5.262
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 124–125",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈5 м³/ч. Таблица: Hmax=29 м, Qmax=55 м³/ч; по графику H(5)=28.3 м, конец кривой Q=52 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "0b5c0b21",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ31.5",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 8.5,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 5.12,
+          "V": 14.006
+        },
+        {
+          "Q": 7.95,
+          "V": 13.749
+        },
+        {
+          "Q": 10.68,
+          "V": 13.411
+        },
+        {
+          "Q": 13.32,
+          "V": 12.989
+        },
+        {
+          "Q": 15.92,
+          "V": 12.487
+        },
+        {
+          "Q": 18.19,
+          "V": 11.954
+        },
+        {
+          "Q": 20.42,
+          "V": 11.368
+        },
+        {
+          "Q": 22.73,
+          "V": 10.796
+        },
+        {
+          "Q": 24.94,
+          "V": 10.146
+        },
+        {
+          "Q": 26.88,
+          "V": 9.412
+        },
+        {
+          "Q": 28.82,
+          "V": 8.691
+        },
+        {
+          "Q": 30.74,
+          "V": 7.932
+        },
+        {
+          "Q": 32.39,
+          "V": 7.113
+        },
+        {
+          "Q": 34.02,
+          "V": 6.29
+        },
+        {
+          "Q": 35.56,
+          "V": 5.456
+        },
+        {
+          "Q": 36.96,
+          "V": 4.599
+        },
+        {
+          "Q": 38.31,
+          "V": 3.721
+        },
+        {
+          "Q": 39.52,
+          "V": 2.819
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 124–125",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈5 м³/ч. Таблица: Hmax=14.5 м, Qmax=40 м³/ч; по графику H(5)=14.0 м, конец кривой Q=40 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "4b64e51c",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ22.2",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 8.5,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 5.02,
+          "V": 25.358
+        },
+        {
+          "Q": 6.94,
+          "V": 24.988
+        },
+        {
+          "Q": 8.79,
+          "V": 24.45
+        },
+        {
+          "Q": 10.62,
+          "V": 23.832
+        },
+        {
+          "Q": 12.38,
+          "V": 23.09
+        },
+        {
+          "Q": 14.07,
+          "V": 22.224
+        },
+        {
+          "Q": 15.63,
+          "V": 21.208
+        },
+        {
+          "Q": 17.16,
+          "V": 20.208
+        },
+        {
+          "Q": 18.61,
+          "V": 19.054
+        },
+        {
+          "Q": 19.94,
+          "V": 17.811
+        },
+        {
+          "Q": 21.17,
+          "V": 16.503
+        },
+        {
+          "Q": 22.34,
+          "V": 15.159
+        },
+        {
+          "Q": 23.39,
+          "V": 13.729
+        },
+        {
+          "Q": 24.41,
+          "V": 12.271
+        },
+        {
+          "Q": 25.24,
+          "V": 10.722
+        },
+        {
+          "Q": 26.06,
+          "V": 9.195
+        },
+        {
+          "Q": 26.78,
+          "V": 7.611
+        },
+        {
+          "Q": 27.33,
+          "V": 5.993
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 124–125",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈5 м³/ч. Таблица: Hmax=26 м, Qmax=27 м³/ч; по графику H(5)=25.4 м, конец кривой Q=27 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "fce742f7",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ21.5",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 50,
+    "FreePassageMm": 8.5,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 5.19,
+          "V": 19.919
+        },
+        {
+          "Q": 6.57,
+          "V": 19.108
+        },
+        {
+          "Q": 8.1,
+          "V": 18.41
+        },
+        {
+          "Q": 9.56,
+          "V": 17.639
+        },
+        {
+          "Q": 11.24,
+          "V": 17.097
+        },
+        {
+          "Q": 12.56,
+          "V": 16.196
+        },
+        {
+          "Q": 14.02,
+          "V": 15.418
+        },
+        {
+          "Q": 15.35,
+          "V": 14.518
+        },
+        {
+          "Q": 16.72,
+          "V": 13.673
+        },
+        {
+          "Q": 18.08,
+          "V": 12.843
+        },
+        {
+          "Q": 19.23,
+          "V": 11.836
+        },
+        {
+          "Q": 20.66,
+          "V": 11.03
+        },
+        {
+          "Q": 21.72,
+          "V": 9.974
+        },
+        {
+          "Q": 22.86,
+          "V": 8.971
+        },
+        {
+          "Q": 23.96,
+          "V": 7.953
+        },
+        {
+          "Q": 25.04,
+          "V": 6.905
+        },
+        {
+          "Q": 26.1,
+          "V": 5.847
+        },
+        {
+          "Q": 27.08,
+          "V": 4.749
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 124–125",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈5 м³/ч. Таблица: Hmax=22 м, Qmax=27 м³/ч; по графику H(5)=19.9 м, конец кривой Q=27 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "5fa80404",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ47.5",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 11.5,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 105,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 9.86,
+          "V": 37.262
+        },
+        {
+          "Q": 15.36,
+          "V": 36.151
+        },
+        {
+          "Q": 20.76,
+          "V": 34.874
+        },
+        {
+          "Q": 25.98,
+          "V": 33.486
+        },
+        {
+          "Q": 31.17,
+          "V": 32.083
+        },
+        {
+          "Q": 36.09,
+          "V": 30.523
+        },
+        {
+          "Q": 41.09,
+          "V": 29.0
+        },
+        {
+          "Q": 45.69,
+          "V": 27.298
+        },
+        {
+          "Q": 50.31,
+          "V": 25.606
+        },
+        {
+          "Q": 54.76,
+          "V": 23.778
+        },
+        {
+          "Q": 58.82,
+          "V": 21.782
+        },
+        {
+          "Q": 63.22,
+          "V": 19.97
+        },
+        {
+          "Q": 66.69,
+          "V": 17.816
+        },
+        {
+          "Q": 70.12,
+          "V": 15.595
+        },
+        {
+          "Q": 73.47,
+          "V": 13.344
+        },
+        {
+          "Q": 76.23,
+          "V": 10.962
+        },
+        {
+          "Q": 78.78,
+          "V": 8.531
+        },
+        {
+          "Q": 81.06,
+          "V": 6.047
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 126–127",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈10 м³/ч. Таблица: Hmax=40 м, Qmax=84 м³/ч; по графику H(10)=37.3 м, конец кривой Q=81 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "a4c717ca",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ411",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 11.5,
+    "P2Kw": 11,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 130,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 10.32,
+          "V": 45.241
+        },
+        {
+          "Q": 15.82,
+          "V": 43.216
+        },
+        {
+          "Q": 21.13,
+          "V": 41.043
+        },
+        {
+          "Q": 26.36,
+          "V": 38.797
+        },
+        {
+          "Q": 31.56,
+          "V": 36.576
+        },
+        {
+          "Q": 36.91,
+          "V": 34.488
+        },
+        {
+          "Q": 41.77,
+          "V": 32.036
+        },
+        {
+          "Q": 46.76,
+          "V": 29.639
+        },
+        {
+          "Q": 51.7,
+          "V": 27.228
+        },
+        {
+          "Q": 56.52,
+          "V": 24.811
+        },
+        {
+          "Q": 61.43,
+          "V": 22.35
+        },
+        {
+          "Q": 66.01,
+          "V": 19.735
+        },
+        {
+          "Q": 70.69,
+          "V": 17.184
+        },
+        {
+          "Q": 75.19,
+          "V": 14.493
+        },
+        {
+          "Q": 79.62,
+          "V": 11.793
+        },
+        {
+          "Q": 83.87,
+          "V": 8.982
+        },
+        {
+          "Q": 85.28,
+          "V": 6.525
+        },
+        {
+          "Q": 85.72,
+          "V": 3.25
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 126–127",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈10 м³/ч. Таблица: Hmax=48.5 м, Qmax=86.4 м³/ч; по графику H(10)=45.2 м, конец кривой Q=86 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "335898a3",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ415",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 11.5,
+    "P2Kw": 15,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 142,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 10.58,
+          "V": 53.729
+        },
+        {
+          "Q": 17.78,
+          "V": 52.57
+        },
+        {
+          "Q": 24.85,
+          "V": 51.113
+        },
+        {
+          "Q": 31.83,
+          "V": 49.441
+        },
+        {
+          "Q": 38.72,
+          "V": 47.555
+        },
+        {
+          "Q": 45.55,
+          "V": 45.568
+        },
+        {
+          "Q": 52.33,
+          "V": 43.534
+        },
+        {
+          "Q": 59.19,
+          "V": 41.559
+        },
+        {
+          "Q": 65.53,
+          "V": 38.955
+        },
+        {
+          "Q": 71.24,
+          "V": 35.782
+        },
+        {
+          "Q": 75.78,
+          "V": 31.87
+        },
+        {
+          "Q": 79.13,
+          "V": 27.439
+        },
+        {
+          "Q": 80.84,
+          "V": 22.584
+        },
+        {
+          "Q": 81.84,
+          "V": 19.033
+        },
+        {
+          "Q": 83.23,
+          "V": 14.609
+        },
+        {
+          "Q": 84.2,
+          "V": 10.568
+        },
+        {
+          "Q": 85.02,
+          "V": 6.998
+        },
+        {
+          "Q": 85.7,
+          "V": 3.415
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 126–127",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈11 м³/ч. Таблица: Hmax=56 м, Qmax=86.4 м³/ч; по графику H(11)=53.7 м, конец кривой Q=86 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "717350fe",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ67.5",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 19.5,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 106,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 10.29,
+          "V": 29.004
+        },
+        {
+          "Q": 18.43,
+          "V": 27.981
+        },
+        {
+          "Q": 26.18,
+          "V": 26.896
+        },
+        {
+          "Q": 33.72,
+          "V": 25.733
+        },
+        {
+          "Q": 41.15,
+          "V": 24.476
+        },
+        {
+          "Q": 48.34,
+          "V": 23.176
+        },
+        {
+          "Q": 55.24,
+          "V": 21.773
+        },
+        {
+          "Q": 62.06,
+          "V": 20.411
+        },
+        {
+          "Q": 67.97,
+          "V": 19.001
+        },
+        {
+          "Q": 74.72,
+          "V": 17.671
+        },
+        {
+          "Q": 81.12,
+          "V": 16.172
+        },
+        {
+          "Q": 87.26,
+          "V": 14.652
+        },
+        {
+          "Q": 93.49,
+          "V": 13.093
+        },
+        {
+          "Q": 99.38,
+          "V": 11.469
+        },
+        {
+          "Q": 105.3,
+          "V": 9.867
+        },
+        {
+          "Q": 111.01,
+          "V": 8.214
+        },
+        {
+          "Q": 116.62,
+          "V": 6.556
+        },
+        {
+          "Q": 122.3,
+          "V": 4.912
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 126–127",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈10 м³/ч. Таблица: Hmax=31 м, Qmax=124.8 м³/ч; по графику H(10)=29.0 м, конец кривой Q=122 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "7617242e",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ611",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 19.5,
+    "P2Kw": 11,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 133,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 10.13,
+          "V": 31.02
+        },
+        {
+          "Q": 20.48,
+          "V": 30.155
+        },
+        {
+          "Q": 30.61,
+          "V": 29.131
+        },
+        {
+          "Q": 40.43,
+          "V": 27.937
+        },
+        {
+          "Q": 48.93,
+          "V": 26.536
+        },
+        {
+          "Q": 57.71,
+          "V": 25.606
+        },
+        {
+          "Q": 66.96,
+          "V": 24.188
+        },
+        {
+          "Q": 75.81,
+          "V": 22.714
+        },
+        {
+          "Q": 84.15,
+          "V": 21.23
+        },
+        {
+          "Q": 92.44,
+          "V": 19.641
+        },
+        {
+          "Q": 100.43,
+          "V": 17.968
+        },
+        {
+          "Q": 107.89,
+          "V": 16.186
+        },
+        {
+          "Q": 115.24,
+          "V": 14.381
+        },
+        {
+          "Q": 122.01,
+          "V": 12.485
+        },
+        {
+          "Q": 128.55,
+          "V": 10.55
+        },
+        {
+          "Q": 134.42,
+          "V": 8.537
+        },
+        {
+          "Q": 140.06,
+          "V": 6.498
+        },
+        {
+          "Q": 145.17,
+          "V": 4.404
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 126–127",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈10 м³/ч. Таблица: Hmax=32 м, Qmax=147 м³/ч; по графику H(10)=31.0 м, конец кривой Q=145 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "a6c8e14b",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBZ",
+    "Model": "KBZ615",
+    "Country": "Китай",
+    "Application": "дренажный погружной (грязевой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 19.5,
+    "P2Kw": 15,
+    "P1Kw": 0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 145,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 10.27,
+          "V": 38.704
+        },
+        {
+          "Q": 21.53,
+          "V": 37.204
+        },
+        {
+          "Q": 32.76,
+          "V": 35.719
+        },
+        {
+          "Q": 42.68,
+          "V": 34.207
+        },
+        {
+          "Q": 53.99,
+          "V": 32.634
+        },
+        {
+          "Q": 65.2,
+          "V": 31.106
+        },
+        {
+          "Q": 76.62,
+          "V": 29.654
+        },
+        {
+          "Q": 87.68,
+          "V": 28.288
+        },
+        {
+          "Q": 99.27,
+          "V": 26.896
+        },
+        {
+          "Q": 110.41,
+          "V": 25.273
+        },
+        {
+          "Q": 121.08,
+          "V": 23.533
+        },
+        {
+          "Q": 130.57,
+          "V": 21.439
+        },
+        {
+          "Q": 138.8,
+          "V": 19.024
+        },
+        {
+          "Q": 144.25,
+          "V": 16.205
+        },
+        {
+          "Q": 148.2,
+          "V": 13.244
+        },
+        {
+          "Q": 151.51,
+          "V": 10.236
+        },
+        {
+          "Q": 154.4,
+          "V": 7.202
+        },
+        {
+          "Q": 157.11,
+          "V": 4.159
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Dewatering Pumps, стр. 126–127",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈10 м³/ч. Таблица: Hmax=40 м, Qmax=156 м³/ч; по графику H(10)=38.7 м, конец кривой Q=157 м³/ч. Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "5bd7f769",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBS",
+    "Model": "80KBS44",
+    "Country": "Китай",
+    "Application": "шламовый погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 80,
+    "FreePassageMm": 30,
+    "P2Kw": 4,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 105,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 11.93,
+          "V": 14.406
+        },
+        {
+          "Q": 18.29,
+          "V": 13.983
+        },
+        {
+          "Q": 24.73,
+          "V": 13.486
+        },
+        {
+          "Q": 30.79,
+          "V": 12.923
+        },
+        {
+          "Q": 36.88,
+          "V": 12.35
+        },
+        {
+          "Q": 42.79,
+          "V": 11.736
+        },
+        {
+          "Q": 48.51,
+          "V": 11.075
+        },
+        {
+          "Q": 54.17,
+          "V": 10.404
+        },
+        {
+          "Q": 59.72,
+          "V": 9.711
+        },
+        {
+          "Q": 64.94,
+          "V": 8.97
+        },
+        {
+          "Q": 70.01,
+          "V": 8.209
+        },
+        {
+          "Q": 75.0,
+          "V": 7.438
+        },
+        {
+          "Q": 79.66,
+          "V": 6.628
+        },
+        {
+          "Q": 84.04,
+          "V": 5.792
+        },
+        {
+          "Q": 88.22,
+          "V": 4.93
+        },
+        {
+          "Q": 91.94,
+          "V": 4.029
+        },
+        {
+          "Q": 95.57,
+          "V": 3.125
+        },
+        {
+          "Q": 98.77,
+          "V": 2.187
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Slurry Pumps, стр. 128–129",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈12 м³/ч. Таблица: Hmax=14.8 м, Qmax=99 м³/ч; по графику H(12)=14.4 м, конец кривой Q=99 м³/ч. Шламовый насос с агитатором, колесо из хромистого чугуна; 4-полюсный двигатель (по коду обозначения)."
+  },
+  {
+    "Id": "44eec8eb",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBS",
+    "Model": "100KBS46",
+    "Country": "Китай",
+    "Application": "шламовый погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 100,
+    "FreePassageMm": 30,
+    "P2Kw": 6,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 145,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 12.74,
+          "V": 16.366
+        },
+        {
+          "Q": 22.8,
+          "V": 15.798
+        },
+        {
+          "Q": 32.41,
+          "V": 15.176
+        },
+        {
+          "Q": 41.79,
+          "V": 14.493
+        },
+        {
+          "Q": 50.92,
+          "V": 13.795
+        },
+        {
+          "Q": 59.66,
+          "V": 13.045
+        },
+        {
+          "Q": 68.19,
+          "V": 12.254
+        },
+        {
+          "Q": 76.45,
+          "V": 11.413
+        },
+        {
+          "Q": 84.53,
+          "V": 10.558
+        },
+        {
+          "Q": 92.58,
+          "V": 9.703
+        },
+        {
+          "Q": 100.12,
+          "V": 8.781
+        },
+        {
+          "Q": 107.53,
+          "V": 7.859
+        },
+        {
+          "Q": 114.61,
+          "V": 6.901
+        },
+        {
+          "Q": 121.51,
+          "V": 5.926
+        },
+        {
+          "Q": 128.14,
+          "V": 4.929
+        },
+        {
+          "Q": 134.53,
+          "V": 3.911
+        },
+        {
+          "Q": 140.58,
+          "V": 2.878
+        },
+        {
+          "Q": 146.46,
+          "V": 1.824
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Slurry Pumps, стр. 128–129",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈13 м³/ч. Таблица: Hmax=16.9 м, Qmax=150 м³/ч; по графику H(13)=16.4 м, конец кривой Q=146 м³/ч. Шламовый насос с агитатором, колесо из хромистого чугуна; 4-полюсный двигатель (по коду обозначения)."
+  },
+  {
+    "Id": "98761103",
+    "Manufacturer": "Aquastrong",
+    "Series": "KBS",
+    "Model": "150KBS49",
+    "Country": "Китай",
+    "Application": "шламовый погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 150,
+    "FreePassageMm": 30,
+    "P2Kw": 9,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 170,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 12.55,
+          "V": 21.625
+        },
+        {
+          "Q": 25.61,
+          "V": 21.196
+        },
+        {
+          "Q": 38.4,
+          "V": 20.631
+        },
+        {
+          "Q": 50.94,
+          "V": 19.961
+        },
+        {
+          "Q": 62.88,
+          "V": 19.147
+        },
+        {
+          "Q": 74.4,
+          "V": 18.257
+        },
+        {
+          "Q": 85.34,
+          "V": 17.257
+        },
+        {
+          "Q": 95.71,
+          "V": 16.151
+        },
+        {
+          "Q": 105.73,
+          "V": 14.991
+        },
+        {
+          "Q": 115.01,
+          "V": 13.751
+        },
+        {
+          "Q": 123.61,
+          "V": 12.424
+        },
+        {
+          "Q": 131.77,
+          "V": 11.04
+        },
+        {
+          "Q": 139.24,
+          "V": 9.593
+        },
+        {
+          "Q": 146.07,
+          "V": 8.108
+        },
+        {
+          "Q": 152.51,
+          "V": 6.589
+        },
+        {
+          "Q": 158.28,
+          "V": 5.018
+        },
+        {
+          "Q": 163.35,
+          "V": 3.41
+        },
+        {
+          "Q": 167.84,
+          "V": 1.774
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquastrong Commercial Pumps (50 Hz), Submersible Slurry Pumps, стр. 128–129",
+      "Url": "https://mipower.co.za/wp-content/uploads/documents/downloads/aquastrong-commercial-pumps.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Кривая Q–H оцифрована с графика каталога (50 Гц); на графике кривая начинается с Q≈13 м³/ч. Таблица: Hmax=21.5 м, Qmax=168 м³/ч; по графику H(13)=21.6 м, конец кривой Q=168 м³/ч. Шламовый насос с агитатором, колесо из хромистого чугуна; 4-полюсный двигатель (по коду обозначения)."
   },
   {
     "Id": "56a9e80a",

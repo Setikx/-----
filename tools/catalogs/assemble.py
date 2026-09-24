@@ -1,6 +1,6 @@
 import json,glob,os,csv,collections,numpy as np
 from common import despike
-BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq']
+BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa']
 allr=[];log=collections.defaultdict(list);ids=set()
 for b in BR:
     R=json.load(open(f'out/{b}.json')); keep=[]
@@ -33,6 +33,7 @@ with open('final/summary.csv','w',newline='',encoding='utf-8-sig') as f:
         c=r['Curve']; w.writerow([r['Manufacturer'],r['Series'],r['Model'],r['Impeller'],r['DnOut'],r['FreePassageMm'],r['P2Kw'],r['Rpm'],r['Voltage'],
             c['QH'][-1]['Q'],c['QH'][0]['V'] if c['QH'][0]['Q']==0 else '',len(c['QH']),len(c['QP']),len(c['QEta']),len(c['QNpsh']),r['Source']['Quality'],r['Source']['Document']])
 log['aquastrong']+=[tuple(x) for x in json.load(open('out/aquastrong_excluded.json'))]
+log['homa']+=[tuple(x) for x in json.load(open('out/homa_excluded.json'))]
 log['tsunami']+=[tuple(x) for x in json.load(open('out/tsunami_excluded.json'))]
 json.dump({k:v for k,v in log.items()},open('final/excluded.json','w'),ensure_ascii=False,indent=1)
 print('TOTAL',len(allr))

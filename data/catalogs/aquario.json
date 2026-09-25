@@ -1,0 +1,2183 @@
+[
+  {
+    "Id": "fd3faaef",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-12-7-RHINO",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.96,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 18.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.0
+        },
+        {
+          "Q": 10.5,
+          "V": 8.0
+        },
+        {
+          "Q": 15.0,
+          "V": 6.0
+        },
+        {
+          "Q": 18.0,
+          "V": 4.5
+        },
+        {
+          "Q": 24.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-12-7-RHINO, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-12-7-rhino",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "e35210bc",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-16-15-RHINO",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 2.15,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 26.1,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 22.0
+        },
+        {
+          "Q": 6.0,
+          "V": 20.0
+        },
+        {
+          "Q": 10.5,
+          "V": 18.0
+        },
+        {
+          "Q": 13.5,
+          "V": 16.0
+        },
+        {
+          "Q": 18.0,
+          "V": 14.0
+        },
+        {
+          "Q": 24.0,
+          "V": 10.0
+        },
+        {
+          "Q": 34.5,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-16-15-RHINO, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-16-15-rhino",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "8a80b1e1",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-18-8-RHINO",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 22.7,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.0
+        },
+        {
+          "Q": 6.0,
+          "V": 12.0
+        },
+        {
+          "Q": 10.5,
+          "V": 11.0
+        },
+        {
+          "Q": 13.5,
+          "V": 10.0
+        },
+        {
+          "Q": 18.0,
+          "V": 8.5
+        },
+        {
+          "Q": 24.0,
+          "V": 5.0
+        },
+        {
+          "Q": 30.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-18-8-RHINO, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-18-8-rhino",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "4b5fc221",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-20-16-RIVO",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 2.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 23.1,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.0
+        },
+        {
+          "Q": 7.5,
+          "V": 18.0
+        },
+        {
+          "Q": 18.0,
+          "V": 16.0
+        },
+        {
+          "Q": 24.0,
+          "V": 14.0
+        },
+        {
+          "Q": 27.0,
+          "V": 12.0
+        },
+        {
+          "Q": 30.0,
+          "V": 9.0
+        },
+        {
+          "Q": 33.6,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-20-16-RIVO, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-20-16-rivo",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "dac2e4a4",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-260-5E-MINI",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.26,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 3.1,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.5
+        },
+        {
+          "Q": 3.0,
+          "V": 5.0
+        },
+        {
+          "Q": 6.0,
+          "V": 2.5
+        },
+        {
+          "Q": 7.8,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-260-5E-MINI, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-260-5e-mini",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "1e416fd4",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-4-15-RIVO",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 11.8,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 3.0,
+          "V": 16.0
+        },
+        {
+          "Q": 4.5,
+          "V": 14.0
+        },
+        {
+          "Q": 6.0,
+          "V": 11.0
+        },
+        {
+          "Q": 7.5,
+          "V": 6.5
+        },
+        {
+          "Q": 9.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-4-15-RIVO, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-4-15-rivo",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "5d4d9d8d",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-4-27-RIVO",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.55,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 18.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 33.0
+        },
+        {
+          "Q": 1.5,
+          "V": 32.0
+        },
+        {
+          "Q": 3.0,
+          "V": 30.0
+        },
+        {
+          "Q": 4.5,
+          "V": 26.0
+        },
+        {
+          "Q": 6.0,
+          "V": 21.0
+        },
+        {
+          "Q": 7.5,
+          "V": 14.0
+        },
+        {
+          "Q": 9.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-4-27-RIVO, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-4-27-rivo",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "b3574d77",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-400-5E COMPACT",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.38,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 5.0
+        },
+        {
+          "Q": 2.4,
+          "V": 3.7
+        },
+        {
+          "Q": 4.8,
+          "V": 2.1
+        },
+        {
+          "Q": 7.2,
+          "V": 0.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-400-5E COMPACT, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-400-5ecompact",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "403c634e",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-401-35E",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.32,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.4,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 5.5
+        },
+        {
+          "Q": 3.0,
+          "V": 4.1
+        },
+        {
+          "Q": 6.0,
+          "V": 2.8
+        },
+        {
+          "Q": 9.0,
+          "V": 1.1
+        },
+        {
+          "Q": 10.98,
+          "V": 0.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-401-35E, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-401-35e",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "38cb484d",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-500-5E COMPACT",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.49,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.4,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.0
+        },
+        {
+          "Q": 2.4,
+          "V": 5.8
+        },
+        {
+          "Q": 3.6,
+          "V": 5.2
+        },
+        {
+          "Q": 4.8,
+          "V": 4.3
+        },
+        {
+          "Q": 6.0,
+          "V": 3.6
+        },
+        {
+          "Q": 7.2,
+          "V": 2.8
+        },
+        {
+          "Q": 8.4,
+          "V": 1.8
+        },
+        {
+          "Q": 10.5,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-500-5E COMPACT, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-500-5ecompact",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "ae1fd8cf",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-751-35E",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.55,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 5.3,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.0
+        },
+        {
+          "Q": 3.0,
+          "V": 6.9
+        },
+        {
+          "Q": 6.0,
+          "V": 5.5
+        },
+        {
+          "Q": 9.0,
+          "V": 4.0
+        },
+        {
+          "Q": 15.96,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-751-35E, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-751-35e",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "917f22ad",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-8-15-FRESA",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 2.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 26.0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.0
+        },
+        {
+          "Q": 2.4,
+          "V": 18.0
+        },
+        {
+          "Q": 4.8,
+          "V": 17.0
+        },
+        {
+          "Q": 8.4,
+          "V": 15.0
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 15.6,
+          "V": 9.0
+        },
+        {
+          "Q": 21.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-8-15-FRESA, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-8-15-fresa",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "e5228bd9",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-8-7-FRESA",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.15,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 21.8,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.0
+        },
+        {
+          "Q": 2.4,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 9.0
+        },
+        {
+          "Q": 7.2,
+          "V": 8.0
+        },
+        {
+          "Q": 10.8,
+          "V": 5.5
+        },
+        {
+          "Q": 15.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-8-7-FRESA, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-8-7-fresa",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "182e3f3a",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-901-35E",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.7,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 6.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.0
+        },
+        {
+          "Q": 3.0,
+          "V": 8.2
+        },
+        {
+          "Q": 6.0,
+          "V": 7.3
+        },
+        {
+          "Q": 9.0,
+          "V": 6.1
+        },
+        {
+          "Q": 12.0,
+          "V": 4.8
+        },
+        {
+          "Q": 15.0,
+          "V": 3.1
+        },
+        {
+          "Q": 19.5,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-901-35E, «Гидравлический график»",
+      "Url": "https://aquario.ru/ads-901-35e",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "7e74e6c3",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-1500",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.64,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 5.7,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.5
+        },
+        {
+          "Q": 3.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 6.0
+        },
+        {
+          "Q": 9.0,
+          "V": 4.0
+        },
+        {
+          "Q": 12.0,
+          "V": 2.2
+        },
+        {
+          "Q": 15.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-1500, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/ads-1500",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "9a6e5366",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-1700",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.75,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 6.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.0
+        },
+        {
+          "Q": 3.0,
+          "V": 9.0
+        },
+        {
+          "Q": 4.5,
+          "V": 8.2
+        },
+        {
+          "Q": 6.0,
+          "V": 7.5
+        },
+        {
+          "Q": 9.0,
+          "V": 6.0
+        },
+        {
+          "Q": 12.0,
+          "V": 4.0
+        },
+        {
+          "Q": 15.0,
+          "V": 2.0
+        },
+        {
+          "Q": 16.8,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-1700, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/ads-1700",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "cfc3d623",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-250-5E",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.25,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.3,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 6.0
+        },
+        {
+          "Q": 3.0,
+          "V": 3.4
+        },
+        {
+          "Q": 6.0,
+          "V": 0.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-250-5E, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/ads-250-5e",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "0a5af62c",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-400-5E1",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.33,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.0
+        },
+        {
+          "Q": 3.0,
+          "V": 6.0
+        },
+        {
+          "Q": 6.0,
+          "V": 3.5
+        },
+        {
+          "Q": 8.4,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-400-5E1, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/ads-400-5e1",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "769fdc58",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-500-5E",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.44,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.9,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.1
+        },
+        {
+          "Q": 3.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 5.9
+        },
+        {
+          "Q": 9.0,
+          "V": 3.9
+        },
+        {
+          "Q": 12.0,
+          "V": 0.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-500-5E, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/ads-500-5e",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "74e978af",
+    "Manufacturer": "Aquario",
+    "Series": "ADS",
+    "Model": "ADS-900",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 4.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 5.0
+        },
+        {
+          "Q": 3.0,
+          "V": 3.5
+        },
+        {
+          "Q": 6.0,
+          "V": 2.0
+        },
+        {
+          "Q": 7.5,
+          "V": 1.0
+        },
+        {
+          "Q": 9.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка ADS-900, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/ads-900",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "48ef06c6",
+    "Manufacturer": "Aquario",
+    "Series": "GRINDER",
+    "Model": "GRINDER-100",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 28.8,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 18.0
+        },
+        {
+          "Q": 3.0,
+          "V": 15.0
+        },
+        {
+          "Q": 6.0,
+          "V": 11.0
+        },
+        {
+          "Q": 9.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка GRINDER-100, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/grinder-100",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "700acde4",
+    "Manufacturer": "Aquario",
+    "Series": "GRINDER",
+    "Model": "GRINDER-150",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 34.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 14.0
+        },
+        {
+          "Q": 3.0,
+          "V": 12.8
+        },
+        {
+          "Q": 6.0,
+          "V": 12.1
+        },
+        {
+          "Q": 9.0,
+          "V": 11.0
+        },
+        {
+          "Q": 12.0,
+          "V": 10.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.5
+        },
+        {
+          "Q": 18.0,
+          "V": 7.5
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка GRINDER-150, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/grinder-150",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "55498aca",
+    "Manufacturer": "Aquario",
+    "Series": "GRINDER",
+    "Model": "GRINDER-200",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 2.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 45.8,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 26.0
+        },
+        {
+          "Q": 3.0,
+          "V": 23.5
+        },
+        {
+          "Q": 6.0,
+          "V": 21.0
+        },
+        {
+          "Q": 7.5,
+          "V": 19.0
+        },
+        {
+          "Q": 9.6,
+          "V": 12.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка GRINDER-200, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/grinder-200",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "556310de",
+    "Manufacturer": "Aquario",
+    "Series": "SAND",
+    "Model": "SAND-100",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 23.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 18.0
+        },
+        {
+          "Q": 3.0,
+          "V": 16.5
+        },
+        {
+          "Q": 6.0,
+          "V": 15.0
+        },
+        {
+          "Q": 9.0,
+          "V": 12.5
+        },
+        {
+          "Q": 12.0,
+          "V": 9.6
+        },
+        {
+          "Q": 15.0,
+          "V": 6.0
+        },
+        {
+          "Q": 18.0,
+          "V": 1.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка SAND-100, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/sand-100",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "83250fd8",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-12-5C",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 20.6,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.0
+        },
+        {
+          "Q": 3.0,
+          "V": 7.8
+        },
+        {
+          "Q": 6.0,
+          "V": 7.0
+        },
+        {
+          "Q": 9.0,
+          "V": 6.0
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        },
+        {
+          "Q": 15.0,
+          "V": 4.2
+        },
+        {
+          "Q": 18.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-12-5C, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-12-5c",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "6dfe7da4",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-15-8C",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.15,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 22.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.0
+        },
+        {
+          "Q": 3.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.5
+        },
+        {
+          "Q": 9.0,
+          "V": 9.5
+        },
+        {
+          "Q": 12.0,
+          "V": 8.5
+        },
+        {
+          "Q": 15.0,
+          "V": 7.8
+        },
+        {
+          "Q": 18.0,
+          "V": 6.8
+        },
+        {
+          "Q": 24.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-15-8C, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-15-8c",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "bc159339",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-18-8C",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 23.7,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.0
+        },
+        {
+          "Q": 3.0,
+          "V": 12.0
+        },
+        {
+          "Q": 6.0,
+          "V": 11.5
+        },
+        {
+          "Q": 9.0,
+          "V": 10.5
+        },
+        {
+          "Q": 12.0,
+          "V": 9.5
+        },
+        {
+          "Q": 15.0,
+          "V": 8.4
+        },
+        {
+          "Q": 18.0,
+          "V": 7.8
+        },
+        {
+          "Q": 24.0,
+          "V": 5.4
+        },
+        {
+          "Q": 30.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-18-8C, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-18-8c",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "72fda833",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-20-10C",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 2.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 27.2,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.0
+        },
+        {
+          "Q": 3.0,
+          "V": 14.5
+        },
+        {
+          "Q": 6.0,
+          "V": 14.0
+        },
+        {
+          "Q": 9.0,
+          "V": 13.2
+        },
+        {
+          "Q": 12.0,
+          "V": 12.8
+        },
+        {
+          "Q": 15.0,
+          "V": 12.0
+        },
+        {
+          "Q": 18.0,
+          "V": 11.5
+        },
+        {
+          "Q": 24.0,
+          "V": 9.5
+        },
+        {
+          "Q": 30.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-20-10C, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-20-10c",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "078a34ca",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-30-12TC",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 3.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 52.1,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.0
+        },
+        {
+          "Q": 12.0,
+          "V": 16.5
+        },
+        {
+          "Q": 24.0,
+          "V": 14.0
+        },
+        {
+          "Q": 36.0,
+          "V": 10.5
+        },
+        {
+          "Q": 48.0,
+          "V": 7.5
+        },
+        {
+          "Q": 60.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-30-12TC, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-30-12tc",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "9b54353c",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-35-14TC",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 4.6,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 70.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.0
+        },
+        {
+          "Q": 12.0,
+          "V": 17.5
+        },
+        {
+          "Q": 24.0,
+          "V": 15.5
+        },
+        {
+          "Q": 36.0,
+          "V": 13.5
+        },
+        {
+          "Q": 48.0,
+          "V": 11.5
+        },
+        {
+          "Q": 60.0,
+          "V": 8.5
+        },
+        {
+          "Q": 72.0,
+          "V": 7.0
+        },
+        {
+          "Q": 84.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-35-14TC, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-35-14tc",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "40184272",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-4-4SS",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 6.5,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.5
+        },
+        {
+          "Q": 1.2,
+          "V": 6.5
+        },
+        {
+          "Q": 2.4,
+          "V": 5.5
+        },
+        {
+          "Q": 3.6,
+          "V": 4.7
+        },
+        {
+          "Q": 4.8,
+          "V": 3.3
+        },
+        {
+          "Q": 6.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-4-4SS, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-4-4ss",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "f2c7e391",
+    "Manufacturer": "Aquario",
+    "Series": "VORTEX",
+    "Model": "VORTEX-4-7SS",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 6.8,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 11.0
+        },
+        {
+          "Q": 1.2,
+          "V": 9.3
+        },
+        {
+          "Q": 2.4,
+          "V": 8.5
+        },
+        {
+          "Q": 3.6,
+          "V": 7.5
+        },
+        {
+          "Q": 4.8,
+          "V": 6.0
+        },
+        {
+          "Q": 6.0,
+          "V": 4.5
+        },
+        {
+          "Q": 7.2,
+          "V": 2.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка VORTEX-4-7SS, «Гидравлический график»",
+      "Url": "https://aquario.ru/catalog/drenazhnye-nasosy/vortex-4-7ss",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  },
+  {
+    "Id": "82112006",
+    "Manufacturer": "Aquario",
+    "Series": "SUPERSAND",
+    "Model": "SUPERSAND-150",
+    "Country": "Россия (бренд)",
+    "Application": "дренажный/фекальный погружной (бытовой)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.65,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 18.7,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 16.0
+        },
+        {
+          "Q": 6.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 12.5
+        },
+        {
+          "Q": 18.0,
+          "V": 10.0
+        },
+        {
+          "Q": 24.0,
+          "V": 5.0
+        },
+        {
+          "Q": 27.0,
+          "V": 0.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Aquario, сайт aquario.ru, карточка SUPERSAND-150, «Гидравлический график»",
+      "Url": "https://aquario.ru/supersand-150",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки Q–H интерактивного графика на карточке изготовителя (Q в л/мин пересчитан в м³/ч). P2 в карточке не указана; P1 — потребляемая мощность."
+  }
+]

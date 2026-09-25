@@ -1,6 +1,6 @@
 import json,glob,os,csv,collections,numpy as np
 from common import despike
-BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa','liancheng','sempa','standart','shinmaywa','hydroo','shimge','aquario','speroni','jung','pentax','herborner','kessel','espa']
+BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa','liancheng','sempa','standart','shinmaywa','hydroo','shimge','aquario','speroni','jung','pentax','herborner','kessel','espa','etna']
 allr=[];log=collections.defaultdict(list);ids=set()
 for b in BR:
     R=json.load(open(f'out/{b}.json')); keep=[]
@@ -45,6 +45,8 @@ log['pentax']+=[tuple(x) for x in json.load(open('out/pentax_excluded.json'))]
 log['herborner']+=[tuple(x) for x in json.load(open('out/herborner_excluded.json'))]
 log['kessel']+=[tuple(x) for x in json.load(open('out/kessel_excluded.json'))]
 log['espa']+=[tuple(x) for x in json.load(open('out/espa_excluded.json'))]
+log['etna']+=[tuple(x) for x in json.load(open('out/etna_excluded.json'))]
+log['priority3_not_found']=[('Stream (Китай)','кривые только растровыми картинками на streampumps.ru (22 графика, ~180 кривых, многоцветные/пересекающиеся) — не оцифровано, возможно по запросу'),('Shanghai East Pump (Китай)','PDF-каталоги WQ только после регистрации (made-in-china), на сайте eastpump.com нет'),('Kenflo (Китай)','канализационной линейки на kenflo-pump.com нет (только технологические, вакуумные насосы)'),('Egger (Швейцария)','Turo T/TA — только поля применения (огибающие обрезки, лог. оси), отдельные кривые — в подборочной программе')]
 log['tsunami']+=[tuple(x) for x in json.load(open('out/tsunami_excluded.json'))]
 json.dump({k:v for k,v in log.items()},open('final/excluded.json','w'),ensure_ascii=False,indent=1)
 print('TOTAL',len(allr))

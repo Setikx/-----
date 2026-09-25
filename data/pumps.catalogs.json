@@ -493588,5 +493588,2451 @@
       "Quality": "CatalogTable"
     },
     "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 98. P2 0.9 кВт, P1 1.4 кВт. Суффикс M — однофазное исполнение 230 В (M/MA), T — трёхфазное 400 В (обозначения каталога). Частота вращения 2900 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "b75e5758",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-040T",
+    "Country": "Турция",
+    "Application": "дренажный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.41,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.5
+        },
+        {
+          "Q": 2.0,
+          "V": 6.5
+        },
+        {
+          "Q": 4.0,
+          "V": 5.0
+        },
+        {
+          "Q": 6.0,
+          "V": 3.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 2",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 2. Мощность по каталогу 0.55 л.с. (≈0.41 кВт)."
+  },
+  {
+    "Id": "06ccb1f3",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-075T",
+    "Country": "Турция",
+    "Application": "дренажный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.5
+        },
+        {
+          "Q": 2.0,
+          "V": 8.1
+        },
+        {
+          "Q": 4.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 6.3
+        },
+        {
+          "Q": 8.0,
+          "V": 5.0
+        },
+        {
+          "Q": 10.0,
+          "V": 2.5
+        },
+        {
+          "Q": 12.0,
+          "V": 1.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 2",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 2. Мощность по каталогу 1 л.с. (≈0.75 кВт)."
+  },
+  {
+    "Id": "e493b33e",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-075K",
+    "Country": "Турция",
+    "Application": "дренажный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.0
+        },
+        {
+          "Q": 0.5,
+          "V": 6.8
+        },
+        {
+          "Q": 1.0,
+          "V": 5.8
+        },
+        {
+          "Q": 1.5,
+          "V": 4.8
+        },
+        {
+          "Q": 2.0,
+          "V": 3.8
+        },
+        {
+          "Q": 2.5,
+          "V": 2.6
+        },
+        {
+          "Q": 3.0,
+          "V": 1.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 3",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 3. Мощность по каталогу 1 л.с. (≈0.75 кВт)."
+  },
+  {
+    "Id": "10808fbd",
+    "Manufacturer": "ETNA",
+    "Series": "ETN",
+    "Model": "ETN-075GF",
+    "Country": "Турция",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.0
+        },
+        {
+          "Q": 0.5,
+          "V": 6.8
+        },
+        {
+          "Q": 1.0,
+          "V": 5.8
+        },
+        {
+          "Q": 1.5,
+          "V": 4.8
+        },
+        {
+          "Q": 2.0,
+          "V": 3.8
+        },
+        {
+          "Q": 2.5,
+          "V": 2.6
+        },
+        {
+          "Q": 3.0,
+          "V": 1.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 4",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 4. Мощность по каталогу 1 л.с. (≈0.75 кВт)."
+  },
+  {
+    "Id": "74e4b295",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-025D",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.26,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.5
+        },
+        {
+          "Q": 2.0,
+          "V": 8.0
+        },
+        {
+          "Q": 4.0,
+          "V": 7.3
+        },
+        {
+          "Q": 6.0,
+          "V": 6.2
+        },
+        {
+          "Q": 8.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 5",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 5. Мощность по каталогу 0.35 л.с. (≈0.26 кВт)."
+  },
+  {
+    "Id": "b179f35e",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-075D",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.0
+        },
+        {
+          "Q": 2.0,
+          "V": 12.8
+        },
+        {
+          "Q": 4.0,
+          "V": 12.2
+        },
+        {
+          "Q": 6.0,
+          "V": 11.5
+        },
+        {
+          "Q": 8.0,
+          "V": 10.5
+        },
+        {
+          "Q": 16.0,
+          "V": 9.2
+        },
+        {
+          "Q": 20.0,
+          "V": 7.0
+        },
+        {
+          "Q": 24.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 5",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 5. Мощность по каталогу 1 л.с. (≈0.75 кВт)."
+  },
+  {
+    "Id": "6af95723",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-15D",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.49,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.5
+        },
+        {
+          "Q": 2.0,
+          "V": 17.1
+        },
+        {
+          "Q": 4.0,
+          "V": 16.5
+        },
+        {
+          "Q": 6.0,
+          "V": 15.8
+        },
+        {
+          "Q": 8.0,
+          "V": 14.8
+        },
+        {
+          "Q": 16.0,
+          "V": 13.4
+        },
+        {
+          "Q": 20.0,
+          "V": 11.9
+        },
+        {
+          "Q": 24.0,
+          "V": 10.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 5",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 5. Мощность по каталогу 2 л.с. (≈1.49 кВт)."
+  },
+  {
+    "Id": "3c049466",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-13DP",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.34,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.0
+        },
+        {
+          "Q": 4.0,
+          "V": 14.0
+        },
+        {
+          "Q": 8.0,
+          "V": 13.0
+        },
+        {
+          "Q": 12.0,
+          "V": 11.5
+        },
+        {
+          "Q": 16.0,
+          "V": 9.8
+        },
+        {
+          "Q": 20.0,
+          "V": 7.8
+        },
+        {
+          "Q": 25.0,
+          "V": 4.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 10",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 10. Мощность по каталогу 1.8 л.с. (≈1.34 кВт). Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "847fcc2e",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP-18DP",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.79,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 24.0
+        },
+        {
+          "Q": 4.0,
+          "V": 22.0
+        },
+        {
+          "Q": 8.0,
+          "V": 19.0
+        },
+        {
+          "Q": 12.0,
+          "V": 16.0
+        },
+        {
+          "Q": 16.0,
+          "V": 11.7
+        },
+        {
+          "Q": 20.0,
+          "V": 6.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 10",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 10. Мощность по каталогу 2.4 л.с. (≈1.79 кВт). Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "32220bde",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 11 DP",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.82,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.4
+        },
+        {
+          "Q": 3.0,
+          "V": 18.3
+        },
+        {
+          "Q": 6.0,
+          "V": 16.3
+        },
+        {
+          "Q": 9.0,
+          "V": 14.3
+        },
+        {
+          "Q": 12.0,
+          "V": 10.2
+        },
+        {
+          "Q": 15.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 14",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 14. Мощность по каталогу 1.1 л.с. (≈0.82 кВт). Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "4aa1bb3e",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 11 D",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.82,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.4
+        },
+        {
+          "Q": 3.0,
+          "V": 19.3
+        },
+        {
+          "Q": 6.0,
+          "V": 17.8
+        },
+        {
+          "Q": 9.0,
+          "V": 15.0
+        },
+        {
+          "Q": 12.0,
+          "V": 11.3
+        },
+        {
+          "Q": 15.0,
+          "V": 5.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 14",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 14. Мощность по каталогу 1.1 л.с. (≈0.82 кВт)."
+  },
+  {
+    "Id": "9b7525c5",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 11 DV",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.82,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~220 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.2
+        },
+        {
+          "Q": 3.0,
+          "V": 7.3
+        },
+        {
+          "Q": 6.0,
+          "V": 6.3
+        },
+        {
+          "Q": 9.0,
+          "V": 5.3
+        },
+        {
+          "Q": 12.0,
+          "V": 4.2
+        },
+        {
+          "Q": 15.0,
+          "V": 3.1
+        },
+        {
+          "Q": 18.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 14",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 14. Мощность по каталогу 1.1 л.с. (≈0.82 кВт)."
+  },
+  {
+    "Id": "d1c47295",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 22 DP",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 24.5
+        },
+        {
+          "Q": 3.0,
+          "V": 23.0
+        },
+        {
+          "Q": 6.0,
+          "V": 21.6
+        },
+        {
+          "Q": 9.0,
+          "V": 19.8
+        },
+        {
+          "Q": 12.0,
+          "V": 17.5
+        },
+        {
+          "Q": 15.0,
+          "V": 14.4
+        },
+        {
+          "Q": 18.0,
+          "V": 8.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 17",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 17. Мощность по каталогу 2.2 кВт. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "c50334e7",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 22 D",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 24.5
+        },
+        {
+          "Q": 3.0,
+          "V": 23.0
+        },
+        {
+          "Q": 6.0,
+          "V": 21.6
+        },
+        {
+          "Q": 9.0,
+          "V": 19.8
+        },
+        {
+          "Q": 12.0,
+          "V": 17.5
+        },
+        {
+          "Q": 15.0,
+          "V": 14.4
+        },
+        {
+          "Q": 18.0,
+          "V": 8.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 17",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 17. Мощность по каталогу 2.2 кВт."
+  },
+  {
+    "Id": "cef4e86b",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 26 DV",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.6,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 14.5
+        },
+        {
+          "Q": 6.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 12.6
+        },
+        {
+          "Q": 18.0,
+          "V": 10.5
+        },
+        {
+          "Q": 24.0,
+          "V": 8.0
+        },
+        {
+          "Q": 30.0,
+          "V": 5.9
+        },
+        {
+          "Q": 36.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 17",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 17. Мощность по каталогу 2.6 кВт."
+  },
+  {
+    "Id": "73e80a12",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 26 DT",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.6,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.5
+        },
+        {
+          "Q": 6.0,
+          "V": 18.5
+        },
+        {
+          "Q": 12.0,
+          "V": 16.5
+        },
+        {
+          "Q": 18.0,
+          "V": 14.5
+        },
+        {
+          "Q": 24.0,
+          "V": 12.5
+        },
+        {
+          "Q": 30.0,
+          "V": 10.0
+        },
+        {
+          "Q": 36.0,
+          "V": 7.0
+        },
+        {
+          "Q": 42.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 17",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 17. Мощность по каталогу 2.6 кВт."
+  },
+  {
+    "Id": "36b61339",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 30DP-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 18.0
+        },
+        {
+          "Q": 10.0,
+          "V": 17.0
+        },
+        {
+          "Q": 20.0,
+          "V": 14.5
+        },
+        {
+          "Q": 30.0,
+          "V": 12.0
+        },
+        {
+          "Q": 40.0,
+          "V": 8.5
+        },
+        {
+          "Q": 50.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 21",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 21. Мощность в таблице не указана; P2 3 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "fdd91ee9",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 40DP-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 24.0
+        },
+        {
+          "Q": 10.0,
+          "V": 23.0
+        },
+        {
+          "Q": 20.0,
+          "V": 22.0
+        },
+        {
+          "Q": 30.0,
+          "V": 20.0
+        },
+        {
+          "Q": 40.0,
+          "V": 17.0
+        },
+        {
+          "Q": 50.0,
+          "V": 14.0
+        },
+        {
+          "Q": 60.0,
+          "V": 11.0
+        },
+        {
+          "Q": 70.0,
+          "V": 8.0
+        },
+        {
+          "Q": 80.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 21",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 21. Мощность в таблице не указана; P2 4 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "50890689",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 55DP-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 26.0
+        },
+        {
+          "Q": 10.0,
+          "V": 25.0
+        },
+        {
+          "Q": 20.0,
+          "V": 23.5
+        },
+        {
+          "Q": 30.0,
+          "V": 21.0
+        },
+        {
+          "Q": 40.0,
+          "V": 19.0
+        },
+        {
+          "Q": 50.0,
+          "V": 16.0
+        },
+        {
+          "Q": 60.0,
+          "V": 14.0
+        },
+        {
+          "Q": 70.0,
+          "V": 11.0
+        },
+        {
+          "Q": 80.0,
+          "V": 8.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 21",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 21. Мощность в таблице не указана; P2 5.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "9c489ec4",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 75DP-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.5
+        },
+        {
+          "Q": 20.0,
+          "V": 25.5
+        },
+        {
+          "Q": 40.0,
+          "V": 23.0
+        },
+        {
+          "Q": 60.0,
+          "V": 21.0
+        },
+        {
+          "Q": 80.0,
+          "V": 17.5
+        },
+        {
+          "Q": 100.0,
+          "V": 14.0
+        },
+        {
+          "Q": 120.0,
+          "V": 9.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 21",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 21. Мощность в таблице не указана; P2 7.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "7904479d",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 110DP-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 37.0
+        },
+        {
+          "Q": 20.0,
+          "V": 36.0
+        },
+        {
+          "Q": 40.0,
+          "V": 34.0
+        },
+        {
+          "Q": 60.0,
+          "V": 32.0
+        },
+        {
+          "Q": 80.0,
+          "V": 28.0
+        },
+        {
+          "Q": 100.0,
+          "V": 24.0
+        },
+        {
+          "Q": 120.0,
+          "V": 20.0
+        },
+        {
+          "Q": 140.0,
+          "V": 15.0
+        },
+        {
+          "Q": 160.0,
+          "V": 10.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 21",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 21. Мощность в таблице не указана; P2 11 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "6527e864",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 150DP-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 33.5
+        },
+        {
+          "Q": 20.0,
+          "V": 33.0
+        },
+        {
+          "Q": 40.0,
+          "V": 31.0
+        },
+        {
+          "Q": 60.0,
+          "V": 29.0
+        },
+        {
+          "Q": 80.0,
+          "V": 26.0
+        },
+        {
+          "Q": 100.0,
+          "V": 24.0
+        },
+        {
+          "Q": 120.0,
+          "V": 21.0
+        },
+        {
+          "Q": 140.0,
+          "V": 17.5
+        },
+        {
+          "Q": 160.0,
+          "V": 13.0
+        },
+        {
+          "Q": 180.0,
+          "V": 8.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 21",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 21. Мощность в таблице не указана; P2 15 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу. Исполнение DP — с режущим механизмом (grinder)."
+  },
+  {
+    "Id": "d0873a3d",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 30D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 10.0,
+          "V": 16.0
+        },
+        {
+          "Q": 20.0,
+          "V": 15.5
+        },
+        {
+          "Q": 30.0,
+          "V": 14.0
+        },
+        {
+          "Q": 40.0,
+          "V": 12.0
+        },
+        {
+          "Q": 50.0,
+          "V": 10.0
+        },
+        {
+          "Q": 60.0,
+          "V": 7.0
+        },
+        {
+          "Q": 70.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 3 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "4e7809f6",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 40D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 22.0
+        },
+        {
+          "Q": 10.0,
+          "V": 20.5
+        },
+        {
+          "Q": 20.0,
+          "V": 19.0
+        },
+        {
+          "Q": 30.0,
+          "V": 17.5
+        },
+        {
+          "Q": 40.0,
+          "V": 15.0
+        },
+        {
+          "Q": 50.0,
+          "V": 13.0
+        },
+        {
+          "Q": 60.0,
+          "V": 10.0
+        },
+        {
+          "Q": 70.0,
+          "V": 6.0
+        },
+        {
+          "Q": 80.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 4 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "2ccb2cd9",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 55D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 35.0
+        },
+        {
+          "Q": 10.0,
+          "V": 33.0
+        },
+        {
+          "Q": 20.0,
+          "V": 30.0
+        },
+        {
+          "Q": 30.0,
+          "V": 28.0
+        },
+        {
+          "Q": 40.0,
+          "V": 25.0
+        },
+        {
+          "Q": 50.0,
+          "V": 20.0
+        },
+        {
+          "Q": 60.0,
+          "V": 15.0
+        },
+        {
+          "Q": 70.0,
+          "V": 8.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 5.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "ffa5eb71",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 75D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.5
+        },
+        {
+          "Q": 10.0,
+          "V": 27.0
+        },
+        {
+          "Q": 20.0,
+          "V": 26.0
+        },
+        {
+          "Q": 30.0,
+          "V": 25.0
+        },
+        {
+          "Q": 40.0,
+          "V": 24.0
+        },
+        {
+          "Q": 50.0,
+          "V": 23.0
+        },
+        {
+          "Q": 60.0,
+          "V": 22.0
+        },
+        {
+          "Q": 70.0,
+          "V": 20.0
+        },
+        {
+          "Q": 80.0,
+          "V": 18.0
+        },
+        {
+          "Q": 90.0,
+          "V": 14.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 7.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "b210faf1",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 110D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 37.0
+        },
+        {
+          "Q": 10.0,
+          "V": 36.0
+        },
+        {
+          "Q": 20.0,
+          "V": 35.0
+        },
+        {
+          "Q": 30.0,
+          "V": 33.0
+        },
+        {
+          "Q": 40.0,
+          "V": 32.0
+        },
+        {
+          "Q": 50.0,
+          "V": 30.5
+        },
+        {
+          "Q": 60.0,
+          "V": 29.0
+        },
+        {
+          "Q": 70.0,
+          "V": 27.5
+        },
+        {
+          "Q": 80.0,
+          "V": 26.0
+        },
+        {
+          "Q": 90.0,
+          "V": 24.0
+        },
+        {
+          "Q": 100.0,
+          "V": 22.5
+        },
+        {
+          "Q": 110.0,
+          "V": 21.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 11 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "2f55d5b8",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 150D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 45.5
+        },
+        {
+          "Q": 20.0,
+          "V": 45.0
+        },
+        {
+          "Q": 40.0,
+          "V": 42.0
+        },
+        {
+          "Q": 60.0,
+          "V": 39.0
+        },
+        {
+          "Q": 80.0,
+          "V": 35.0
+        },
+        {
+          "Q": 100.0,
+          "V": 31.0
+        },
+        {
+          "Q": 120.0,
+          "V": 22.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 15 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "25b760d9",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 185D-2P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 18.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 47.5
+        },
+        {
+          "Q": 20.0,
+          "V": 46.5
+        },
+        {
+          "Q": 40.0,
+          "V": 45.0
+        },
+        {
+          "Q": 60.0,
+          "V": 42.5
+        },
+        {
+          "Q": 80.0,
+          "V": 39.0
+        },
+        {
+          "Q": 100.0,
+          "V": 36.0
+        },
+        {
+          "Q": 120.0,
+          "V": 32.5
+        },
+        {
+          "Q": 140.0,
+          "V": 25.0
+        },
+        {
+          "Q": 160.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 23",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 23. Мощность в таблице не указана; P2 18.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "9bc3db45",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 55D-4P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 20.0,
+          "V": 16.5
+        },
+        {
+          "Q": 40.0,
+          "V": 15.5
+        },
+        {
+          "Q": 60.0,
+          "V": 14.0
+        },
+        {
+          "Q": 80.0,
+          "V": 12.0
+        },
+        {
+          "Q": 100.0,
+          "V": 10.0
+        },
+        {
+          "Q": 120.0,
+          "V": 7.0
+        },
+        {
+          "Q": 140.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 25",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 25. Мощность в таблице не указана; P2 5.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "aa488fdd",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 75D-4P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 20.0
+        },
+        {
+          "Q": 20.0,
+          "V": 19.5
+        },
+        {
+          "Q": 40.0,
+          "V": 18.5
+        },
+        {
+          "Q": 60.0,
+          "V": 17.0
+        },
+        {
+          "Q": 80.0,
+          "V": 15.0
+        },
+        {
+          "Q": 100.0,
+          "V": 13.0
+        },
+        {
+          "Q": 120.0,
+          "V": 11.0
+        },
+        {
+          "Q": 140.0,
+          "V": 8.5
+        },
+        {
+          "Q": 160.0,
+          "V": 6.0
+        },
+        {
+          "Q": 180.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 25",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 25. Мощность в таблице не указана; P2 7.5 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "69a9aef0",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 110D-4P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.0
+        },
+        {
+          "Q": 40.0,
+          "V": 18.0
+        },
+        {
+          "Q": 80.0,
+          "V": 16.0
+        },
+        {
+          "Q": 120.0,
+          "V": 14.0
+        },
+        {
+          "Q": 160.0,
+          "V": 12.0
+        },
+        {
+          "Q": 200.0,
+          "V": 9.0
+        },
+        {
+          "Q": 240.0,
+          "V": 5.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 25",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 25. Мощность в таблице не указана; P2 11 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "f289d61d",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 150D-4P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 22.0
+        },
+        {
+          "Q": 40.0,
+          "V": 21.5
+        },
+        {
+          "Q": 80.0,
+          "V": 20.0
+        },
+        {
+          "Q": 120.0,
+          "V": 17.5
+        },
+        {
+          "Q": 160.0,
+          "V": 15.0
+        },
+        {
+          "Q": 200.0,
+          "V": 12.0
+        },
+        {
+          "Q": 240.0,
+          "V": 8.5
+        },
+        {
+          "Q": 280.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 25",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 25. Мощность в таблице не указана; P2 15 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
+  },
+  {
+    "Id": "174338ca",
+    "Manufacturer": "ETNA",
+    "Series": "EFP",
+    "Model": "EFP 220D-4P",
+    "Country": "Турция",
+    "Application": "канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 22.0,
+    "P1Kw": 0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~380 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 29.0
+        },
+        {
+          "Q": 40.0,
+          "V": 28.5
+        },
+        {
+          "Q": 80.0,
+          "V": 27.0
+        },
+        {
+          "Q": 120.0,
+          "V": 25.0
+        },
+        {
+          "Q": 160.0,
+          "V": 22.0
+        },
+        {
+          "Q": 200.0,
+          "V": 20.0
+        },
+        {
+          "Q": 240.0,
+          "V": 17.0
+        },
+        {
+          "Q": 280.0,
+          "V": 14.5
+        },
+        {
+          "Q": 320.0,
+          "V": 11.0
+        },
+        {
+          "Q": 360.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "ETNA, Sewage & Drainage Pumps, Technical Brochure EN01 (12.2025), стр. 25",
+      "Url": "https://www.etna.com.tr/en/uploads/source/TeknikBrosurler/AtiksisuDrenajPompasi_TeknikBrosuru_EN01.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 25. Мощность в таблице не указана; P2 22 кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
   }
 ]

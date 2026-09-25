@@ -57,7 +57,7 @@ def dist_pl(pt,poly):
         u=0 if L==0 else max(0,min(1,((pt.x-a.x)*ab.x+(pt.y-a.y)*ab.y)/L))
         q=a+ab*u; best=min(best,(pt-q).__abs__())
     return best
-recs=[];log=[];dbg=[]
+recs=[];log=[];dbg=[];OV=[]
 for pi in range(11,19):
     pg=d[pi]; W=pg.rect.width; L=lines(pg); words=pg.get_text('words')
     heads=[(s,r) for s,r,_ in L if re.match(r'(1500|3000) rpm \(400 V - 50 Hz\)',s)]
@@ -180,6 +180,7 @@ for pi in range(11,19):
                 Document=f'Herborner, проспект UNIPUMP (EN, ред. 12, 09.2026), стр. {pi+1}',Url=URL,
                 Notes=f'Векторные кривые каталога (Q, м³/ч). Частота вращения {rpm} мин⁻¹ — синхронная, по каталогу. P — мощность на валу по графику каталога. Рабочее колесо открытое {nb}-лопастное с системой резки волокон (non-clogging), Ø{D} мм. P2 двигателя {p2:g} кВт (IE3, стр. 28).'+(f' Кривая общая с более мощным двигателем, обрезана по отметке предела двигателя (Q={qcut:.1f} м³/ч).' if qcut else '')))
             dbg.append((pi,m,qh[0],qh[-1],len(extra)))
+            OV.append(dict(pi=pi,m=m,kq=kq,cq=cq,P={k:(v[2],v[3]) for k,v in panels.items()},QH=qh,**{k:extra.get(k,[]) for k in ('QP','QEta','QNpsh')}))
 seen=set();out=[]
 for r in recs:
     if r['Id'] in seen: log.append((r['Model'],'дубликат')); continue
@@ -187,3 +188,5 @@ for r in recs:
 save('out/herborner.json',out); json.dump(log,open('out/herborner_excluded.json','w'),ensure_ascii=False,indent=1)
 print(log)
 for x in dbg: print(x)
+
+json.dump(OV,open('out/herb_overlay.json','w'))

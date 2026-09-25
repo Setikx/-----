@@ -79,6 +79,7 @@ for pi in PAGES:
             for ph,mname in vars_:
                 p1=mot.get('P1'+ph,0)
                 notes=f"Точки таблицы каталога (Q, м³/ч — H, м), стр. {pno}. P2 {p2:g} кВт"+(f", P1 {p1:g} кВт" if p1 else "")+"."
+                if p1 and p2 and p1<p2: notes+=" P1 в каталоге меньше P2: P2 — номинальная мощность двигателя (общая для типоразмеров серии), P1 — потребляемая мощность данного исполнения." 
                 if len(phases)>1: notes+=" Суффикс M — однофазное исполнение 230 В (M/MA), T — трёхфазное 400 В (обозначения каталога)."
                 notes+=f" Частота вращения {rpm} мин⁻¹ по каталогу." if rpm else ""
                 recs.append(rec('ESPA',ser,mname,'Испания',Application='канализационный погружной' if ser in('DCM2','DCV2','DCM','DCV','Draincor','Vigicor') else 'дренажный погружной',

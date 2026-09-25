@@ -54,6 +54,10 @@ for pi in range(len(d)):
             if qh[0][0]>0 and False: pass
             if any(b>a+0.05 for (_,a),(_,b) in zip(qh,qh[1:])): log.append((model,f'стр.{pno}: напор растёт — проверить')); continue
             p2=round(P*0.7457,2) if pw and pw[0][0]=='Hp' else P
+            if model.startswith('EFP-075K'):
+                log.append((model,f'стр.{pno}: таблица Q–H каталога идентична ETN-075GF (Qmax 3 м³/ч) и противоречит описанию серии K (Qmax 12 м³/ч) — ошибка каталога, исключено')); continue
+            if re.match(r'EFP 11 D',model) and pw and pw[0][0]=='Hp':
+                p2=P  # в описании серии «Motor Power: 1.1 kW», в таблице то же число под заголовком Hp
             four='-4P' in model
             imp='Grinder' if re.search(r'\dDP\b|DP-|DP$',model.replace(' ','')) else 'Vortex' if re.search(r'DV\b|GF',model) or model.endswith('DV') else 'Unknown'
             ph='1~220 В' if V==220 else '3~380 В' if V==380 else ''
@@ -64,6 +68,10 @@ for pi in range(len(d)):
                 p2=int(m.group(1))/10; ph='3~380 В'
                 notes+=f" Мощность в таблице не указана; P2 {p2:g} кВт принята по обозначению модели (число/10 — совпадает с диапазоном мощностей серии, указанным в каталоге). Питание 3~380 В 50 Гц по каталогу."
             if imp=='Grinder': notes+=" Исполнение DP — с режущим механизмом (grinder)."
+            if re.match(r'EFP 11 D',model): notes+=" Мощность 1,1 кВт — по описанию серии (в таблице то же число стоит под заголовком Hp)."
+            if re.match(r'EFP 22 D',model): notes+=" В описании серии указано 2,4 кВт (D/DP), в таблице 2,2 кВт — принято табличное значение."
+            if re.match(r'EFP-(025|075|15)D',model): notes+=" Шкала Q в каталоге неравномерная (0–8, затем 16–24 м³/ч на тех же шагах сетки); точки взяты из таблицы, форма кривой между 8 и 16 м³/ч не задана."
+
             recs.append(rec('ETNA',model.split()[0].split('-')[0] if ' ' in model else model.split('-')[0],model,'Турция',
                 Application='канализационный погружной' if imp=='Grinder' or re.search(r'D[TV]?\b|D-',model) else 'дренажный погружной',
                 Impeller=imp,HasCutter=imp=='Grinder',P2Kw=p2,Voltage=(ph+' 50 Гц').strip(),Rpm=1450 if four else 2900,Poles=4 if four else 2,QH=qh,

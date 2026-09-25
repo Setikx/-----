@@ -96,6 +96,9 @@ for fn,slug in FILES:
                     notes+=(f"P1 {p1*1000:g} Вт, ток {amp:g} А (P2 в каталоге не указана). " if watt else f"P2 {p2:g} кВт ({hp:g} HP), P1 {p1:g} кВт. ")
                     notes+=f"Двигатель {poles}-полюсный 50 Гц; частота вращения {rpm} об/мин принята по числу полюсов (в каталоге не указана)."
                     if '(G)' in nm: notes+=" «(G)» — исполнение с поплавковым выключателем."
+                    if p2 and max(9.81*q/3600*h for q,h in qh)/p2>0.55:
+                        notes+=" ВНИМАНИЕ: гидравлическая мощность по таблице Q–H превышает 55 % от P2 таблицы; по графику каталога (max η, кривая P1) фактическая мощность на валу выше указанной P2 — при проверке двигателя ориентироваться на P1."
+
                     recs.append(rec("Pentax",re.match(r'[A-Z]+',nm).group(0),nm,"Италия",Application=app,Impeller=imp,HasCutter=imp=='Grinder',
                         FreePassageMm=fp,P2Kw=p2,P1Kw=round(p1,3),Voltage=('1~230 В' if ph=='1~' else '3~400 В')+' 50 Гц',Rpm=rpm,Poles=poles,QH=qh,
                         Document=f"{DOC}, стр. {pno}",Url=BASE+fn.replace('pentax_','').replace('dm','DM').replace('DP.pdf','DP-DPV.pdf').replace('DTR.pdf','DTR-DTRT.pdf'),Notes=notes))

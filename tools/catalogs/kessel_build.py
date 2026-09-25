@@ -43,7 +43,7 @@ def join(polys,tol=0.6):
             if abs(polys[i][-1]-polys[j][0])<tol: polys[i]+=polys[j][1:]; polys.pop(j); merged=True; break
     return polys
 PAGES=['094','095','066']
-recs=[];log=[];dbg=[]
+recs=[];log=[];dbg=[];OV=[]
 for pg_no in PAGES:
     pg=fitz.open(f'{P}PUE23_{pg_no}.pdf')[0]
     words=pg.get_text('words'); drs=pg.get_drawings()
@@ -105,7 +105,7 @@ for pg_no in PAGES:
             if len(out)>16:
                 idx=sorted({round(i*(len(out)-1)/15) for i in range(16)}); out=[out[i] for i in idx]
             dbg.append((pg_no,s,round(d0,1),amb,out[0],out[-1]))
-            recs.append((s,out,int(pg_no),amb))
+            recs.append((s,out,int(pg_no),amb)); OV.append(dict(pg=pg_no,m=s,kq=kq,cq=cq,kh=kh,ch=ch,QH=out))
 
 # двигатели — по таблицам PÜ 2023 (P1, P2 кВт; напряжение; ток; об/мин; стр.)
 MOT={'KTP 300':(0.34,0.21,'1~230 В',1.6,2800,159),'GTF 500':(0.60,0.36,'1~230 В',2.7,2800,159),'GTF 600':(0.65,0.40,'1~230 В',2.9,2750,117),
@@ -136,3 +136,5 @@ excl=log+[('KESSEL — вся программа','PÜ 2026 опубликова
 json.dump(excl,open('out/kessel_excluded.json','w'),ensure_ascii=False,indent=1)
 print(log)
 for r in out: print(r['Model'],r['Curve']['QH'][0],r['Curve']['QH'][-1])
+
+json.dump(OV,open('out/kessel_overlay.json','w'))

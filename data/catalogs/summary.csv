@@ -3878,3 +3878,47 @@ KESSEL;GTF;GTF 1000;Vortex;0;0;0.73;2800;1~230 В 50 Гц;13.065;;16;0;0;0;Catal
 KESSEL;GTF;GTF 600;Vortex;0;0;0.4;2750;1~230 В 50 Гц;13.038;8.064;8;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
 KESSEL;GTF;GTF 500;Vortex;0;0;0.36;2800;1~230 В 50 Гц;9.269;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
 KESSEL;SPZ;SPZ 1000;Grinder;0;0;0.69;2800;1~230 В 50 Гц;12.075;10.205;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 66
+ESPA;Vigila;Vigila 200;Unknown;0;10;0.25;2900;1~230 В 50 Гц;7.2;;4;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 76
+ESPA;Vigila;Vigila 350;Unknown;0;10;0.5;2900;1~230 В 50 Гц;12.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 76
+ESPA;Vigila;Vigila 500;Unknown;0;10;0.6;2900;1~230 В 50 Гц;15.6;;8;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 76
+ESPA;Vigilex;Vigilex 300;Vortex;0;25;0.5;2900;1~230 В 50 Гц;11.4;;7;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 77
+ESPA;Vigilex;Vigilex 600;Vortex;0;25;0.6;2900;1~230 В 50 Гц;14.4;;8;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 77
+ESPA;Vigicor;Vigicor;Grinder;0;0;0.9;2900;1~230 В 50 Гц;8.1;;8;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 78
+ESPA;Drain;Drain 100;Unknown;0;7;0.75;2900;1~230 В 50 Гц;19.2;;8;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 79
+ESPA;Drainex;Drainex 100;Vortex;0;35;0.75;2900;1~230 В 50 Гц;16.8;;8;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 80
+ESPA;Drainex;Drainex 200 M;Vortex;0;45;0.9;2900;1~230 В 50 Гц;24.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 81
+ESPA;Drainex;Drainex 200 T;Vortex;0;45;0.9;2900;3~400 В 50 Гц;24.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 81
+ESPA;Drainex;Drainex 201 M;Vortex;0;45;0.9;2900;1~230 В 50 Гц;24.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 81
+ESPA;Drainex;Drainex 201 T;Vortex;0;45;0.9;2900;3~400 В 50 Гц;24.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 81
+ESPA;Drainex;Drainex 202 M;Vortex;0;45;0.9;2900;1~230 В 50 Гц;30.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 81
+ESPA;Drainex;Drainex 202 T;Vortex;0;45;0.9;2900;3~400 В 50 Гц;30.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 81
+ESPA;Drainex;Drainex 300 M;Vortex;0;60;0.9;2900;1~230 В 50 Гц;30.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 83
+ESPA;Drainex;Drainex 300 T;Vortex;0;60;0.9;2900;3~400 В 50 Гц;30.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 83
+ESPA;Drainex;Drainex 301 M;Vortex;0;60;0.9;2900;1~230 В 50 Гц;30.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 83
+ESPA;Drainex;Drainex 301 T;Vortex;0;60;0.9;2900;3~400 В 50 Гц;30.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 83
+ESPA;Drainex;Drainex 302 M;Vortex;0;60;0.9;2900;1~230 В 50 Гц;39.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 83
+ESPA;Drainex;Drainex 302 T;Vortex;0;60;0.9;2900;3~400 В 50 Гц;39.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 83
+ESPA;Drainex;Drainex 400;Vortex;0;45;2.6;2900;3~400 В 50 Гц;36.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 85
+ESPA;Drainex;Drainex 401;Vortex;0;45;2.6;2900;3~400 В 50 Гц;42.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 85
+ESPA;Drainex;Drainex 402;Vortex;0;45;2.6;2900;3~400 В 50 Гц;48.0;;7;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 85
+ESPA;Drainex;Drainex 500;Vortex;0;45;3.7;2900;3~400 В 50 Гц;45.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 87
+ESPA;Drainex;Drainex 501;Vortex;0;45;3.7;2900;3~400 В 50 Гц;45.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 87
+ESPA;Drainex;Drainex 502;Vortex;0;45;3.7;2900;3~400 В 50 Гц;45.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 87
+ESPA;Drainex;Drainex 600;Vortex;0;65;3.7;2900;3~400 В 50 Гц;60.0;;5;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 89
+ESPA;Drainex;Drainex 601;Vortex;0;65;3.7;2900;3~400 В 50 Гц;72.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 89
+ESPA;DCM2;DCM2 65-40D-0020F;SingleChannel;0;40;2.0;2900;3~400 В 50 Гц;57.6;24.1;12;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 92
+ESPA;DCM2;DCM2 65-40L-0038H;SingleChannel;0;40;3.8;2900;3~400 В 50 Гц;63.0;25.0;12;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 92
+ESPA;DCM2;DCM2 65-40D-0048H;SingleChannel;0;40;4.8;2900;3~400 В 50 Гц;90.0;31.0;15;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 92
+ESPA;DCM4;DCM4 80-76D-0021F;SingleChannel;0;76;2.1;1450;3~400 В 50 Гц;108.0;12.6;14;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 92
+ESPA;DCM4;DCM4 80-80D-0046H;SingleChannel;0;80;4.6;1450;3~400 В 50 Гц;162.0;19.3;10;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 93
+ESPA;DCM4;DCM4 150-100G-0075L;SingleChannel;0;100;7.5;1450;3~400 В 50 Гц;252.0;20.2;11;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 93
+ESPA;DCM4;DCM4 150-100D-0105L;SingleChannel;0;100;10.5;1450;3~400 В 50 Гц;324.0;24.1;13;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 93
+ESPA;DCM4;DCM4 150-100A-0125L;SingleChannel;0;100;12.5;1450;3~400 В 50 Гц;360.0;28.9;14;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 93
+ESPA;DCV4;DCV4 80-80E-0037H;Vortex;0;80;3.7;1450;3~400 В 50 Гц;108.0;14.1;12;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 95
+ESPA;DCV4;DCV4 80-80C-0046H;Vortex;0;80;4.6;1450;3~400 В 50 Гц;108.0;15.7;12;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 95
+ESPA;DCV6;DCV6 100-100C-0040L;Vortex;0;80;4.0;950;3~400 В 50 Гц;144.0;8.3;12;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 95
+ESPA;DCV4;DCV4 100-100A-0058H;Vortex;0;100;5.8;1450;3~400 В 50 Гц;108.0;15.0;14;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 96
+ESPA;DCV4;DCV4 100-100E-0075L;Vortex;0;100;7.5;1450;3~400 В 50 Гц;180.0;16.6;12;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 96
+ESPA;DCV4;DCV4 100-100A-0125L;Vortex;0;100;12.5;1450;3~400 В 50 Гц;216.0;23.0;13;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 96
+ESPA;Draincor;Draincor M;Grinder;0;0;0.9;2900;1~230 В 50 Гц;15.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 98
+ESPA;Draincor;Draincor T;Grinder;0;0;0.9;2900;3~400 В 50 Гц;15.0;;6;0;0;0;CatalogTable;ESPA, Catálogo EDE 2026 (05.2026), стр. 98

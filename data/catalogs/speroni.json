@@ -1,0 +1,6579 @@
+[
+  {
+    "Id": "6d9bd2af",
+    "Manufacturer": "Speroni",
+    "Series": "TSN",
+    "Model": "TSN 300/S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 6.3
+        },
+        {
+          "Q": 1.2,
+          "V": 5.5
+        },
+        {
+          "Q": 1.8,
+          "V": 5.1
+        },
+        {
+          "Q": 2.4,
+          "V": 4.3
+        },
+        {
+          "Q": 3.6,
+          "V": 3.5
+        },
+        {
+          "Q": 5.4,
+          "V": 1.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 176: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 300 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "d163d115",
+    "Manufacturer": "Speroni",
+    "Series": "TS",
+    "Model": "TS 400/S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 7.5
+        },
+        {
+          "Q": 1.2,
+          "V": 6.8
+        },
+        {
+          "Q": 1.8,
+          "V": 6.5
+        },
+        {
+          "Q": 2.4,
+          "V": 6.0
+        },
+        {
+          "Q": 3.6,
+          "V": 5.5
+        },
+        {
+          "Q": 5.4,
+          "V": 4.5
+        },
+        {
+          "Q": 8.4,
+          "V": 2.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 176: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 400 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ebb55212",
+    "Manufacturer": "Speroni",
+    "Series": "TS",
+    "Model": "TS 800/S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 9.7
+        },
+        {
+          "Q": 1.2,
+          "V": 9.5
+        },
+        {
+          "Q": 1.8,
+          "V": 9.2
+        },
+        {
+          "Q": 2.4,
+          "V": 9.0
+        },
+        {
+          "Q": 3.6,
+          "V": 8.7
+        },
+        {
+          "Q": 5.4,
+          "V": 8.0
+        },
+        {
+          "Q": 8.4,
+          "V": 6.6
+        },
+        {
+          "Q": 10.8,
+          "V": 5.0
+        },
+        {
+          "Q": 14.4,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 176: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 800 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "e85e67db",
+    "Manufacturer": "Speroni",
+    "Series": "TF",
+    "Model": "TF 400/S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 5.9
+        },
+        {
+          "Q": 1.2,
+          "V": 5.8
+        },
+        {
+          "Q": 1.8,
+          "V": 5.7
+        },
+        {
+          "Q": 2.4,
+          "V": 5.2
+        },
+        {
+          "Q": 3.6,
+          "V": 4.6
+        },
+        {
+          "Q": 5.4,
+          "V": 3.9
+        },
+        {
+          "Q": 8.4,
+          "V": 2.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 178: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 400 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "172dda00",
+    "Manufacturer": "Speroni",
+    "Series": "TF",
+    "Model": "TF 800/S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 8.9
+        },
+        {
+          "Q": 1.2,
+          "V": 8.5
+        },
+        {
+          "Q": 1.8,
+          "V": 8.2
+        },
+        {
+          "Q": 2.4,
+          "V": 8.0
+        },
+        {
+          "Q": 3.6,
+          "V": 7.8
+        },
+        {
+          "Q": 5.4,
+          "V": 7.0
+        },
+        {
+          "Q": 8.4,
+          "V": 5.6
+        },
+        {
+          "Q": 10.8,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 178: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 800 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "2727f1ba",
+    "Manufacturer": "Speroni",
+    "Series": "TF",
+    "Model": "TF 1000/S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 10.8
+        },
+        {
+          "Q": 1.2,
+          "V": 10.6
+        },
+        {
+          "Q": 1.8,
+          "V": 10.3
+        },
+        {
+          "Q": 2.4,
+          "V": 10.2
+        },
+        {
+          "Q": 3.6,
+          "V": 10.0
+        },
+        {
+          "Q": 5.4,
+          "V": 9.0
+        },
+        {
+          "Q": 8.4,
+          "V": 7.5
+        },
+        {
+          "Q": 10.8,
+          "V": 6.0
+        },
+        {
+          "Q": 14.4,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 178: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 1000 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "5730602d",
+    "Manufacturer": "Speroni",
+    "Series": "SXG",
+    "Model": "SXG 400",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 6.8
+        },
+        {
+          "Q": 1.2,
+          "V": 6.5
+        },
+        {
+          "Q": 1.8,
+          "V": 6.2
+        },
+        {
+          "Q": 2.4,
+          "V": 5.8
+        },
+        {
+          "Q": 3.6,
+          "V": 5.0
+        },
+        {
+          "Q": 5.4,
+          "V": 3.4
+        },
+        {
+          "Q": 7.2,
+          "V": 2.2
+        },
+        {
+          "Q": 8.4,
+          "V": 1.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 180: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 400 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "cbd7a1c8",
+    "Manufacturer": "Speroni",
+    "Series": "SXG",
+    "Model": "SXG 600",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 0.55,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.6,
+          "V": 7.0
+        },
+        {
+          "Q": 1.2,
+          "V": 6.8
+        },
+        {
+          "Q": 1.8,
+          "V": 6.7
+        },
+        {
+          "Q": 2.4,
+          "V": 6.5
+        },
+        {
+          "Q": 3.6,
+          "V": 5.5
+        },
+        {
+          "Q": 5.4,
+          "V": 4.5
+        },
+        {
+          "Q": 7.2,
+          "V": 3.0
+        },
+        {
+          "Q": 8.4,
+          "V": 2.0
+        },
+        {
+          "Q": 9.6,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 180: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 550 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "21906cf6",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 750-DA",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.8,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.0
+        },
+        {
+          "Q": 3.6,
+          "V": 9.0
+        },
+        {
+          "Q": 5.4,
+          "V": 8.5
+        },
+        {
+          "Q": 7.2,
+          "V": 8.0
+        },
+        {
+          "Q": 9.0,
+          "V": 7.0
+        },
+        {
+          "Q": 12.0,
+          "V": 5.5
+        },
+        {
+          "Q": 15.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 182: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.55 HP / P2 0.8 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "31efdbc2",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 1000-DA",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.0
+        },
+        {
+          "Q": 3.6,
+          "V": 13.5
+        },
+        {
+          "Q": 5.4,
+          "V": 12.8
+        },
+        {
+          "Q": 7.2,
+          "V": 12.0
+        },
+        {
+          "Q": 9.0,
+          "V": 11.0
+        },
+        {
+          "Q": 12.0,
+          "V": 9.5
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 5.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 182: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "029d7848",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 1500-DA",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 3.6,
+          "V": 15.5
+        },
+        {
+          "Q": 5.4,
+          "V": 14.5
+        },
+        {
+          "Q": 7.2,
+          "V": 13.5
+        },
+        {
+          "Q": 9.0,
+          "V": 12.5
+        },
+        {
+          "Q": 12.0,
+          "V": 11.0
+        },
+        {
+          "Q": 15.0,
+          "V": 9.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 182: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.1 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "6cfb514c",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 2000 T-D",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 21.0
+        },
+        {
+          "Q": 3.6,
+          "V": 19.5
+        },
+        {
+          "Q": 5.4,
+          "V": 18.5
+        },
+        {
+          "Q": 7.2,
+          "V": 17.5
+        },
+        {
+          "Q": 9.0,
+          "V": 16.5
+        },
+        {
+          "Q": 12.0,
+          "V": 14.5
+        },
+        {
+          "Q": 15.0,
+          "V": 12.5
+        },
+        {
+          "Q": 18.0,
+          "V": 10.5
+        },
+        {
+          "Q": 21.0,
+          "V": 7.5
+        },
+        {
+          "Q": 24.0,
+          "V": 4.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 182: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "e63050de",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 750-VA",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.9,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.0
+        },
+        {
+          "Q": 3.6,
+          "V": 8.0
+        },
+        {
+          "Q": 5.4,
+          "V": 7.0
+        },
+        {
+          "Q": 7.2,
+          "V": 6.0
+        },
+        {
+          "Q": 9.0,
+          "V": 5.0
+        },
+        {
+          "Q": 12.0,
+          "V": 4.0
+        },
+        {
+          "Q": 15.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 184: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.55 HP / P2 0.9 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4c02f443",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 1000-VA",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.0
+        },
+        {
+          "Q": 3.6,
+          "V": 8.3
+        },
+        {
+          "Q": 5.4,
+          "V": 8.0
+        },
+        {
+          "Q": 7.2,
+          "V": 7.8
+        },
+        {
+          "Q": 9.0,
+          "V": 7.5
+        },
+        {
+          "Q": 12.0,
+          "V": 7.0
+        },
+        {
+          "Q": 15.0,
+          "V": 6.0
+        },
+        {
+          "Q": 21.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 184: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ca9e433c",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 1500-VA",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.4,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.0
+        },
+        {
+          "Q": 3.6,
+          "V": 9.7
+        },
+        {
+          "Q": 5.4,
+          "V": 9.5
+        },
+        {
+          "Q": 7.2,
+          "V": 9.3
+        },
+        {
+          "Q": 9.0,
+          "V": 9.0
+        },
+        {
+          "Q": 12.0,
+          "V": 8.5
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        },
+        {
+          "Q": 27.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 184: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.1 HP / P2 1.4 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "fb8c5fa5",
+    "Manufacturer": "Speroni",
+    "Series": "SXS",
+    "Model": "SXS 2000 T-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.5
+        },
+        {
+          "Q": 3.6,
+          "V": 12.0
+        },
+        {
+          "Q": 5.4,
+          "V": 11.7
+        },
+        {
+          "Q": 7.2,
+          "V": 11.3
+        },
+        {
+          "Q": 9.0,
+          "V": 11.0
+        },
+        {
+          "Q": 12.0,
+          "V": 10.5
+        },
+        {
+          "Q": 15.0,
+          "V": 9.8
+        },
+        {
+          "Q": 21.0,
+          "V": 8.3
+        },
+        {
+          "Q": 27.0,
+          "V": 6.5
+        },
+        {
+          "Q": 33.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 184: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4b56af5f",
+    "Manufacturer": "Speroni",
+    "Series": "SXG",
+    "Model": "SXG 1000",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.8,
+          "V": 7.8
+        },
+        {
+          "Q": 3.6,
+          "V": 7.5
+        },
+        {
+          "Q": 5.4,
+          "V": 7.0
+        },
+        {
+          "Q": 7.2,
+          "V": 6.2
+        },
+        {
+          "Q": 9.0,
+          "V": 5.8
+        },
+        {
+          "Q": 12.0,
+          "V": 4.2
+        },
+        {
+          "Q": 15.0,
+          "V": 3.0
+        },
+        {
+          "Q": 18.0,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 186: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 1100 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "e0dfac86",
+    "Manufacturer": "Speroni",
+    "Series": "SXG",
+    "Model": "SXG 1200",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.8,
+          "V": 10.0
+        },
+        {
+          "Q": 3.6,
+          "V": 9.5
+        },
+        {
+          "Q": 5.4,
+          "V": 9.2
+        },
+        {
+          "Q": 7.2,
+          "V": 8.5
+        },
+        {
+          "Q": 9.0,
+          "V": 8.2
+        },
+        {
+          "Q": 12.0,
+          "V": 7.8
+        },
+        {
+          "Q": 15.0,
+          "V": 6.5
+        },
+        {
+          "Q": 18.0,
+          "V": 5.8
+        },
+        {
+          "Q": 21.0,
+          "V": 4.2
+        },
+        {
+          "Q": 24.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 186: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 1400 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "0561f350",
+    "Manufacturer": "Speroni",
+    "Series": "SXG",
+    "Model": "SXG 1100",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.8,
+          "V": 8.2
+        },
+        {
+          "Q": 3.6,
+          "V": 8.0
+        },
+        {
+          "Q": 5.4,
+          "V": 7.5
+        },
+        {
+          "Q": 7.2,
+          "V": 7.0
+        },
+        {
+          "Q": 9.0,
+          "V": 6.5
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        },
+        {
+          "Q": 15.0,
+          "V": 3.9
+        },
+        {
+          "Q": 18.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 188: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 1100 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ed3e59cc",
+    "Manufacturer": "Speroni",
+    "Series": "SXG",
+    "Model": "SXG 1400",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0,
+    "P1Kw": 1.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.8,
+          "V": 10.5
+        },
+        {
+          "Q": 3.6,
+          "V": 10.2
+        },
+        {
+          "Q": 5.4,
+          "V": 10.0
+        },
+        {
+          "Q": 7.2,
+          "V": 9.2
+        },
+        {
+          "Q": 9.0,
+          "V": 8.8
+        },
+        {
+          "Q": 12.0,
+          "V": 8.5
+        },
+        {
+          "Q": 15.0,
+          "V": 7.8
+        },
+        {
+          "Q": 18.0,
+          "V": 6.2
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        },
+        {
+          "Q": 24.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 188: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). P1 1400 Вт (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "039070ab",
+    "Manufacturer": "Speroni",
+    "Series": "SDH",
+    "Model": "SDH 500",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.55,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 11.5
+        },
+        {
+          "Q": 1.5,
+          "V": 11.0
+        },
+        {
+          "Q": 3.0,
+          "V": 10.0
+        },
+        {
+          "Q": 6.0,
+          "V": 8.0
+        },
+        {
+          "Q": 9.0,
+          "V": 5.6
+        },
+        {
+          "Q": 12.0,
+          "V": 2.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 192: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.4 HP / P2 0.55 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "53184cc2",
+    "Manufacturer": "Speroni",
+    "Series": "SDH",
+    "Model": "SDH 1000",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.0
+        },
+        {
+          "Q": 1.5,
+          "V": 14.5
+        },
+        {
+          "Q": 3.0,
+          "V": 14.0
+        },
+        {
+          "Q": 6.0,
+          "V": 12.6
+        },
+        {
+          "Q": 9.0,
+          "V": 11.0
+        },
+        {
+          "Q": 12.0,
+          "V": 9.2
+        },
+        {
+          "Q": 15.0,
+          "V": 7.1
+        },
+        {
+          "Q": 18.0,
+          "V": 4.6
+        },
+        {
+          "Q": 21.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 192: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "b05ffeae",
+    "Manufacturer": "Speroni",
+    "Series": "ASM",
+    "Model": "ASM 315",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.7,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 16.0
+        },
+        {
+          "Q": 12.0,
+          "V": 13.5
+        },
+        {
+          "Q": 18.0,
+          "V": 8.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 194: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.1 HP / P2 1.7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4983f6eb",
+    "Manufacturer": "Speroni",
+    "Series": "ASM",
+    "Model": "ASM 520",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 16.5
+        },
+        {
+          "Q": 12.0,
+          "V": 14.4
+        },
+        {
+          "Q": 18.0,
+          "V": 12.3
+        },
+        {
+          "Q": 30.0,
+          "V": 7.2
+        },
+        {
+          "Q": 42.0,
+          "V": 1.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 194: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "74ac85d8",
+    "Manufacturer": "Speroni",
+    "Series": "AS",
+    "Model": "AS 520",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 16.5
+        },
+        {
+          "Q": 12.0,
+          "V": 14.4
+        },
+        {
+          "Q": 18.0,
+          "V": 12.3
+        },
+        {
+          "Q": 30.0,
+          "V": 7.2
+        },
+        {
+          "Q": 42.0,
+          "V": 1.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 194: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "3fc215f2",
+    "Manufacturer": "Speroni",
+    "Series": "AS",
+    "Model": "AS 730",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 20.5
+        },
+        {
+          "Q": 12.0,
+          "V": 18.6
+        },
+        {
+          "Q": 18.0,
+          "V": 16.4
+        },
+        {
+          "Q": 30.0,
+          "V": 11.4
+        },
+        {
+          "Q": 42.0,
+          "V": 4.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 194: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "6f3dfe16",
+    "Manufacturer": "Speroni",
+    "Series": "AS",
+    "Model": "AS 1150",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 24.5
+        },
+        {
+          "Q": 12.0,
+          "V": 23.0
+        },
+        {
+          "Q": 18.0,
+          "V": 21.0
+        },
+        {
+          "Q": 30.0,
+          "V": 16.0
+        },
+        {
+          "Q": 42.0,
+          "V": 11.0
+        },
+        {
+          "Q": 48.0,
+          "V": 7.0
+        },
+        {
+          "Q": 60.0,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 194: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 5 HP / P2 4 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "13aba137",
+    "Manufacturer": "Speroni",
+    "Series": "AS",
+    "Model": "AS 1175",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 37.0
+        },
+        {
+          "Q": 12.0,
+          "V": 35.0
+        },
+        {
+          "Q": 18.0,
+          "V": 32.0
+        },
+        {
+          "Q": 30.0,
+          "V": 28.0
+        },
+        {
+          "Q": 42.0,
+          "V": 21.0
+        },
+        {
+          "Q": 48.0,
+          "V": 18.6
+        },
+        {
+          "Q": 60.0,
+          "V": 12.5
+        },
+        {
+          "Q": 75.0,
+          "V": 2.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 196: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 5.5 HP / P2 7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "8924b650",
+    "Manufacturer": "Speroni",
+    "Series": "AS",
+    "Model": "AS 1875",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 29.0
+        },
+        {
+          "Q": 12.0,
+          "V": 28.0
+        },
+        {
+          "Q": 18.0,
+          "V": 27.0
+        },
+        {
+          "Q": 30.0,
+          "V": 25.1
+        },
+        {
+          "Q": 42.0,
+          "V": 22.3
+        },
+        {
+          "Q": 48.0,
+          "V": 21.5
+        },
+        {
+          "Q": 60.0,
+          "V": 19.0
+        },
+        {
+          "Q": 75.0,
+          "V": 15.1
+        },
+        {
+          "Q": 90.0,
+          "V": 10.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 196: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 5.5 HP / P2 7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "a9f041e9",
+    "Manufacturer": "Speroni",
+    "Series": "AS",
+    "Model": "AS 1610",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 9.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 39.0
+        },
+        {
+          "Q": 12.0,
+          "V": 37.5
+        },
+        {
+          "Q": 18.0,
+          "V": 36.0
+        },
+        {
+          "Q": 30.0,
+          "V": 33.5
+        },
+        {
+          "Q": 42.0,
+          "V": 29.7
+        },
+        {
+          "Q": 48.0,
+          "V": 28.0
+        },
+        {
+          "Q": 60.0,
+          "V": 24.8
+        },
+        {
+          "Q": 75.0,
+          "V": 19.0
+        },
+        {
+          "Q": 90.0,
+          "V": 12.0
+        },
+        {
+          "Q": 120.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 196: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE DES CHANTIERS",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 7.5 HP / P2 9.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "509426dc",
+    "Manufacturer": "Speroni",
+    "Series": "ECM",
+    "Model": "ECM 75 DS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.9,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 10.0
+        },
+        {
+          "Q": 6.0,
+          "V": 9.5
+        },
+        {
+          "Q": 9.0,
+          "V": 9.0
+        },
+        {
+          "Q": 12.0,
+          "V": 8.0
+        },
+        {
+          "Q": 15.0,
+          "V": 7.0
+        },
+        {
+          "Q": 18.0,
+          "V": 6.0
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 198: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.55 HP / P2 0.9 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "f6d2e07e",
+    "Manufacturer": "Speroni",
+    "Series": "ECM",
+    "Model": "ECM 100 DS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.5
+        },
+        {
+          "Q": 9.0,
+          "V": 10.0
+        },
+        {
+          "Q": 12.0,
+          "V": 9.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        },
+        {
+          "Q": 24.0,
+          "V": 4.5
+        },
+        {
+          "Q": 27.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 198: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "dee56272",
+    "Manufacturer": "Speroni",
+    "Series": "ECT",
+    "Model": "ECT 100 D",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.5
+        },
+        {
+          "Q": 9.0,
+          "V": 10.0
+        },
+        {
+          "Q": 12.0,
+          "V": 9.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        },
+        {
+          "Q": 24.0,
+          "V": 4.5
+        },
+        {
+          "Q": 27.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 198: ÉLECTROPOMPES SUBMERSIBLES POUR DRAINAGE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "8d0bb728",
+    "Manufacturer": "Speroni",
+    "Series": "ECM",
+    "Model": "ECM 75 VS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.9,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 8.5
+        },
+        {
+          "Q": 6.0,
+          "V": 8.0
+        },
+        {
+          "Q": 9.0,
+          "V": 7.0
+        },
+        {
+          "Q": 12.0,
+          "V": 5.5
+        },
+        {
+          "Q": 15.0,
+          "V": 4.0
+        },
+        {
+          "Q": 18.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 200: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.55 HP / P2 0.9 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "3ade96fc",
+    "Manufacturer": "Speroni",
+    "Series": "ECM",
+    "Model": "ECM 100 VS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 9.5
+        },
+        {
+          "Q": 6.0,
+          "V": 9.0
+        },
+        {
+          "Q": 9.0,
+          "V": 8.0
+        },
+        {
+          "Q": 12.0,
+          "V": 6.5
+        },
+        {
+          "Q": 15.0,
+          "V": 5.0
+        },
+        {
+          "Q": 18.0,
+          "V": 4.0
+        },
+        {
+          "Q": 21.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 200: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "07d70eb3",
+    "Manufacturer": "Speroni",
+    "Series": "ECT",
+    "Model": "ECT 100 V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 9.5
+        },
+        {
+          "Q": 6.0,
+          "V": 9.0
+        },
+        {
+          "Q": 9.0,
+          "V": 8.0
+        },
+        {
+          "Q": 12.0,
+          "V": 6.5
+        },
+        {
+          "Q": 15.0,
+          "V": 5.0
+        },
+        {
+          "Q": 18.0,
+          "V": 4.0
+        },
+        {
+          "Q": 21.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 200: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4ab0ab11",
+    "Manufacturer": "Speroni",
+    "Series": "SEM",
+    "Model": "SEM 150 VS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.7,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.0
+        },
+        {
+          "Q": 9.0,
+          "V": 9.0
+        },
+        {
+          "Q": 12.0,
+          "V": 8.0
+        },
+        {
+          "Q": 15.0,
+          "V": 7.0
+        },
+        {
+          "Q": 18.0,
+          "V": 6.0
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        },
+        {
+          "Q": 24.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 202: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.1 HP / P2 1.7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "7753591b",
+    "Manufacturer": "Speroni",
+    "Series": "SET",
+    "Model": "SET 150 V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.7,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.0
+        },
+        {
+          "Q": 9.0,
+          "V": 9.0
+        },
+        {
+          "Q": 12.0,
+          "V": 8.0
+        },
+        {
+          "Q": 15.0,
+          "V": 7.0
+        },
+        {
+          "Q": 18.0,
+          "V": 6.0
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        },
+        {
+          "Q": 24.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 202: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.1 HP / P2 1.7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "f285a5d0",
+    "Manufacturer": "Speroni",
+    "Series": "SEM",
+    "Model": "SEM 200 VS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 11.5
+        },
+        {
+          "Q": 6.0,
+          "V": 11.0
+        },
+        {
+          "Q": 9.0,
+          "V": 10.0
+        },
+        {
+          "Q": 12.0,
+          "V": 9.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        },
+        {
+          "Q": 24.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 202: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "75d7c820",
+    "Manufacturer": "Speroni",
+    "Series": "SET",
+    "Model": "SET 200 V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 11.5
+        },
+        {
+          "Q": 6.0,
+          "V": 11.0
+        },
+        {
+          "Q": 9.0,
+          "V": 10.0
+        },
+        {
+          "Q": 12.0,
+          "V": 9.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        },
+        {
+          "Q": 24.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 202: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "37b1d056",
+    "Manufacturer": "Speroni",
+    "Series": "PRM",
+    "Model": "PRM 250 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.6,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 14.5
+        },
+        {
+          "Q": 6.0,
+          "V": 14.0
+        },
+        {
+          "Q": 9.0,
+          "V": 13.5
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 15.0,
+          "V": 12.5
+        },
+        {
+          "Q": 18.0,
+          "V": 12.0
+        },
+        {
+          "Q": 21.0,
+          "V": 11.5
+        },
+        {
+          "Q": 24.0,
+          "V": 11.0
+        },
+        {
+          "Q": 27.0,
+          "V": 9.0
+        },
+        {
+          "Q": 30.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 204: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.85 HP / P2 2.6 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "86c017c8",
+    "Manufacturer": "Speroni",
+    "Series": "PRT",
+    "Model": "PRT 250 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.6,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 14.5
+        },
+        {
+          "Q": 6.0,
+          "V": 14.0
+        },
+        {
+          "Q": 9.0,
+          "V": 13.5
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 15.0,
+          "V": 12.5
+        },
+        {
+          "Q": 18.0,
+          "V": 12.0
+        },
+        {
+          "Q": 21.0,
+          "V": 11.5
+        },
+        {
+          "Q": 24.0,
+          "V": 11.0
+        },
+        {
+          "Q": 27.0,
+          "V": 9.0
+        },
+        {
+          "Q": 30.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 204: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.85 HP / P2 2.6 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "74243683",
+    "Manufacturer": "Speroni",
+    "Series": "PRM",
+    "Model": "PRM 300 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 16.5
+        },
+        {
+          "Q": 6.0,
+          "V": 16.0
+        },
+        {
+          "Q": 9.0,
+          "V": 15.5
+        },
+        {
+          "Q": 12.0,
+          "V": 15.0
+        },
+        {
+          "Q": 15.0,
+          "V": 14.5
+        },
+        {
+          "Q": 18.0,
+          "V": 14.0
+        },
+        {
+          "Q": 21.0,
+          "V": 13.5
+        },
+        {
+          "Q": 24.0,
+          "V": 13.0
+        },
+        {
+          "Q": 27.0,
+          "V": 11.5
+        },
+        {
+          "Q": 30.0,
+          "V": 9.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 204: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ad42b01c",
+    "Manufacturer": "Speroni",
+    "Series": "PRT",
+    "Model": "PRT 300 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.0,
+          "V": 16.5
+        },
+        {
+          "Q": 6.0,
+          "V": 16.0
+        },
+        {
+          "Q": 9.0,
+          "V": 15.5
+        },
+        {
+          "Q": 12.0,
+          "V": 15.0
+        },
+        {
+          "Q": 15.0,
+          "V": 14.5
+        },
+        {
+          "Q": 18.0,
+          "V": 14.0
+        },
+        {
+          "Q": 21.0,
+          "V": 13.5
+        },
+        {
+          "Q": 24.0,
+          "V": 13.0
+        },
+        {
+          "Q": 27.0,
+          "V": 11.5
+        },
+        {
+          "Q": 30.0,
+          "V": 9.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 204: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "a0a65652",
+    "Manufacturer": "Speroni",
+    "Series": "PRF",
+    "Model": "PRF 350 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 17.0
+        },
+        {
+          "Q": 12.0,
+          "V": 16.0
+        },
+        {
+          "Q": 18.0,
+          "V": 15.0
+        },
+        {
+          "Q": 24.0,
+          "V": 13.0
+        },
+        {
+          "Q": 36.0,
+          "V": 9.0
+        },
+        {
+          "Q": 42.0,
+          "V": 7.0
+        },
+        {
+          "Q": 48.0,
+          "V": 5.0
+        },
+        {
+          "Q": 54.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 206: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2.5 HP / P2 3.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "3e401366",
+    "Manufacturer": "Speroni",
+    "Series": "PRF",
+    "Model": "PRF 400 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 18.0
+        },
+        {
+          "Q": 12.0,
+          "V": 17.0
+        },
+        {
+          "Q": 18.0,
+          "V": 16.0
+        },
+        {
+          "Q": 24.0,
+          "V": 14.0
+        },
+        {
+          "Q": 36.0,
+          "V": 11.0
+        },
+        {
+          "Q": 42.0,
+          "V": 9.0
+        },
+        {
+          "Q": 48.0,
+          "V": 7.0
+        },
+        {
+          "Q": 54.0,
+          "V": 5.0
+        },
+        {
+          "Q": 60.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 206: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 3 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "d67a4a0f",
+    "Manufacturer": "Speroni",
+    "Series": "PRF",
+    "Model": "PRF 550 N-V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 24.0
+        },
+        {
+          "Q": 12.0,
+          "V": 23.0
+        },
+        {
+          "Q": 18.0,
+          "V": 21.0
+        },
+        {
+          "Q": 24.0,
+          "V": 19.0
+        },
+        {
+          "Q": 36.0,
+          "V": 16.0
+        },
+        {
+          "Q": 42.0,
+          "V": 14.0
+        },
+        {
+          "Q": 48.0,
+          "V": 12.0
+        },
+        {
+          "Q": 54.0,
+          "V": 10.0
+        },
+        {
+          "Q": 60.0,
+          "V": 8.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 206: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "170ce6f5",
+    "Manufacturer": "Speroni",
+    "Series": "SEM",
+    "Model": "SEM 200 N-MS",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 15.0
+        },
+        {
+          "Q": 9.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 15.0,
+          "V": 12.0
+        },
+        {
+          "Q": 18.0,
+          "V": 11.0
+        },
+        {
+          "Q": 21.0,
+          "V": 10.0
+        },
+        {
+          "Q": 24.0,
+          "V": 9.0
+        },
+        {
+          "Q": 27.0,
+          "V": 8.0
+        },
+        {
+          "Q": 30.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 208: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR MONOCANAL EN FONTE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "a23864af",
+    "Manufacturer": "Speroni",
+    "Series": "SET",
+    "Model": "SET 200 N-M",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 15.0
+        },
+        {
+          "Q": 9.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 15.0,
+          "V": 12.0
+        },
+        {
+          "Q": 18.0,
+          "V": 11.0
+        },
+        {
+          "Q": 21.0,
+          "V": 10.0
+        },
+        {
+          "Q": 24.0,
+          "V": 9.0
+        },
+        {
+          "Q": 27.0,
+          "V": 8.0
+        },
+        {
+          "Q": 30.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 208: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR MONOCANAL EN FONTE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "abe02aee",
+    "Manufacturer": "Speroni",
+    "Series": "PRM",
+    "Model": "PRM 300 N-M",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 22.0
+        },
+        {
+          "Q": 12.0,
+          "V": 20.0
+        },
+        {
+          "Q": 18.0,
+          "V": 18.5
+        },
+        {
+          "Q": 24.0,
+          "V": 17.0
+        },
+        {
+          "Q": 27.0,
+          "V": 16.0
+        },
+        {
+          "Q": 30.0,
+          "V": 15.5
+        },
+        {
+          "Q": 36.0,
+          "V": 14.0
+        },
+        {
+          "Q": 39.0,
+          "V": 13.0
+        },
+        {
+          "Q": 42.0,
+          "V": 12.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 210: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR MONOCANAL EN FONTE ROTOR - RODETE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4742afc8",
+    "Manufacturer": "Speroni",
+    "Series": "PRT",
+    "Model": "PRT 300 N-M",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 22.0
+        },
+        {
+          "Q": 12.0,
+          "V": 20.0
+        },
+        {
+          "Q": 18.0,
+          "V": 18.5
+        },
+        {
+          "Q": 24.0,
+          "V": 17.0
+        },
+        {
+          "Q": 27.0,
+          "V": 16.0
+        },
+        {
+          "Q": 30.0,
+          "V": 15.5
+        },
+        {
+          "Q": 36.0,
+          "V": 14.0
+        },
+        {
+          "Q": 39.0,
+          "V": 13.0
+        },
+        {
+          "Q": 42.0,
+          "V": 12.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 210: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR MONOCANAL EN FONTE ROTOR - RODETE",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "da942ab5",
+    "Manufacturer": "Speroni",
+    "Series": "PRF",
+    "Model": "PRF 350 N-M",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 13.0
+        },
+        {
+          "Q": 12.0,
+          "V": 12.0
+        },
+        {
+          "Q": 18.0,
+          "V": 11.5
+        },
+        {
+          "Q": 24.0,
+          "V": 10.5
+        },
+        {
+          "Q": 30.0,
+          "V": 9.5
+        },
+        {
+          "Q": 36.0,
+          "V": 8.5
+        },
+        {
+          "Q": 42.0,
+          "V": 7.5
+        },
+        {
+          "Q": 48.0,
+          "V": 7.0
+        },
+        {
+          "Q": 54.0,
+          "V": 6.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 212: ",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2.5 HP / P2 3.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "1afbcf18",
+    "Manufacturer": "Speroni",
+    "Series": "CUTTY",
+    "Model": "CUTTY 150 N",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.0
+        },
+        {
+          "Q": 3.0,
+          "V": 14.5
+        },
+        {
+          "Q": 6.0,
+          "V": 14.0
+        },
+        {
+          "Q": 9.0,
+          "V": 12.0
+        },
+        {
+          "Q": 12.0,
+          "V": 10.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 6.0
+        },
+        {
+          "Q": 21.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 214: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.5 HP / P2 1.1 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "6d822232",
+    "Manufacturer": "Speroni",
+    "Series": "CUTTY",
+    "Model": "CUTTY 200 N",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 3.0,
+          "V": 16.0
+        },
+        {
+          "Q": 6.0,
+          "V": 15.0
+        },
+        {
+          "Q": 9.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 11.0
+        },
+        {
+          "Q": 15.0,
+          "V": 9.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 214: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "a3bf0857",
+    "Manufacturer": "Speroni",
+    "Series": "CUTTY",
+    "Model": "CUTTY 200 N-T",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 3.0,
+          "V": 16.0
+        },
+        {
+          "Q": 6.0,
+          "V": 15.0
+        },
+        {
+          "Q": 9.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 11.0
+        },
+        {
+          "Q": 15.0,
+          "V": 9.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        },
+        {
+          "Q": 21.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 214: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "a9f856df",
+    "Manufacturer": "Speroni",
+    "Series": "CUTTY",
+    "Model": "CUTTY 250 N",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.85,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.0
+        },
+        {
+          "Q": 3.0,
+          "V": 26.0
+        },
+        {
+          "Q": 6.0,
+          "V": 25.0
+        },
+        {
+          "Q": 9.0,
+          "V": 22.0
+        },
+        {
+          "Q": 12.0,
+          "V": 19.0
+        },
+        {
+          "Q": 15.0,
+          "V": 16.0
+        },
+        {
+          "Q": 18.0,
+          "V": 10.0
+        },
+        {
+          "Q": 21.0,
+          "V": 9.0
+        },
+        {
+          "Q": 24.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 214: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2.5 HP / P2 1.85 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4a768e1f",
+    "Manufacturer": "Speroni",
+    "Series": "CUTTY",
+    "Model": "CUTTY 250 N-T",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.85,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 27.0
+        },
+        {
+          "Q": 3.0,
+          "V": 26.0
+        },
+        {
+          "Q": 6.0,
+          "V": 25.0
+        },
+        {
+          "Q": 9.0,
+          "V": 22.0
+        },
+        {
+          "Q": 12.0,
+          "V": 19.0
+        },
+        {
+          "Q": 15.0,
+          "V": 16.0
+        },
+        {
+          "Q": 18.0,
+          "V": 10.0
+        },
+        {
+          "Q": 21.0,
+          "V": 9.0
+        },
+        {
+          "Q": 24.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 214: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2.5 HP / P2 1.85 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "7154e1ac",
+    "Manufacturer": "Speroni",
+    "Series": "ECOTRI",
+    "Model": "ECOTRI 150-S",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 16.0
+        },
+        {
+          "Q": 3.0,
+          "V": 15.0
+        },
+        {
+          "Q": 6.0,
+          "V": 12.0
+        },
+        {
+          "Q": 9.0,
+          "V": 9.0
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 216: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.5 HP / P2 1.1 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "96b8d260",
+    "Manufacturer": "Speroni",
+    "Series": "ECOTRI",
+    "Model": "ECOTRI 200-T",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 17.5
+        },
+        {
+          "Q": 3.0,
+          "V": 17.0
+        },
+        {
+          "Q": 6.0,
+          "V": 16.0
+        },
+        {
+          "Q": 9.0,
+          "V": 15.0
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 15.0,
+          "V": 10.5
+        },
+        {
+          "Q": 18.0,
+          "V": 7.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 216: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "a1f0f624",
+    "Manufacturer": "Speroni",
+    "Series": "ECOTRI",
+    "Model": "ECOTRI 300-T",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 26.0
+        },
+        {
+          "Q": 3.0,
+          "V": 25.5
+        },
+        {
+          "Q": 6.0,
+          "V": 24.5
+        },
+        {
+          "Q": 9.0,
+          "V": 23.0
+        },
+        {
+          "Q": 12.0,
+          "V": 21.0
+        },
+        {
+          "Q": 15.0,
+          "V": 18.0
+        },
+        {
+          "Q": 18.0,
+          "V": 14.0
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 216: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "3323da55",
+    "Manufacturer": "Speroni",
+    "Series": "ECOTRI",
+    "Model": "ECOTRI 500-T",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.7,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 29.5
+        },
+        {
+          "Q": 3.0,
+          "V": 29.0
+        },
+        {
+          "Q": 6.0,
+          "V": 28.0
+        },
+        {
+          "Q": 9.0,
+          "V": 27.0
+        },
+        {
+          "Q": 12.0,
+          "V": 25.8
+        },
+        {
+          "Q": 15.0,
+          "V": 24.0
+        },
+        {
+          "Q": 18.0,
+          "V": 22.0
+        },
+        {
+          "Q": 21.0,
+          "V": 19.0
+        },
+        {
+          "Q": 24.0,
+          "V": 15.0
+        },
+        {
+          "Q": 27.0,
+          "V": 9.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 216: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 5 HP / P2 3.7 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "d492b3fd",
+    "Manufacturer": "Speroni",
+    "Series": "ECOTRI",
+    "Model": "ECOTRI 750-T",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 41.5
+        },
+        {
+          "Q": 3.0,
+          "V": 41.4
+        },
+        {
+          "Q": 6.0,
+          "V": 41.0
+        },
+        {
+          "Q": 9.0,
+          "V": 40.0
+        },
+        {
+          "Q": 12.0,
+          "V": 39.0
+        },
+        {
+          "Q": 15.0,
+          "V": 38.0
+        },
+        {
+          "Q": 18.0,
+          "V": 36.0
+        },
+        {
+          "Q": 21.0,
+          "V": 33.0
+        },
+        {
+          "Q": 24.0,
+          "V": 25.0
+        },
+        {
+          "Q": 27.0,
+          "V": 10.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 216: ÉLECTROPOMPES SUBMERSIBLES AVEC BROYEUR",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 7.5 HP / P2 5.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ae84bf86",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 15-1,1",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.3,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 12.0
+        },
+        {
+          "Q": 9.0,
+          "V": 11.0
+        },
+        {
+          "Q": 12.0,
+          "V": 10.0
+        },
+        {
+          "Q": 15.0,
+          "V": 8.0
+        },
+        {
+          "Q": 18.0,
+          "V": 7.5
+        },
+        {
+          "Q": 21.0,
+          "V": 6.0
+        },
+        {
+          "Q": 24.0,
+          "V": 5.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 218: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.1 HP / P2 1.3 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "0de3df3b",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 25-1,5",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 13.0
+        },
+        {
+          "Q": 9.0,
+          "V": 12.5
+        },
+        {
+          "Q": 12.0,
+          "V": 12.0
+        },
+        {
+          "Q": 15.0,
+          "V": 11.0
+        },
+        {
+          "Q": 18.0,
+          "V": 10.0
+        },
+        {
+          "Q": 21.0,
+          "V": 9.3
+        },
+        {
+          "Q": 24.0,
+          "V": 7.8
+        },
+        {
+          "Q": 27.0,
+          "V": 7.0
+        },
+        {
+          "Q": 30.0,
+          "V": 6.0
+        },
+        {
+          "Q": 33.0,
+          "V": 4.0
+        },
+        {
+          "Q": 36.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 218: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ff004a24",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 25-2,2",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 16.0
+        },
+        {
+          "Q": 9.0,
+          "V": 15.6
+        },
+        {
+          "Q": 12.0,
+          "V": 15.0
+        },
+        {
+          "Q": 15.0,
+          "V": 14.5
+        },
+        {
+          "Q": 18.0,
+          "V": 13.7
+        },
+        {
+          "Q": 21.0,
+          "V": 13.0
+        },
+        {
+          "Q": 24.0,
+          "V": 12.0
+        },
+        {
+          "Q": 27.0,
+          "V": 11.5
+        },
+        {
+          "Q": 30.0,
+          "V": 10.2
+        },
+        {
+          "Q": 33.0,
+          "V": 9.6
+        },
+        {
+          "Q": 36.0,
+          "V": 8.5
+        },
+        {
+          "Q": 39.0,
+          "V": 7.5
+        },
+        {
+          "Q": 42.0,
+          "V": 6.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 218: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "33409e88",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 42-3",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 18.0
+        },
+        {
+          "Q": 12.0,
+          "V": 17.0
+        },
+        {
+          "Q": 18.0,
+          "V": 15.0
+        },
+        {
+          "Q": 24.0,
+          "V": 13.0
+        },
+        {
+          "Q": 36.0,
+          "V": 9.5
+        },
+        {
+          "Q": 48.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 220: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 3 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "c6444a72",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 50-4",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 20.0
+        },
+        {
+          "Q": 12.0,
+          "V": 17.8
+        },
+        {
+          "Q": 18.0,
+          "V": 17.0
+        },
+        {
+          "Q": 24.0,
+          "V": 15.0
+        },
+        {
+          "Q": 36.0,
+          "V": 12.0
+        },
+        {
+          "Q": 48.0,
+          "V": 7.5
+        },
+        {
+          "Q": 60.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 220: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 4.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "14032ba8",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 65-5,5",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 6.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 25.0
+        },
+        {
+          "Q": 12.0,
+          "V": 23.0
+        },
+        {
+          "Q": 18.0,
+          "V": 21.5
+        },
+        {
+          "Q": 24.0,
+          "V": 20.0
+        },
+        {
+          "Q": 36.0,
+          "V": 16.0
+        },
+        {
+          "Q": 48.0,
+          "V": 12.0
+        },
+        {
+          "Q": 60.0,
+          "V": 7.5
+        },
+        {
+          "Q": 72.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 220: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 5.5 HP / P2 6.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "58ea551e",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 85-7,5",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 8.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 6.0,
+          "V": 30.0
+        },
+        {
+          "Q": 12.0,
+          "V": 28.5
+        },
+        {
+          "Q": 18.0,
+          "V": 27.5
+        },
+        {
+          "Q": 24.0,
+          "V": 26.5
+        },
+        {
+          "Q": 36.0,
+          "V": 24.0
+        },
+        {
+          "Q": 48.0,
+          "V": 21.0
+        },
+        {
+          "Q": 60.0,
+          "V": 17.5
+        },
+        {
+          "Q": 72.0,
+          "V": 13.0
+        },
+        {
+          "Q": 84.0,
+          "V": 10.0
+        },
+        {
+          "Q": 96.0,
+          "V": 6.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 220: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 7.5 HP / P2 8.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "2c2b81ff",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 42-3 V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.5
+        },
+        {
+          "Q": 6.0,
+          "V": 14.5
+        },
+        {
+          "Q": 12.0,
+          "V": 13.0
+        },
+        {
+          "Q": 18.0,
+          "V": 12.0
+        },
+        {
+          "Q": 24.0,
+          "V": 11.0
+        },
+        {
+          "Q": 30.0,
+          "V": 8.5
+        },
+        {
+          "Q": 36.0,
+          "V": 6.5
+        },
+        {
+          "Q": 48.0,
+          "V": 3.0
+        },
+        {
+          "Q": 54.0,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 222: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 3 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "f8e116c9",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 50-4 V",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 18.0
+        },
+        {
+          "Q": 6.0,
+          "V": 16.5
+        },
+        {
+          "Q": 12.0,
+          "V": 15.0
+        },
+        {
+          "Q": 18.0,
+          "V": 13.5
+        },
+        {
+          "Q": 24.0,
+          "V": 12.0
+        },
+        {
+          "Q": 30.0,
+          "V": 10.5
+        },
+        {
+          "Q": 36.0,
+          "V": 9.0
+        },
+        {
+          "Q": 48.0,
+          "V": 4.5
+        },
+        {
+          "Q": 54.0,
+          "V": 2.5
+        },
+        {
+          "Q": 60.0,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 222: ÉLECTROPOMPES SUBMERSIBLES AVEC ROTOR VORTEX",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 4.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "05ff1337",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 150-11",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 11.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 30.0,
+          "V": 18.0
+        },
+        {
+          "Q": 60.0,
+          "V": 17.5
+        },
+        {
+          "Q": 90.0,
+          "V": 17.0
+        },
+        {
+          "Q": 120.0,
+          "V": 15.5
+        },
+        {
+          "Q": 150.0,
+          "V": 13.5
+        },
+        {
+          "Q": 180.0,
+          "V": 10.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 224: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 15 HP / P2 11 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "58866b2a",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 150-15",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 15.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 30.0,
+          "V": 23.5
+        },
+        {
+          "Q": 60.0,
+          "V": 23.0
+        },
+        {
+          "Q": 90.0,
+          "V": 22.2
+        },
+        {
+          "Q": 120.0,
+          "V": 21.0
+        },
+        {
+          "Q": 150.0,
+          "V": 18.3
+        },
+        {
+          "Q": 180.0,
+          "V": 14.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 224: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 20 HP / P2 15 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "8bdb30d3",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 150-18,5",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 18.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 30.0,
+          "V": 24.0
+        },
+        {
+          "Q": 60.0,
+          "V": 23.8
+        },
+        {
+          "Q": 90.0,
+          "V": 23.5
+        },
+        {
+          "Q": 120.0,
+          "V": 22.6
+        },
+        {
+          "Q": 150.0,
+          "V": 20.5
+        },
+        {
+          "Q": 180.0,
+          "V": 20.0
+        },
+        {
+          "Q": 210.0,
+          "V": 17.9
+        },
+        {
+          "Q": 240.0,
+          "V": 15.0
+        },
+        {
+          "Q": 270.0,
+          "V": 11.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 224: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 25 HP / P2 18.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "b4f56362",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 150-30",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 30.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 30.0,
+          "V": 31.8
+        },
+        {
+          "Q": 60.0,
+          "V": 31.0
+        },
+        {
+          "Q": 90.0,
+          "V": 30.5
+        },
+        {
+          "Q": 120.0,
+          "V": 29.5
+        },
+        {
+          "Q": 150.0,
+          "V": 28.5
+        },
+        {
+          "Q": 180.0,
+          "V": 27.0
+        },
+        {
+          "Q": 210.0,
+          "V": 25.5
+        },
+        {
+          "Q": 240.0,
+          "V": 23.4
+        },
+        {
+          "Q": 270.0,
+          "V": 20.0
+        },
+        {
+          "Q": 300.0,
+          "V": 17.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 224: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 40 HP / P2 30 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "5b92e70e",
+    "Manufacturer": "Speroni",
+    "Series": "SQ",
+    "Model": "SQ 150-37",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 37.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 30.0,
+          "V": 34.9
+        },
+        {
+          "Q": 60.0,
+          "V": 34.7
+        },
+        {
+          "Q": 90.0,
+          "V": 34.5
+        },
+        {
+          "Q": 120.0,
+          "V": 33.8
+        },
+        {
+          "Q": 150.0,
+          "V": 32.8
+        },
+        {
+          "Q": 180.0,
+          "V": 31.3
+        },
+        {
+          "Q": 210.0,
+          "V": 29.3
+        },
+        {
+          "Q": 240.0,
+          "V": 26.5
+        },
+        {
+          "Q": 270.0,
+          "V": 23.1
+        },
+        {
+          "Q": 300.0,
+          "V": 19.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 224: ÉLECTROPOMPES SUBMERSIBLES POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 50 HP / P2 37 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "4f7ac7d0",
+    "Manufacturer": "Speroni",
+    "Series": "SAM",
+    "Model": "SAM 316-80",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 9.2
+        },
+        {
+          "Q": 3.0,
+          "V": 8.5
+        },
+        {
+          "Q": 6.0,
+          "V": 7.3
+        },
+        {
+          "Q": 8.0,
+          "V": 6.3
+        },
+        {
+          "Q": 9.0,
+          "V": 6.1
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.6 HP / P2 3 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "7a8db244",
+    "Manufacturer": "Speroni",
+    "Series": "SA",
+    "Model": "SA 316-80",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 9.2
+        },
+        {
+          "Q": 3.0,
+          "V": 8.5
+        },
+        {
+          "Q": 6.0,
+          "V": 7.3
+        },
+        {
+          "Q": 8.0,
+          "V": 6.3
+        },
+        {
+          "Q": 9.0,
+          "V": 6.1
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.6 HP / P2 3 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "38be283a",
+    "Manufacturer": "Speroni",
+    "Series": "SAM",
+    "Model": "SAM 316-130",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.8,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 12.0
+        },
+        {
+          "Q": 3.0,
+          "V": 11.7
+        },
+        {
+          "Q": 6.0,
+          "V": 10.5
+        },
+        {
+          "Q": 8.0,
+          "V": 9.7
+        },
+        {
+          "Q": 9.0,
+          "V": 9.2
+        },
+        {
+          "Q": 12.0,
+          "V": 8.0
+        },
+        {
+          "Q": 24.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 4.8 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "aaf3ec22",
+    "Manufacturer": "Speroni",
+    "Series": "SA",
+    "Model": "SA 316-130",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.8,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 12.0
+        },
+        {
+          "Q": 3.0,
+          "V": 11.7
+        },
+        {
+          "Q": 6.0,
+          "V": 10.5
+        },
+        {
+          "Q": 8.0,
+          "V": 9.7
+        },
+        {
+          "Q": 9.0,
+          "V": 9.2
+        },
+        {
+          "Q": 12.0,
+          "V": 8.0
+        },
+        {
+          "Q": 24.0,
+          "V": 2.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1 HP / P2 4.8 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "08e5ee79",
+    "Manufacturer": "Speroni",
+    "Series": "SA",
+    "Model": "SA 316-200",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.5,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 12.5
+        },
+        {
+          "Q": 3.0,
+          "V": 11.9
+        },
+        {
+          "Q": 6.0,
+          "V": 11.4
+        },
+        {
+          "Q": 8.0,
+          "V": 11.1
+        },
+        {
+          "Q": 9.0,
+          "V": 10.9
+        },
+        {
+          "Q": 12.0,
+          "V": 10.5
+        },
+        {
+          "Q": 24.0,
+          "V": 9.0
+        },
+        {
+          "Q": 36.0,
+          "V": 5.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 2 HP / P2 1.5 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "68bcc735",
+    "Manufacturer": "Speroni",
+    "Series": "SA",
+    "Model": "SA 316-300",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 15.7
+        },
+        {
+          "Q": 3.0,
+          "V": 15.4
+        },
+        {
+          "Q": 6.0,
+          "V": 15.0
+        },
+        {
+          "Q": 8.0,
+          "V": 14.6
+        },
+        {
+          "Q": 9.0,
+          "V": 14.4
+        },
+        {
+          "Q": 12.0,
+          "V": 14.2
+        },
+        {
+          "Q": 24.0,
+          "V": 13.0
+        },
+        {
+          "Q": 36.0,
+          "V": 9.0
+        },
+        {
+          "Q": 48.0,
+          "V": 5.0
+        },
+        {
+          "Q": 54.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 3 HP / P2 2.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "ac8c1d76",
+    "Manufacturer": "Speroni",
+    "Series": "SA",
+    "Model": "SA 316-550",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 12.2,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 1.5,
+          "V": 21.0
+        },
+        {
+          "Q": 3.0,
+          "V": 20.5
+        },
+        {
+          "Q": 6.0,
+          "V": 20.0
+        },
+        {
+          "Q": 8.0,
+          "V": 19.8
+        },
+        {
+          "Q": 9.0,
+          "V": 19.6
+        },
+        {
+          "Q": 12.0,
+          "V": 19.0
+        },
+        {
+          "Q": 24.0,
+          "V": 16.8
+        },
+        {
+          "Q": 36.0,
+          "V": 13.8
+        },
+        {
+          "Q": 48.0,
+          "V": 8.0
+        },
+        {
+          "Q": 54.0,
+          "V": 5.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 226: ÉLECTROPOMPES SUBMERSIBLES EN INOX POUR EAUX SALES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 4 HP / P2 12.2 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "c754a5a2",
+    "Manufacturer": "Speroni",
+    "Series": "NGM",
+    "Model": "NGM 100",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.6,
+          "V": 8.5
+        },
+        {
+          "Q": 4.2,
+          "V": 8.4
+        },
+        {
+          "Q": 4.8,
+          "V": 8.2
+        },
+        {
+          "Q": 6.0,
+          "V": 7.8
+        },
+        {
+          "Q": 7.5,
+          "V": 7.2
+        },
+        {
+          "Q": 9.0,
+          "V": 6.6
+        },
+        {
+          "Q": 10.5,
+          "V": 6.0
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        },
+        {
+          "Q": 15.0,
+          "V": 3.2
+        },
+        {
+          "Q": 16.8,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 228: ÉLECTROPOMPES VERTICALES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.55 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "1aa218a3",
+    "Manufacturer": "Speroni",
+    "Series": "NG",
+    "Model": "NG 100",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.75,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.6,
+          "V": 8.5
+        },
+        {
+          "Q": 4.2,
+          "V": 8.4
+        },
+        {
+          "Q": 4.8,
+          "V": 8.2
+        },
+        {
+          "Q": 6.0,
+          "V": 7.8
+        },
+        {
+          "Q": 7.5,
+          "V": 7.2
+        },
+        {
+          "Q": 9.0,
+          "V": 6.6
+        },
+        {
+          "Q": 10.5,
+          "V": 6.0
+        },
+        {
+          "Q": 12.0,
+          "V": 5.0
+        },
+        {
+          "Q": 15.0,
+          "V": 3.2
+        },
+        {
+          "Q": 16.8,
+          "V": 1.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 228: ÉLECTROPOMPES VERTICALES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 0.55 HP / P2 0.75 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "b64f3e82",
+    "Manufacturer": "Speroni",
+    "Series": "GFM",
+    "Model": "GFM 100",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.6,
+          "V": 5.0
+        },
+        {
+          "Q": 4.2,
+          "V": 4.7
+        },
+        {
+          "Q": 4.8,
+          "V": 4.4
+        },
+        {
+          "Q": 6.0,
+          "V": 4.1
+        },
+        {
+          "Q": 10.5,
+          "V": 3.3
+        },
+        {
+          "Q": 12.0,
+          "V": 2.9
+        },
+        {
+          "Q": 15.0,
+          "V": 1.8
+        },
+        {
+          "Q": 16.8,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 228: ÉLECTROPOMPES VERTICALES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.5 HP / P2 1.1 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "73aa3866",
+    "Manufacturer": "Speroni",
+    "Series": "GF",
+    "Model": "GF 100",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.6,
+          "V": 5.0
+        },
+        {
+          "Q": 4.2,
+          "V": 4.7
+        },
+        {
+          "Q": 4.8,
+          "V": 4.4
+        },
+        {
+          "Q": 6.0,
+          "V": 4.1
+        },
+        {
+          "Q": 10.5,
+          "V": 3.3
+        },
+        {
+          "Q": 12.0,
+          "V": 2.9
+        },
+        {
+          "Q": 15.0,
+          "V": 1.8
+        },
+        {
+          "Q": 16.8,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 228: ÉLECTROPOMPES VERTICALES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.5 HP / P2 1.1 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "bec5c9bf",
+    "Manufacturer": "Speroni",
+    "Series": "GFM",
+    "Model": "GFM 150",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.6,
+          "V": 5.0
+        },
+        {
+          "Q": 4.2,
+          "V": 4.7
+        },
+        {
+          "Q": 4.8,
+          "V": 4.4
+        },
+        {
+          "Q": 6.0,
+          "V": 4.1
+        },
+        {
+          "Q": 10.5,
+          "V": 3.3
+        },
+        {
+          "Q": 12.0,
+          "V": 2.9
+        },
+        {
+          "Q": 15.0,
+          "V": 1.8
+        },
+        {
+          "Q": 16.8,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 228: ÉLECTROPOMPES VERTICALES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.5 HP / P2 1.1 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  },
+  {
+    "Id": "8c445207",
+    "Manufacturer": "Speroni",
+    "Series": "GF",
+    "Model": "GF 150",
+    "Country": "Италия",
+    "Application": "дренажный/канализационный погружной",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 3.6,
+          "V": 5.0
+        },
+        {
+          "Q": 4.2,
+          "V": 4.7
+        },
+        {
+          "Q": 4.8,
+          "V": 4.4
+        },
+        {
+          "Q": 6.0,
+          "V": 4.1
+        },
+        {
+          "Q": 10.5,
+          "V": 3.3
+        },
+        {
+          "Q": 12.0,
+          "V": 2.9
+        },
+        {
+          "Q": 15.0,
+          "V": 1.8
+        },
+        {
+          "Q": 16.8,
+          "V": 0.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Speroni, Catalogue général 2021 (rev.15), стр. 228: ÉLECTROPOMPES VERTICALES POUR EAUX CHARGÉES",
+      "Url": "https://www.speroni.it/pub/media/cataloghi/SPERONI-cat-Gen-2021-FR-ES-rev15.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м). Мощность 1.5 HP / P2 1.1 кВт. Двигатель 2-полюсный 50 Гц (по каталогу — 2900 об/мин для погружных серий)."
+  }
+]

@@ -45,12 +45,14 @@ for pi in range(12,26):
             for x,y in a[::3]:
                 x=round(max(0,x),2)
                 if not qhs or x>qhs[-1][0]: qhs.append((x,round(y,3)))
+            nq,nh,tn=T['q'],T['h'],''
+            if abs(nh-h)>0.3*h or abs(nq-q)>0.3*q: nq,nh,tn=q,h,f" ВНИМАНИЕ: в таблице каталога Q={T['q']:g}, H={T['h']:g} (опечатка) — номинал принят по обозначению."
             rpm=int(T['n']); pol=2 if rpm>2000 else 4 if rpm>1200 else 6 if rpm>900 else 8
             recs.append(rec("Hydroo",ser,n,"Испания",Application='канализационный погружной'+(' с измельчителем' if ser=='WG' else ''),
                 Impeller='Grinder' if ser=='WG' else 'MultiChannel',HasCutter=ser=='WG',DnOut=int(T['dn']),FreePassageMm=T['solid'],P2Kw=T['p2'],Rpm=rpm,Poles=pol,
-                Voltage=f"3~{int(T['v'])} В 50 Гц",WeightKg=T['wt'],NominalQ=T['q'],NominalH=T['h'],QH=qhs,
+                Voltage=f"3~{int(T['v'])} В 50 Гц",WeightKg=T['wt'],NominalQ=nq,NominalH=nh,QH=qhs,
                 Document=f"Hydroo «WDROO series. Submersible sewage pump WF, WX, WG, WV 50Hz» (изд. 06.2023), стр. {pi+1} Performance curve; техданные стр. {T['page']}",
-                Url=URL,Notes=f"{'Двухканальное колесо (WF)' if ser=='WF' else 'Режущий механизм (WG)'}. Кривая оцифрована с растра сводного графика; привязана по номинальной точке обозначения (отклонение {dv*100:.1f} %). Iном {T['i']:g} А."))
+                Url=URL,Notes=f"{'Двухканальное колесо (WF)' if ser=='WF' else 'Режущий механизм (WG)'}. Кривая оцифрована с растра сводного графика; привязана по номинальной точке обозначения (отклонение {dv*100:.1f} %). Iном {T['i']:g} А."+tn))
 seen=set();out=[]
 for r in recs:
     if r['Id'] in seen: continue

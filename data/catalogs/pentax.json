@@ -1,0 +1,5991 @@
+[
+  {
+    "Id": "4a273044",
+    "Manufacturer": "Pentax",
+    "Series": "DP",
+    "Model": "DP 40 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 4,
+    "P2Kw": 0,
+    "P1Kw": 0.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 6.1
+        },
+        {
+          "Q": 1.2,
+          "V": 5.7
+        },
+        {
+          "Q": 2.4,
+          "V": 5.0
+        },
+        {
+          "Q": 3.0,
+          "V": 4.7
+        },
+        {
+          "Q": 3.6,
+          "V": 4.2
+        },
+        {
+          "Q": 4.8,
+          "V": 2.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 200 Вт, ток 1 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "48b8ad40",
+    "Manufacturer": "Pentax",
+    "Series": "DP",
+    "Model": "DP 60 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 4,
+    "P2Kw": 0,
+    "P1Kw": 0.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.5
+        },
+        {
+          "Q": 1.2,
+          "V": 8.1
+        },
+        {
+          "Q": 2.4,
+          "V": 7.6
+        },
+        {
+          "Q": 3.0,
+          "V": 7.2
+        },
+        {
+          "Q": 3.6,
+          "V": 6.7
+        },
+        {
+          "Q": 4.8,
+          "V": 5.0
+        },
+        {
+          "Q": 6.0,
+          "V": 3.9
+        },
+        {
+          "Q": 7.2,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 400 Вт, ток 2.1 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "6d1507da",
+    "Manufacturer": "Pentax",
+    "Series": "DP",
+    "Model": "DP 80 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 7,
+    "P2Kw": 0,
+    "P1Kw": 0.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.3
+        },
+        {
+          "Q": 3.0,
+          "V": 9.1
+        },
+        {
+          "Q": 3.6,
+          "V": 8.8
+        },
+        {
+          "Q": 4.8,
+          "V": 8.3
+        },
+        {
+          "Q": 6.0,
+          "V": 7.8
+        },
+        {
+          "Q": 7.2,
+          "V": 7.3
+        },
+        {
+          "Q": 9.0,
+          "V": 6.3
+        },
+        {
+          "Q": 12.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 800 Вт, ток 3.7 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "5c0d59f0",
+    "Manufacturer": "Pentax",
+    "Series": "DPT",
+    "Model": "DPT 80",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 7,
+    "P2Kw": 0,
+    "P1Kw": 0.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.3
+        },
+        {
+          "Q": 3.0,
+          "V": 9.1
+        },
+        {
+          "Q": 3.6,
+          "V": 8.8
+        },
+        {
+          "Q": 4.8,
+          "V": 8.3
+        },
+        {
+          "Q": 6.0,
+          "V": 7.8
+        },
+        {
+          "Q": 7.2,
+          "V": 7.3
+        },
+        {
+          "Q": 9.0,
+          "V": 6.3
+        },
+        {
+          "Q": 12.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 800 Вт, ток 1.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "9c6a45eb",
+    "Manufacturer": "Pentax",
+    "Series": "DP",
+    "Model": "DP 100 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 7,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.3
+        },
+        {
+          "Q": 3.0,
+          "V": 12.2
+        },
+        {
+          "Q": 3.6,
+          "V": 12.0
+        },
+        {
+          "Q": 4.8,
+          "V": 11.5
+        },
+        {
+          "Q": 6.0,
+          "V": 10.9
+        },
+        {
+          "Q": 7.2,
+          "V": 10.3
+        },
+        {
+          "Q": 9.0,
+          "V": 9.3
+        },
+        {
+          "Q": 12.0,
+          "V": 7.3
+        },
+        {
+          "Q": 15.0,
+          "V": 4.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 1050 Вт, ток 5.1 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "8b869d3d",
+    "Manufacturer": "Pentax",
+    "Series": "DPT",
+    "Model": "DPT 100",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 7,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.3
+        },
+        {
+          "Q": 3.0,
+          "V": 12.2
+        },
+        {
+          "Q": 3.6,
+          "V": 12.0
+        },
+        {
+          "Q": 4.8,
+          "V": 11.5
+        },
+        {
+          "Q": 6.0,
+          "V": 10.9
+        },
+        {
+          "Q": 7.2,
+          "V": 10.3
+        },
+        {
+          "Q": 9.0,
+          "V": 9.3
+        },
+        {
+          "Q": 12.0,
+          "V": 7.3
+        },
+        {
+          "Q": 15.0,
+          "V": 4.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 1050 Вт, ток 2.3 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "081d185c",
+    "Manufacturer": "Pentax",
+    "Series": "DPV",
+    "Model": "DPV 80 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 15,
+    "P2Kw": 0,
+    "P1Kw": 0.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 5.4
+        },
+        {
+          "Q": 3.0,
+          "V": 4.2
+        },
+        {
+          "Q": 6.0,
+          "V": 2.9
+        },
+        {
+          "Q": 9.0,
+          "V": 1.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 500 Вт, ток 2.6 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "36337858",
+    "Manufacturer": "Pentax",
+    "Series": "DPVT",
+    "Model": "DPVT 80",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 15,
+    "P2Kw": 0,
+    "P1Kw": 0.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 5.4
+        },
+        {
+          "Q": 3.0,
+          "V": 4.2
+        },
+        {
+          "Q": 6.0,
+          "V": 2.9
+        },
+        {
+          "Q": 9.0,
+          "V": 1.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 500 Вт, ток 1.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "b94a2e85",
+    "Manufacturer": "Pentax",
+    "Series": "DPV",
+    "Model": "DPV 100 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 15,
+    "P2Kw": 0,
+    "P1Kw": 0.75,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.4
+        },
+        {
+          "Q": 3.0,
+          "V": 5.8
+        },
+        {
+          "Q": 6.0,
+          "V": 4.7
+        },
+        {
+          "Q": 9.0,
+          "V": 2.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 750 Вт, ток 3.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "20729354",
+    "Manufacturer": "Pentax",
+    "Series": "DPVT",
+    "Model": "DPVT 100",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 15,
+    "P2Kw": 0,
+    "P1Kw": 0.75,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.4
+        },
+        {
+          "Q": 3.0,
+          "V": 5.8
+        },
+        {
+          "Q": 6.0,
+          "V": 4.7
+        },
+        {
+          "Q": 9.0,
+          "V": 2.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 239",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DP-DPV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 239. P1 750 Вт, ток 1.7 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "065bcf9b",
+    "Manufacturer": "Pentax",
+    "Series": "DH",
+    "Model": "DH 80 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 0,
+    "P1Kw": 0.98,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.7
+        },
+        {
+          "Q": 3.0,
+          "V": 14.9
+        },
+        {
+          "Q": 6.0,
+          "V": 13.8
+        },
+        {
+          "Q": 9.0,
+          "V": 11.7
+        },
+        {
+          "Q": 12.0,
+          "V": 8.6
+        },
+        {
+          "Q": 15.0,
+          "V": 4.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 244",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DH.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 244. P1 980 Вт, ток 4.3 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "0283dee9",
+    "Manufacturer": "Pentax",
+    "Series": "DHT",
+    "Model": "DHT 80",
+    "Country": "Италия",
+    "Application": "дренажный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 0,
+    "P1Kw": 0.98,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.7
+        },
+        {
+          "Q": 3.0,
+          "V": 14.9
+        },
+        {
+          "Q": 6.0,
+          "V": 13.8
+        },
+        {
+          "Q": 9.0,
+          "V": 11.7
+        },
+        {
+          "Q": 12.0,
+          "V": 8.6
+        },
+        {
+          "Q": 15.0,
+          "V": 4.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 244",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DH.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 244. P1 980 Вт, ток 2.1 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "fb25008a",
+    "Manufacturer": "Pentax",
+    "Series": "DH",
+    "Model": "DH 100 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 0,
+    "P1Kw": 1.37,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.4
+        },
+        {
+          "Q": 3.0,
+          "V": 18.5
+        },
+        {
+          "Q": 6.0,
+          "V": 17.1
+        },
+        {
+          "Q": 9.0,
+          "V": 15.2
+        },
+        {
+          "Q": 12.0,
+          "V": 12.6
+        },
+        {
+          "Q": 15.0,
+          "V": 9.3
+        },
+        {
+          "Q": 18.0,
+          "V": 4.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 244",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DH.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 244. P1 1370 Вт, ток 6.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "7dc04429",
+    "Manufacturer": "Pentax",
+    "Series": "DHT",
+    "Model": "DHT 100",
+    "Country": "Италия",
+    "Application": "дренажный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 0,
+    "P1Kw": 1.37,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.4
+        },
+        {
+          "Q": 3.0,
+          "V": 18.5
+        },
+        {
+          "Q": 6.0,
+          "V": 17.1
+        },
+        {
+          "Q": 9.0,
+          "V": 15.2
+        },
+        {
+          "Q": 12.0,
+          "V": 12.6
+        },
+        {
+          "Q": 15.0,
+          "V": 9.3
+        },
+        {
+          "Q": 18.0,
+          "V": 4.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 244",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DH.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 244. P1 1370 Вт, ток 2.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "9491f520",
+    "Manufacturer": "Pentax",
+    "Series": "DC",
+    "Model": "DC 160",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 1.1,
+    "P1Kw": 3.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 18.9
+        },
+        {
+          "Q": 6.0,
+          "V": 17.9
+        },
+        {
+          "Q": 12.0,
+          "V": 16.4
+        },
+        {
+          "Q": 18.0,
+          "V": 14.3
+        },
+        {
+          "Q": 24.0,
+          "V": 11.4
+        },
+        {
+          "Q": 30.0,
+          "V": 7.6
+        },
+        {
+          "Q": 36.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 246",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 246. P2 1.1 кВт (1.5 HP), P1 3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "b0273086",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 160",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 1.1,
+    "P1Kw": 2.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 18.9
+        },
+        {
+          "Q": 6.0,
+          "V": 17.9
+        },
+        {
+          "Q": 12.0,
+          "V": 16.4
+        },
+        {
+          "Q": 18.0,
+          "V": 14.3
+        },
+        {
+          "Q": 24.0,
+          "V": 11.4
+        },
+        {
+          "Q": 30.0,
+          "V": 7.6
+        },
+        {
+          "Q": 36.0,
+          "V": 3.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 246",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 246. P2 1.1 кВт (1.5 HP), P1 2.8 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "7f658d19",
+    "Manufacturer": "Pentax",
+    "Series": "DC",
+    "Model": "DC 210",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 1.5,
+    "P1Kw": 3.7,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.0
+        },
+        {
+          "Q": 6.0,
+          "V": 22.2
+        },
+        {
+          "Q": 12.0,
+          "V": 20.7
+        },
+        {
+          "Q": 18.0,
+          "V": 18.6
+        },
+        {
+          "Q": 24.0,
+          "V": 15.9
+        },
+        {
+          "Q": 30.0,
+          "V": 12.5
+        },
+        {
+          "Q": 36.0,
+          "V": 7.4
+        },
+        {
+          "Q": 39.0,
+          "V": 4.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 246",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 246. P2 1.5 кВт (2 HP), P1 3.7 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "e94558ec",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 210",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 1.5,
+    "P1Kw": 3.4,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.0
+        },
+        {
+          "Q": 6.0,
+          "V": 22.2
+        },
+        {
+          "Q": 12.0,
+          "V": 20.7
+        },
+        {
+          "Q": 18.0,
+          "V": 18.6
+        },
+        {
+          "Q": 24.0,
+          "V": 15.9
+        },
+        {
+          "Q": 30.0,
+          "V": 12.5
+        },
+        {
+          "Q": 36.0,
+          "V": 7.4
+        },
+        {
+          "Q": 39.0,
+          "V": 4.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 246",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 246. P2 1.5 кВт (2 HP), P1 3.4 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "d0130282",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 310",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 2.2,
+    "P1Kw": 4.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 26.4
+        },
+        {
+          "Q": 6.0,
+          "V": 25.4
+        },
+        {
+          "Q": 12.0,
+          "V": 24.2
+        },
+        {
+          "Q": 18.0,
+          "V": 22.4
+        },
+        {
+          "Q": 24.0,
+          "V": 19.9
+        },
+        {
+          "Q": 30.0,
+          "V": 16.4
+        },
+        {
+          "Q": 36.0,
+          "V": 12.1
+        },
+        {
+          "Q": 39.0,
+          "V": 9.1
+        },
+        {
+          "Q": 42.0,
+          "V": 5.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 246",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 246. P2 2.2 кВт (3 HP), P1 4 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "ebdda726",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 410",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 3.0,
+    "P1Kw": 5.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 33.8
+        },
+        {
+          "Q": 6.0,
+          "V": 31.6
+        },
+        {
+          "Q": 12.0,
+          "V": 29.2
+        },
+        {
+          "Q": 18.0,
+          "V": 26.8
+        },
+        {
+          "Q": 24.0,
+          "V": 23.9
+        },
+        {
+          "Q": 30.0,
+          "V": 20.5
+        },
+        {
+          "Q": 36.0,
+          "V": 16.5
+        },
+        {
+          "Q": 42.0,
+          "V": 12.0
+        },
+        {
+          "Q": 48.0,
+          "V": 5.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 247",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 247. P2 3 кВт (4 HP), P1 5.5 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "ad241ca7",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 560",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 4.0,
+    "P1Kw": 6.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 38.7
+        },
+        {
+          "Q": 6.0,
+          "V": 36.1
+        },
+        {
+          "Q": 12.0,
+          "V": 33.9
+        },
+        {
+          "Q": 18.0,
+          "V": 31.2
+        },
+        {
+          "Q": 24.0,
+          "V": 28.3
+        },
+        {
+          "Q": 30.0,
+          "V": 24.7
+        },
+        {
+          "Q": 36.0,
+          "V": 20.9
+        },
+        {
+          "Q": 42.0,
+          "V": 16.3
+        },
+        {
+          "Q": 48.0,
+          "V": 10.4
+        },
+        {
+          "Q": 51.0,
+          "V": 6.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 247",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 247. P2 4 кВт (5.5 HP), P1 6.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "72dd90a4",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 750",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 5.5,
+    "P1Kw": 9.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 47.6
+        },
+        {
+          "Q": 12.0,
+          "V": 42.9
+        },
+        {
+          "Q": 18.0,
+          "V": 40.4
+        },
+        {
+          "Q": 24.0,
+          "V": 37.7
+        },
+        {
+          "Q": 30.0,
+          "V": 34.7
+        },
+        {
+          "Q": 36.0,
+          "V": 31.2
+        },
+        {
+          "Q": 42.0,
+          "V": 27.4
+        },
+        {
+          "Q": 48.0,
+          "V": 22.3
+        },
+        {
+          "Q": 54.0,
+          "V": 13.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 248",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 248. P2 5.5 кВт (7.5 HP), P1 9 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "c37e00c6",
+    "Manufacturer": "Pentax",
+    "Series": "DCT",
+    "Model": "DCT 1000",
+    "Country": "Италия",
+    "Application": "канализационный погружной (высоконапорный)",
+    "Impeller": "Open",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 10,
+    "P2Kw": 7.5,
+    "P1Kw": 10.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 55.1
+        },
+        {
+          "Q": 12.0,
+          "V": 49.8
+        },
+        {
+          "Q": 18.0,
+          "V": 47.1
+        },
+        {
+          "Q": 24.0,
+          "V": 44.2
+        },
+        {
+          "Q": 30.0,
+          "V": 41.1
+        },
+        {
+          "Q": 36.0,
+          "V": 37.8
+        },
+        {
+          "Q": 42.0,
+          "V": 34.0
+        },
+        {
+          "Q": 48.0,
+          "V": 29.1
+        },
+        {
+          "Q": 54.0,
+          "V": 19.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 248",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DC.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 248. P2 7.5 кВт (10 HP), P1 10.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "e6f6e1b8",
+    "Manufacturer": "Pentax",
+    "Series": "DM",
+    "Model": "DM 160",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.1,
+    "P1Kw": 2.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 6.0,
+          "V": 15.3
+        },
+        {
+          "Q": 12.0,
+          "V": 13.8
+        },
+        {
+          "Q": 18.0,
+          "V": 12.3
+        },
+        {
+          "Q": 24.0,
+          "V": 11.0
+        },
+        {
+          "Q": 30.0,
+          "V": 9.8
+        },
+        {
+          "Q": 36.0,
+          "V": 8.4
+        },
+        {
+          "Q": 42.0,
+          "V": 7.1
+        },
+        {
+          "Q": 48.0,
+          "V": 5.5
+        },
+        {
+          "Q": 54.0,
+          "V": 3.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 254",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 254. P2 1.1 кВт (1.5 HP), P1 2.8 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "585a17ae",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 160",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.1,
+    "P1Kw": 2.6,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 6.0,
+          "V": 15.3
+        },
+        {
+          "Q": 12.0,
+          "V": 13.8
+        },
+        {
+          "Q": 18.0,
+          "V": 12.3
+        },
+        {
+          "Q": 24.0,
+          "V": 11.0
+        },
+        {
+          "Q": 30.0,
+          "V": 9.8
+        },
+        {
+          "Q": 36.0,
+          "V": 8.4
+        },
+        {
+          "Q": 42.0,
+          "V": 7.1
+        },
+        {
+          "Q": 48.0,
+          "V": 5.5
+        },
+        {
+          "Q": 54.0,
+          "V": 3.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 254",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 254. P2 1.1 кВт (1.5 HP), P1 2.6 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "351f4fdc",
+    "Manufacturer": "Pentax",
+    "Series": "DM",
+    "Model": "DM 210",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.5,
+    "P1Kw": 3.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.9
+        },
+        {
+          "Q": 6.0,
+          "V": 18.4
+        },
+        {
+          "Q": 12.0,
+          "V": 16.7
+        },
+        {
+          "Q": 18.0,
+          "V": 15.2
+        },
+        {
+          "Q": 24.0,
+          "V": 13.8
+        },
+        {
+          "Q": 30.0,
+          "V": 12.4
+        },
+        {
+          "Q": 36.0,
+          "V": 11.3
+        },
+        {
+          "Q": 42.0,
+          "V": 10.1
+        },
+        {
+          "Q": 48.0,
+          "V": 8.6
+        },
+        {
+          "Q": 54.0,
+          "V": 7.0
+        },
+        {
+          "Q": 60.0,
+          "V": 5.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 254",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 254. P2 1.5 кВт (2 HP), P1 3.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "580dd715",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 210",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.5,
+    "P1Kw": 3.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.9
+        },
+        {
+          "Q": 6.0,
+          "V": 18.4
+        },
+        {
+          "Q": 12.0,
+          "V": 16.7
+        },
+        {
+          "Q": 18.0,
+          "V": 15.2
+        },
+        {
+          "Q": 24.0,
+          "V": 13.8
+        },
+        {
+          "Q": 30.0,
+          "V": 12.4
+        },
+        {
+          "Q": 36.0,
+          "V": 11.3
+        },
+        {
+          "Q": 42.0,
+          "V": 10.1
+        },
+        {
+          "Q": 48.0,
+          "V": 8.6
+        },
+        {
+          "Q": 54.0,
+          "V": 7.0
+        },
+        {
+          "Q": 60.0,
+          "V": 5.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 254",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 254. P2 1.5 кВт (2 HP), P1 3.1 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "cb12391e",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 310",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 2.2,
+    "P1Kw": 4.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.9
+        },
+        {
+          "Q": 6.0,
+          "V": 22.2
+        },
+        {
+          "Q": 12.0,
+          "V": 20.6
+        },
+        {
+          "Q": 18.0,
+          "V": 19.1
+        },
+        {
+          "Q": 24.0,
+          "V": 17.8
+        },
+        {
+          "Q": 30.0,
+          "V": 16.3
+        },
+        {
+          "Q": 36.0,
+          "V": 15.0
+        },
+        {
+          "Q": 42.0,
+          "V": 13.8
+        },
+        {
+          "Q": 48.0,
+          "V": 12.3
+        },
+        {
+          "Q": 54.0,
+          "V": 10.9
+        },
+        {
+          "Q": 60.0,
+          "V": 9.1
+        },
+        {
+          "Q": 66.0,
+          "V": 6.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 254",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 254. P2 2.2 кВт (3 HP), P1 4.1 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "58e653af",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 410",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 3.0,
+    "P1Kw": 5.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 26.0
+        },
+        {
+          "Q": 6.0,
+          "V": 24.6
+        },
+        {
+          "Q": 18.0,
+          "V": 21.1
+        },
+        {
+          "Q": 30.0,
+          "V": 18.2
+        },
+        {
+          "Q": 42.0,
+          "V": 15.9
+        },
+        {
+          "Q": 54.0,
+          "V": 13.3
+        },
+        {
+          "Q": 60.0,
+          "V": 11.8
+        },
+        {
+          "Q": 66.0,
+          "V": 10.3
+        },
+        {
+          "Q": 72.0,
+          "V": 8.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 255",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 255. P2 3 кВт (4 HP), P1 5.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "cd483ffa",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 560",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 4.0,
+    "P1Kw": 6.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 29.1
+        },
+        {
+          "Q": 6.0,
+          "V": 27.5
+        },
+        {
+          "Q": 18.0,
+          "V": 24.1
+        },
+        {
+          "Q": 30.0,
+          "V": 21.1
+        },
+        {
+          "Q": 42.0,
+          "V": 18.6
+        },
+        {
+          "Q": 54.0,
+          "V": 16.1
+        },
+        {
+          "Q": 60.0,
+          "V": 14.7
+        },
+        {
+          "Q": 66.0,
+          "V": 13.1
+        },
+        {
+          "Q": 72.0,
+          "V": 11.4
+        },
+        {
+          "Q": 78.0,
+          "V": 8.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 255",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 255. P2 4 кВт (5.5 HP), P1 6 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "11204b8a",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 1000",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 7.5,
+    "P1Kw": 9.6,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 34.9
+        },
+        {
+          "Q": 12.0,
+          "V": 30.9
+        },
+        {
+          "Q": 24.0,
+          "V": 28.3
+        },
+        {
+          "Q": 36.0,
+          "V": 26.1
+        },
+        {
+          "Q": 48.0,
+          "V": 23.7
+        },
+        {
+          "Q": 60.0,
+          "V": 21.3
+        },
+        {
+          "Q": 72.0,
+          "V": 18.7
+        },
+        {
+          "Q": 84.0,
+          "V": 16.1
+        },
+        {
+          "Q": 96.0,
+          "V": 13.2
+        },
+        {
+          "Q": 108.0,
+          "V": 10.2
+        },
+        {
+          "Q": 120.0,
+          "V": 7.4
+        },
+        {
+          "Q": 132.0,
+          "V": 4.6
+        },
+        {
+          "Q": 144.0,
+          "V": 2.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 256",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 256. P2 7.5 кВт (10 HP), P1 9.6 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "22159fc0",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 250-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 60,
+    "P2Kw": 1.8,
+    "P1Kw": 2.4,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.8
+        },
+        {
+          "Q": 12.0,
+          "V": 9.6
+        },
+        {
+          "Q": 24.0,
+          "V": 8.5
+        },
+        {
+          "Q": 36.0,
+          "V": 7.4
+        },
+        {
+          "Q": 48.0,
+          "V": 6.3
+        },
+        {
+          "Q": 60.0,
+          "V": 5.1
+        },
+        {
+          "Q": 72.0,
+          "V": 3.6
+        },
+        {
+          "Q": 84.0,
+          "V": 2.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 259",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 259. P2 1.8 кВт (2.5 HP), P1 2.4 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "f5b19143",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 300-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 60,
+    "P2Kw": 2.2,
+    "P1Kw": 2.9,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.6
+        },
+        {
+          "Q": 12.0,
+          "V": 11.4
+        },
+        {
+          "Q": 24.0,
+          "V": 10.3
+        },
+        {
+          "Q": 36.0,
+          "V": 9.1
+        },
+        {
+          "Q": 48.0,
+          "V": 8.0
+        },
+        {
+          "Q": 60.0,
+          "V": 6.9
+        },
+        {
+          "Q": 72.0,
+          "V": 5.7
+        },
+        {
+          "Q": 84.0,
+          "V": 4.3
+        },
+        {
+          "Q": 90.0,
+          "V": 3.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 259",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 259. P2 2.2 кВт (3 HP), P1 2.9 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "e2e0d859",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 400-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 60,
+    "P2Kw": 3.0,
+    "P1Kw": 3.2,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 14.0
+        },
+        {
+          "Q": 12.0,
+          "V": 12.7
+        },
+        {
+          "Q": 24.0,
+          "V": 11.6
+        },
+        {
+          "Q": 36.0,
+          "V": 10.4
+        },
+        {
+          "Q": 48.0,
+          "V": 9.2
+        },
+        {
+          "Q": 60.0,
+          "V": 8.0
+        },
+        {
+          "Q": 72.0,
+          "V": 6.7
+        },
+        {
+          "Q": 84.0,
+          "V": 5.4
+        },
+        {
+          "Q": 90.0,
+          "V": 4.7
+        },
+        {
+          "Q": 96.0,
+          "V": 4.0
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 259",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 259. P2 3 кВт (4 HP), P1 3.2 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "ca24b568",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 550-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 90,
+    "P2Kw": 4.0,
+    "P1Kw": 5.2,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 14.7
+        },
+        {
+          "Q": 12.0,
+          "V": 14.0
+        },
+        {
+          "Q": 24.0,
+          "V": 13.2
+        },
+        {
+          "Q": 36.0,
+          "V": 12.5
+        },
+        {
+          "Q": 48.0,
+          "V": 11.7
+        },
+        {
+          "Q": 60.0,
+          "V": 10.9
+        },
+        {
+          "Q": 72.0,
+          "V": 10.1
+        },
+        {
+          "Q": 84.0,
+          "V": 9.2
+        },
+        {
+          "Q": 96.0,
+          "V": 8.3
+        },
+        {
+          "Q": 108.0,
+          "V": 7.5
+        },
+        {
+          "Q": 120.0,
+          "V": 6.5
+        },
+        {
+          "Q": 132.0,
+          "V": 5.6
+        },
+        {
+          "Q": 144.0,
+          "V": 4.6
+        },
+        {
+          "Q": 156.0,
+          "V": 3.6
+        },
+        {
+          "Q": 168.0,
+          "V": 2.4
+        },
+        {
+          "Q": 180.0,
+          "V": 1.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 260",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 260. P2 4 кВт (5.5 HP), P1 5.2 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "83f5fce3",
+    "Manufacturer": "Pentax",
+    "Series": "DMT",
+    "Model": "DMT 750-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "SingleChannel",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 90,
+    "P2Kw": 5.5,
+    "P1Kw": 6.1,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 17.0
+        },
+        {
+          "Q": 12.0,
+          "V": 16.2
+        },
+        {
+          "Q": 24.0,
+          "V": 15.4
+        },
+        {
+          "Q": 36.0,
+          "V": 14.7
+        },
+        {
+          "Q": 48.0,
+          "V": 13.8
+        },
+        {
+          "Q": 60.0,
+          "V": 13.0
+        },
+        {
+          "Q": 72.0,
+          "V": 12.2
+        },
+        {
+          "Q": 84.0,
+          "V": 11.4
+        },
+        {
+          "Q": 96.0,
+          "V": 10.4
+        },
+        {
+          "Q": 108.0,
+          "V": 9.4
+        },
+        {
+          "Q": 120.0,
+          "V": 8.4
+        },
+        {
+          "Q": 132.0,
+          "V": 7.3
+        },
+        {
+          "Q": 144.0,
+          "V": 6.2
+        },
+        {
+          "Q": 156.0,
+          "V": 5.1
+        },
+        {
+          "Q": 168.0,
+          "V": 3.8
+        },
+        {
+          "Q": 180.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 260",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DM.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 260. P2 5.5 кВт (7.5 HP), P1 6.1 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "40e708f5",
+    "Manufacturer": "Pentax",
+    "Series": "DTR",
+    "Model": "DTR 150",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 2.6,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.4
+        },
+        {
+          "Q": 3.0,
+          "V": 18.5
+        },
+        {
+          "Q": 6.0,
+          "V": 17.3
+        },
+        {
+          "Q": 9.0,
+          "V": 16.0
+        },
+        {
+          "Q": 12.0,
+          "V": 14.2
+        },
+        {
+          "Q": 13.2,
+          "V": 13.5
+        },
+        {
+          "Q": 15.0,
+          "V": 12.3
+        },
+        {
+          "Q": 18.0,
+          "V": 9.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 265",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 265. P2 1.1 кВт (1.5 HP), P1 2.6 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "0863fbfc",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 150",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 2.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 19.4
+        },
+        {
+          "Q": 3.0,
+          "V": 18.5
+        },
+        {
+          "Q": 6.0,
+          "V": 17.3
+        },
+        {
+          "Q": 9.0,
+          "V": 16.0
+        },
+        {
+          "Q": 12.0,
+          "V": 14.2
+        },
+        {
+          "Q": 13.2,
+          "V": 13.5
+        },
+        {
+          "Q": 15.0,
+          "V": 12.3
+        },
+        {
+          "Q": 18.0,
+          "V": 9.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 265",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 265. P2 1.1 кВт (1.5 HP), P1 2.5 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "684f7495",
+    "Manufacturer": "Pentax",
+    "Series": "DTR",
+    "Model": "DTR 200",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 3.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 22.1
+        },
+        {
+          "Q": 3.0,
+          "V": 21.3
+        },
+        {
+          "Q": 6.0,
+          "V": 20.3
+        },
+        {
+          "Q": 9.0,
+          "V": 19.1
+        },
+        {
+          "Q": 12.0,
+          "V": 17.7
+        },
+        {
+          "Q": 13.2,
+          "V": 17.1
+        },
+        {
+          "Q": 15.0,
+          "V": 16.0
+        },
+        {
+          "Q": 18.0,
+          "V": 13.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 265",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 265. P2 1.1 кВт (2 HP), P1 3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "2efcbb89",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 200",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 2.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 22.1
+        },
+        {
+          "Q": 3.0,
+          "V": 21.3
+        },
+        {
+          "Q": 6.0,
+          "V": 20.3
+        },
+        {
+          "Q": 9.0,
+          "V": 19.1
+        },
+        {
+          "Q": 12.0,
+          "V": 17.7
+        },
+        {
+          "Q": 13.2,
+          "V": 17.1
+        },
+        {
+          "Q": 15.0,
+          "V": 16.0
+        },
+        {
+          "Q": 18.0,
+          "V": 13.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 265",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 265. P2 1.1 кВт (2 HP), P1 2.8 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "6d17b2d9",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 300",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.2,
+    "P1Kw": 3.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 26.1
+        },
+        {
+          "Q": 3.0,
+          "V": 25.2
+        },
+        {
+          "Q": 6.0,
+          "V": 24.3
+        },
+        {
+          "Q": 9.0,
+          "V": 23.3
+        },
+        {
+          "Q": 12.0,
+          "V": 22.0
+        },
+        {
+          "Q": 13.2,
+          "V": 21.4
+        },
+        {
+          "Q": 15.0,
+          "V": 20.3
+        },
+        {
+          "Q": 18.0,
+          "V": 18.2
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 265",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 265. P2 2.2 кВт (3 HP), P1 3.2 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "20e3b72d",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 400",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.0,
+    "P1Kw": 4.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 33.5
+        },
+        {
+          "Q": 3.0,
+          "V": 31.8
+        },
+        {
+          "Q": 6.0,
+          "V": 30.1
+        },
+        {
+          "Q": 9.0,
+          "V": 28.5
+        },
+        {
+          "Q": 12.0,
+          "V": 26.4
+        },
+        {
+          "Q": 15.0,
+          "V": 24.4
+        },
+        {
+          "Q": 18.0,
+          "V": 21.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 266",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 266. P2 3 кВт (4 HP), P1 4.5 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "33dc7145",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 550",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.0,
+    "P1Kw": 5.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 38.6
+        },
+        {
+          "Q": 3.0,
+          "V": 36.9
+        },
+        {
+          "Q": 6.0,
+          "V": 35.3
+        },
+        {
+          "Q": 9.0,
+          "V": 33.9
+        },
+        {
+          "Q": 12.0,
+          "V": 32.1
+        },
+        {
+          "Q": 15.0,
+          "V": 30.1
+        },
+        {
+          "Q": 18.0,
+          "V": 27.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 266",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 266. P2 4 кВт (5.5 HP), P1 5.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "129c019d",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 750",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 5.5,
+    "P1Kw": 8.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 47.8
+        },
+        {
+          "Q": 3.0,
+          "V": 46.2
+        },
+        {
+          "Q": 6.0,
+          "V": 44.5
+        },
+        {
+          "Q": 9.0,
+          "V": 42.7
+        },
+        {
+          "Q": 12.0,
+          "V": 40.8
+        },
+        {
+          "Q": 15.0,
+          "V": 38.9
+        },
+        {
+          "Q": 18.0,
+          "V": 36.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 266",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 266. P2 5.5 кВт (7.5 HP), P1 8 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "eadf2699",
+    "Manufacturer": "Pentax",
+    "Series": "DTRT",
+    "Model": "DTRT 1000",
+    "Country": "Италия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 7.5,
+    "P1Kw": 9.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 54.6
+        },
+        {
+          "Q": 3.0,
+          "V": 52.7
+        },
+        {
+          "Q": 6.0,
+          "V": 51.0
+        },
+        {
+          "Q": 9.0,
+          "V": 49.2
+        },
+        {
+          "Q": 12.0,
+          "V": 47.1
+        },
+        {
+          "Q": 15.0,
+          "V": 45.1
+        },
+        {
+          "Q": 18.0,
+          "V": 42.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 266",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DTR-DTRT.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 266. P2 7.5 кВт (10 HP), P1 9.1 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "2884975f",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 80 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.3
+        },
+        {
+          "Q": 3.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 6.4
+        },
+        {
+          "Q": 9.0,
+          "V": 5.6
+        },
+        {
+          "Q": 12.0,
+          "V": 4.8
+        },
+        {
+          "Q": 15.0,
+          "V": 3.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1050 Вт, ток 4.7 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "076b9cd6",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 80",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.3
+        },
+        {
+          "Q": 3.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 6.4
+        },
+        {
+          "Q": 9.0,
+          "V": 5.6
+        },
+        {
+          "Q": 12.0,
+          "V": 4.8
+        },
+        {
+          "Q": 15.0,
+          "V": 3.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1050 Вт, ток 2.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "7fab7a89",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 80/2 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.3
+        },
+        {
+          "Q": 3.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 6.4
+        },
+        {
+          "Q": 9.0,
+          "V": 5.6
+        },
+        {
+          "Q": 12.0,
+          "V": 4.8
+        },
+        {
+          "Q": 15.0,
+          "V": 3.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1050 Вт, ток 4.7 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "38890c2a",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 80/2",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.3
+        },
+        {
+          "Q": 3.0,
+          "V": 7.4
+        },
+        {
+          "Q": 6.0,
+          "V": 6.4
+        },
+        {
+          "Q": 9.0,
+          "V": 5.6
+        },
+        {
+          "Q": 12.0,
+          "V": 4.8
+        },
+        {
+          "Q": 15.0,
+          "V": 3.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1050 Вт, ток 2.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "a7e9d311",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 100 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.4
+        },
+        {
+          "Q": 3.0,
+          "V": 9.4
+        },
+        {
+          "Q": 6.0,
+          "V": 8.7
+        },
+        {
+          "Q": 9.0,
+          "V": 8.1
+        },
+        {
+          "Q": 12.0,
+          "V": 7.4
+        },
+        {
+          "Q": 15.0,
+          "V": 6.6
+        },
+        {
+          "Q": 18.0,
+          "V": 5.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1350 Вт, ток 6.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "439ebb1b",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 100",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.4
+        },
+        {
+          "Q": 3.0,
+          "V": 9.4
+        },
+        {
+          "Q": 6.0,
+          "V": 8.7
+        },
+        {
+          "Q": 9.0,
+          "V": 8.1
+        },
+        {
+          "Q": 12.0,
+          "V": 7.4
+        },
+        {
+          "Q": 15.0,
+          "V": 6.6
+        },
+        {
+          "Q": 18.0,
+          "V": 5.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1350 Вт, ток 2.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "5c620b6b",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 100/2 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.4
+        },
+        {
+          "Q": 3.0,
+          "V": 9.4
+        },
+        {
+          "Q": 6.0,
+          "V": 8.7
+        },
+        {
+          "Q": 9.0,
+          "V": 8.1
+        },
+        {
+          "Q": 12.0,
+          "V": 7.4
+        },
+        {
+          "Q": 15.0,
+          "V": 6.6
+        },
+        {
+          "Q": 18.0,
+          "V": 5.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1350 Вт, ток 6.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "3cd42977",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 100/2",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 35,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.4
+        },
+        {
+          "Q": 3.0,
+          "V": 9.4
+        },
+        {
+          "Q": 6.0,
+          "V": 8.7
+        },
+        {
+          "Q": 9.0,
+          "V": 8.1
+        },
+        {
+          "Q": 12.0,
+          "V": 7.4
+        },
+        {
+          "Q": 15.0,
+          "V": 6.6
+        },
+        {
+          "Q": 18.0,
+          "V": 5.7
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1350 Вт, ток 2.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "82cc48af",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 82 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 0,
+    "P1Kw": 1.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 6.6
+        },
+        {
+          "Q": 3.0,
+          "V": 6.0
+        },
+        {
+          "Q": 6.0,
+          "V": 5.3
+        },
+        {
+          "Q": 9.0,
+          "V": 4.4
+        },
+        {
+          "Q": 12.0,
+          "V": 3.6
+        },
+        {
+          "Q": 15.0,
+          "V": 2.8
+        },
+        {
+          "Q": 18.0,
+          "V": 2.0
+        },
+        {
+          "Q": 21.0,
+          "V": 1.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1000 Вт, ток 4.5 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "95dab638",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 82",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 0,
+    "P1Kw": 1.0,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 6.6
+        },
+        {
+          "Q": 3.0,
+          "V": 6.0
+        },
+        {
+          "Q": 6.0,
+          "V": 5.3
+        },
+        {
+          "Q": 9.0,
+          "V": 4.4
+        },
+        {
+          "Q": 12.0,
+          "V": 3.6
+        },
+        {
+          "Q": 15.0,
+          "V": 2.8
+        },
+        {
+          "Q": 18.0,
+          "V": 2.0
+        },
+        {
+          "Q": 21.0,
+          "V": 1.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1000 Вт, ток 2.1 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "e9506495",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 102 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 0,
+    "P1Kw": 1.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.5
+        },
+        {
+          "Q": 3.0,
+          "V": 7.1
+        },
+        {
+          "Q": 6.0,
+          "V": 6.4
+        },
+        {
+          "Q": 9.0,
+          "V": 5.7
+        },
+        {
+          "Q": 12.0,
+          "V": 4.9
+        },
+        {
+          "Q": 15.0,
+          "V": 4.0
+        },
+        {
+          "Q": 18.0,
+          "V": 3.2
+        },
+        {
+          "Q": 21.0,
+          "V": 2.1
+        },
+        {
+          "Q": 24.0,
+          "V": 1.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1200 Вт, ток 5.3 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "97847e8f",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 102",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 0,
+    "P1Kw": 1.2,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.5
+        },
+        {
+          "Q": 3.0,
+          "V": 7.1
+        },
+        {
+          "Q": 6.0,
+          "V": 6.4
+        },
+        {
+          "Q": 9.0,
+          "V": 5.7
+        },
+        {
+          "Q": 12.0,
+          "V": 4.9
+        },
+        {
+          "Q": 15.0,
+          "V": 4.0
+        },
+        {
+          "Q": 18.0,
+          "V": 3.2
+        },
+        {
+          "Q": 21.0,
+          "V": 2.1
+        },
+        {
+          "Q": 24.0,
+          "V": 1.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 270",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 270. P1 1200 Вт, ток 2.4 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "fadb2475",
+    "Manufacturer": "Pentax",
+    "Series": "DG",
+    "Model": "DG 150 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 0,
+    "P1Kw": 1.55,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.4
+        },
+        {
+          "Q": 12.0,
+          "V": 9.6
+        },
+        {
+          "Q": 18.0,
+          "V": 8.3
+        },
+        {
+          "Q": 24.0,
+          "V": 6.8
+        },
+        {
+          "Q": 30.0,
+          "V": 4.6
+        },
+        {
+          "Q": 36.0,
+          "V": 2.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 271",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 271. P1 1550 Вт, ток 7.1 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "1e5d4734",
+    "Manufacturer": "Pentax",
+    "Series": "DGT",
+    "Model": "DGT 150",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 0,
+    "P1Kw": 1.55,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 11.0
+        },
+        {
+          "Q": 6.0,
+          "V": 10.4
+        },
+        {
+          "Q": 12.0,
+          "V": 9.6
+        },
+        {
+          "Q": 18.0,
+          "V": 8.3
+        },
+        {
+          "Q": 24.0,
+          "V": 6.8
+        },
+        {
+          "Q": 30.0,
+          "V": 4.6
+        },
+        {
+          "Q": 36.0,
+          "V": 2.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 271",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DG.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 271. P1 1550 Вт, ток 2.9 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "a8ae7e03",
+    "Manufacturer": "Pentax",
+    "Series": "DX",
+    "Model": "DX 80 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.4
+        },
+        {
+          "Q": 3.0,
+          "V": 6.3
+        },
+        {
+          "Q": 6.0,
+          "V": 5.4
+        },
+        {
+          "Q": 9.0,
+          "V": 4.5
+        },
+        {
+          "Q": 12.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1050 Вт, ток 4.7 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "a43f71fc",
+    "Manufacturer": "Pentax",
+    "Series": "DXT",
+    "Model": "DXT 80",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.4
+        },
+        {
+          "Q": 3.0,
+          "V": 6.3
+        },
+        {
+          "Q": 6.0,
+          "V": 5.4
+        },
+        {
+          "Q": 9.0,
+          "V": 4.5
+        },
+        {
+          "Q": 12.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1050 Вт, ток 2.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "879562ae",
+    "Manufacturer": "Pentax",
+    "Series": "DX",
+    "Model": "DX 80/2 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.4
+        },
+        {
+          "Q": 3.0,
+          "V": 6.3
+        },
+        {
+          "Q": 6.0,
+          "V": 5.4
+        },
+        {
+          "Q": 9.0,
+          "V": 4.5
+        },
+        {
+          "Q": 12.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1050 Вт, ток 4.7 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "6a5c729b",
+    "Manufacturer": "Pentax",
+    "Series": "DXT",
+    "Model": "DXT 80/2",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.05,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 7.4
+        },
+        {
+          "Q": 3.0,
+          "V": 6.3
+        },
+        {
+          "Q": 6.0,
+          "V": 5.4
+        },
+        {
+          "Q": 9.0,
+          "V": 4.5
+        },
+        {
+          "Q": 12.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1050 Вт, ток 2.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "8748dd0d",
+    "Manufacturer": "Pentax",
+    "Series": "DX",
+    "Model": "DX 100 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.8
+        },
+        {
+          "Q": 3.0,
+          "V": 9.0
+        },
+        {
+          "Q": 6.0,
+          "V": 8.3
+        },
+        {
+          "Q": 9.0,
+          "V": 7.3
+        },
+        {
+          "Q": 12.0,
+          "V": 6.3
+        },
+        {
+          "Q": 15.0,
+          "V": 5.1
+        },
+        {
+          "Q": 18.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1350 Вт, ток 6.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "4d41d815",
+    "Manufacturer": "Pentax",
+    "Series": "DXT",
+    "Model": "DXT 100",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.8
+        },
+        {
+          "Q": 3.0,
+          "V": 9.0
+        },
+        {
+          "Q": 6.0,
+          "V": 8.3
+        },
+        {
+          "Q": 9.0,
+          "V": 7.3
+        },
+        {
+          "Q": 12.0,
+          "V": 6.3
+        },
+        {
+          "Q": 15.0,
+          "V": 5.1
+        },
+        {
+          "Q": 18.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1350 Вт, ток 2.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "29cd0ed7",
+    "Manufacturer": "Pentax",
+    "Series": "DX",
+    "Model": "DX 100/2 (G)",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.8
+        },
+        {
+          "Q": 3.0,
+          "V": 9.0
+        },
+        {
+          "Q": 6.0,
+          "V": 8.3
+        },
+        {
+          "Q": 9.0,
+          "V": 7.3
+        },
+        {
+          "Q": 12.0,
+          "V": 6.3
+        },
+        {
+          "Q": 15.0,
+          "V": 5.1
+        },
+        {
+          "Q": 18.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1350 Вт, ток 6.2 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана). «(G)» — исполнение с поплавковым выключателем."
+  },
+  {
+    "Id": "332f69db",
+    "Manufacturer": "Pentax",
+    "Series": "DXT",
+    "Model": "DXT 100/2",
+    "Country": "Италия",
+    "Application": "дренажный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 28,
+    "P2Kw": 0,
+    "P1Kw": 1.35,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 9.8
+        },
+        {
+          "Q": 3.0,
+          "V": 9.0
+        },
+        {
+          "Q": 6.0,
+          "V": 8.3
+        },
+        {
+          "Q": 9.0,
+          "V": 7.3
+        },
+        {
+          "Q": 12.0,
+          "V": 6.3
+        },
+        {
+          "Q": 15.0,
+          "V": 5.1
+        },
+        {
+          "Q": 18.0,
+          "V": 3.5
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 273",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DX.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 273. P1 1350 Вт, ток 2.8 А (P2 в каталоге не указана). Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "8cc1852b",
+    "Manufacturer": "Pentax",
+    "Series": "DV",
+    "Model": "DV 160",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.1,
+    "P1Kw": 2.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.2
+        },
+        {
+          "Q": 12.0,
+          "V": 10.9
+        },
+        {
+          "Q": 24.0,
+          "V": 8.4
+        },
+        {
+          "Q": 36.0,
+          "V": 5.6
+        },
+        {
+          "Q": 42.0,
+          "V": 4.1
+        },
+        {
+          "Q": 48.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 275",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 275. P2 1.1 кВт (1.5 HP), P1 2.5 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "94f78a85",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 160",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.1,
+    "P1Kw": 2.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.2
+        },
+        {
+          "Q": 12.0,
+          "V": 10.9
+        },
+        {
+          "Q": 24.0,
+          "V": 8.4
+        },
+        {
+          "Q": 36.0,
+          "V": 5.6
+        },
+        {
+          "Q": 42.0,
+          "V": 4.1
+        },
+        {
+          "Q": 48.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 275",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 275. P2 1.1 кВт (1.5 HP), P1 2.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "6eb3eff4",
+    "Manufacturer": "Pentax",
+    "Series": "DV",
+    "Model": "DV 210",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.5,
+    "P1Kw": 2.8,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.7
+        },
+        {
+          "Q": 12.0,
+          "V": 12.6
+        },
+        {
+          "Q": 24.0,
+          "V": 9.9
+        },
+        {
+          "Q": 36.0,
+          "V": 7.0
+        },
+        {
+          "Q": 42.0,
+          "V": 5.4
+        },
+        {
+          "Q": 48.0,
+          "V": 3.8
+        },
+        {
+          "Q": 51.0,
+          "V": 3.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 275",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 275. P2 1.5 кВт (2 HP), P1 2.8 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "5f577749",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 210",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.5,
+    "P1Kw": 2.7,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 13.7
+        },
+        {
+          "Q": 12.0,
+          "V": 12.6
+        },
+        {
+          "Q": 24.0,
+          "V": 9.9
+        },
+        {
+          "Q": 36.0,
+          "V": 7.0
+        },
+        {
+          "Q": 42.0,
+          "V": 5.4
+        },
+        {
+          "Q": 48.0,
+          "V": 3.8
+        },
+        {
+          "Q": 51.0,
+          "V": 3.1
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 275",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 275. P2 1.5 кВт (2 HP), P1 2.7 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "ebf5fb5a",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 310",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 2.2,
+    "P1Kw": 3.3,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 15.5
+        },
+        {
+          "Q": 12.0,
+          "V": 14.4
+        },
+        {
+          "Q": 24.0,
+          "V": 11.6
+        },
+        {
+          "Q": 36.0,
+          "V": 8.8
+        },
+        {
+          "Q": 42.0,
+          "V": 7.1
+        },
+        {
+          "Q": 48.0,
+          "V": 5.4
+        },
+        {
+          "Q": 51.0,
+          "V": 4.5
+        },
+        {
+          "Q": 54.0,
+          "V": 3.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 275",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 275. P2 2.2 кВт (3 HP), P1 3.3 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "852cdca7",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 400",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 45,
+    "P2Kw": 3.0,
+    "P1Kw": 4.9,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 21.0
+        },
+        {
+          "Q": 12.0,
+          "V": 19.4
+        },
+        {
+          "Q": 24.0,
+          "V": 16.6
+        },
+        {
+          "Q": 36.0,
+          "V": 13.5
+        },
+        {
+          "Q": 42.0,
+          "V": 12.0
+        },
+        {
+          "Q": 48.0,
+          "V": 10.4
+        },
+        {
+          "Q": 51.0,
+          "V": 9.6
+        },
+        {
+          "Q": 54.0,
+          "V": 8.8
+        },
+        {
+          "Q": 60.0,
+          "V": 7.2
+        },
+        {
+          "Q": 72.0,
+          "V": 4.3
+        },
+        {
+          "Q": 78.0,
+          "V": 2.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 276",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 276. P2 3 кВт (4 HP), P1 4.9 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "6556ab90",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 550",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 45,
+    "P2Kw": 4.0,
+    "P1Kw": 6.1,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 23.9
+        },
+        {
+          "Q": 12.0,
+          "V": 22.2
+        },
+        {
+          "Q": 24.0,
+          "V": 19.3
+        },
+        {
+          "Q": 36.0,
+          "V": 16.3
+        },
+        {
+          "Q": 42.0,
+          "V": 14.8
+        },
+        {
+          "Q": 48.0,
+          "V": 13.2
+        },
+        {
+          "Q": 51.0,
+          "V": 12.4
+        },
+        {
+          "Q": 54.0,
+          "V": 11.6
+        },
+        {
+          "Q": 60.0,
+          "V": 10.0
+        },
+        {
+          "Q": 72.0,
+          "V": 7.1
+        },
+        {
+          "Q": 78.0,
+          "V": 5.6
+        },
+        {
+          "Q": 84.0,
+          "V": 4.1
+        },
+        {
+          "Q": 90.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 276",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 276. P2 4 кВт (5.5 HP), P1 6.1 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "0bbed71a",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 750",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 5.5,
+    "P1Kw": 8.5,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 24.2
+        },
+        {
+          "Q": 12.0,
+          "V": 22.7
+        },
+        {
+          "Q": 24.0,
+          "V": 20.7
+        },
+        {
+          "Q": 36.0,
+          "V": 18.7
+        },
+        {
+          "Q": 42.0,
+          "V": 17.6
+        },
+        {
+          "Q": 48.0,
+          "V": 16.4
+        },
+        {
+          "Q": 51.0,
+          "V": 15.8
+        },
+        {
+          "Q": 54.0,
+          "V": 15.2
+        },
+        {
+          "Q": 60.0,
+          "V": 13.9
+        },
+        {
+          "Q": 72.0,
+          "V": 11.1
+        },
+        {
+          "Q": 78.0,
+          "V": 9.7
+        },
+        {
+          "Q": 84.0,
+          "V": 8.2
+        },
+        {
+          "Q": 90.0,
+          "V": 6.8
+        },
+        {
+          "Q": 96.0,
+          "V": 5.4
+        },
+        {
+          "Q": 108.0,
+          "V": 2.8
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 276",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 276. P2 5.5 кВт (7.5 HP), P1 8.5 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "fc360f08",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 1000",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 7.5,
+    "P1Kw": 9.6,
+    "Rpm": 2900,
+    "Poles": 2,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 26.7
+        },
+        {
+          "Q": 12.0,
+          "V": 25.2
+        },
+        {
+          "Q": 24.0,
+          "V": 23.2
+        },
+        {
+          "Q": 36.0,
+          "V": 21.2
+        },
+        {
+          "Q": 42.0,
+          "V": 20.0
+        },
+        {
+          "Q": 48.0,
+          "V": 18.8
+        },
+        {
+          "Q": 51.0,
+          "V": 18.2
+        },
+        {
+          "Q": 54.0,
+          "V": 17.6
+        },
+        {
+          "Q": 60.0,
+          "V": 16.3
+        },
+        {
+          "Q": 72.0,
+          "V": 13.7
+        },
+        {
+          "Q": 78.0,
+          "V": 12.3
+        },
+        {
+          "Q": 84.0,
+          "V": 10.8
+        },
+        {
+          "Q": 90.0,
+          "V": 9.4
+        },
+        {
+          "Q": 96.0,
+          "V": 8.0
+        },
+        {
+          "Q": 108.0,
+          "V": 5.1
+        },
+        {
+          "Q": 114.0,
+          "V": 3.8
+        },
+        {
+          "Q": 120.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 276",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 276. P2 7.5 кВт (10 HP), P1 9.6 кВт. Двигатель 2-полюсный 50 Гц; частота вращения 2900 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "382ff114",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 250-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 1.8,
+    "P1Kw": 3.3,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 8.7
+        },
+        {
+          "Q": 12.0,
+          "V": 8.3
+        },
+        {
+          "Q": 24.0,
+          "V": 7.8
+        },
+        {
+          "Q": 36.0,
+          "V": 7.1
+        },
+        {
+          "Q": 48.0,
+          "V": 6.4
+        },
+        {
+          "Q": 60.0,
+          "V": 5.5
+        },
+        {
+          "Q": 72.0,
+          "V": 4.6
+        },
+        {
+          "Q": 84.0,
+          "V": 3.5
+        },
+        {
+          "Q": 96.0,
+          "V": 2.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 279",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 279. P2 1.8 кВт (2.5 HP), P1 3.3 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "bc2c7146",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 300-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 2.2,
+    "P1Kw": 4.1,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 10.1
+        },
+        {
+          "Q": 12.0,
+          "V": 9.6
+        },
+        {
+          "Q": 24.0,
+          "V": 9.0
+        },
+        {
+          "Q": 36.0,
+          "V": 8.4
+        },
+        {
+          "Q": 48.0,
+          "V": 7.7
+        },
+        {
+          "Q": 60.0,
+          "V": 6.8
+        },
+        {
+          "Q": 72.0,
+          "V": 5.8
+        },
+        {
+          "Q": 84.0,
+          "V": 4.8
+        },
+        {
+          "Q": 96.0,
+          "V": 3.6
+        },
+        {
+          "Q": 108.0,
+          "V": 2.4
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 279",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 279. P2 2.2 кВт (3 HP), P1 4.1 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "062f9fbf",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 400-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 3.0,
+    "P1Kw": 4.9,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 11.8
+        },
+        {
+          "Q": 12.0,
+          "V": 11.3
+        },
+        {
+          "Q": 24.0,
+          "V": 10.7
+        },
+        {
+          "Q": 36.0,
+          "V": 10.0
+        },
+        {
+          "Q": 48.0,
+          "V": 9.2
+        },
+        {
+          "Q": 60.0,
+          "V": 8.3
+        },
+        {
+          "Q": 72.0,
+          "V": 7.3
+        },
+        {
+          "Q": 84.0,
+          "V": 6.2
+        },
+        {
+          "Q": 96.0,
+          "V": 5.0
+        },
+        {
+          "Q": 108.0,
+          "V": 3.7
+        },
+        {
+          "Q": 120.0,
+          "V": 2.3
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 279",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 279. P2 3 кВт (4 HP), P1 4.9 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "2fb0431e",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 550-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 4.0,
+    "P1Kw": 7.5,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 12.6
+        },
+        {
+          "Q": 24.0,
+          "V": 12.2
+        },
+        {
+          "Q": 48.0,
+          "V": 11.4
+        },
+        {
+          "Q": 72.0,
+          "V": 10.3
+        },
+        {
+          "Q": 96.0,
+          "V": 9.1
+        },
+        {
+          "Q": 120.0,
+          "V": 7.6
+        },
+        {
+          "Q": 144.0,
+          "V": 5.7
+        },
+        {
+          "Q": 168.0,
+          "V": 3.7
+        },
+        {
+          "Q": 180.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 280",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 280. P2 4 кВт (5.5 HP), P1 7.5 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  },
+  {
+    "Id": "390ed2e7",
+    "Manufacturer": "Pentax",
+    "Series": "DVT",
+    "Model": "DVT 750-4",
+    "Country": "Италия",
+    "Application": "канализационный погружной",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 50,
+    "P2Kw": 5.5,
+    "P1Kw": 9.0,
+    "Rpm": 1450,
+    "Poles": 4,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.0,
+          "V": 14.7
+        },
+        {
+          "Q": 24.0,
+          "V": 14.2
+        },
+        {
+          "Q": 48.0,
+          "V": 13.3
+        },
+        {
+          "Q": 72.0,
+          "V": 12.4
+        },
+        {
+          "Q": 96.0,
+          "V": 11.2
+        },
+        {
+          "Q": 120.0,
+          "V": 9.6
+        },
+        {
+          "Q": 144.0,
+          "V": 7.9
+        },
+        {
+          "Q": 168.0,
+          "V": 5.9
+        },
+        {
+          "Q": 180.0,
+          "V": 4.8
+        },
+        {
+          "Q": 192.0,
+          "V": 3.7
+        },
+        {
+          "Q": 204.0,
+          "V": 2.6
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "Pentax S.p.A., General Catalogue 50Hz (изд. 2023/24), стр. 280",
+      "Url": "https://pentaxmientrung.net/wp-content/uploads/2024/06/DV.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Точки таблицы каталога (Q, м³/ч — H, м), стр. 280. P2 5.5 кВт (7.5 HP), P1 9 кВт. Двигатель 4-полюсный 50 Гц; частота вращения 1450 об/мин принята по числу полюсов (в каталоге не указана)."
+  }
+]

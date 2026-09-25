@@ -3851,3 +3851,30 @@ Herborner;UNIPUMP QSH;4/QSH 101-2-170;Open;100;0;3.0;1500;3~400 В 50 Гц;127.7
 Herborner;UNIPUMP QSH;5,5/QSH 101-2-170;Open;100;0;4.0;1500;3~400 В 50 Гц;127.746;;16;16;16;0;CatalogTable;Herborner, проспект UNIPUMP (EN, ред. 12, 09.2026), стр. 19
 Herborner;UNIPUMP QSH;4/QSH 101-2-160;Open;100;0;3.0;1500;3~400 В 50 Гц;119.789;;16;16;16;16;CatalogTable;Herborner, проспект UNIPUMP (EN, ред. 12, 09.2026), стр. 19
 Herborner;UNIPUMP QSH;5,5/QSH 101-2-160;Open;100;0;4.0;1500;3~400 В 50 Гц;119.789;;16;16;16;16;CatalogTable;Herborner, проспект UNIPUMP (EN, ред. 12, 09.2026), стр. 19
+KESSEL;STZ;STZ 7500;Grinder;0;0;6.4;0;3~400 В 50 Гц;30.768;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;STZ;STZ 11000;Grinder;0;0;9.5;0;3~400 В 50 Гц;30.143;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;STZ;STZ 4400;Grinder;0;0;3.7;0;3~400 В 50 Гц;21.168;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;STZ;STZ 5200;Grinder;0;0;4.4;0;3~400 В 50 Гц;21.018;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;STZ;STZ 1300;Grinder;0;0;0.9;0;3~400 В 50 Гц;18.663;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;STZ;STZ 2500;Grinder;0;0;1.9;0;3~400 В 50 Гц;21.072;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;STZ;STZ 3700;Grinder;0;0;3.1;0;3~400 В 50 Гц;28.085;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;KTP;KTP 300;Unknown;0;0;0.21;2800;1~230 В 50 Гц;6.492;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94
+KESSEL;SPF;SPF 4500;Vortex;0;0;3.7;0;3~400 В 50 Гц;45.058;;10;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;SPF;SPF 3000;Vortex;0;0;2.7;0;3~400 В 50 Гц;36.457;;8;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;SPF;SPF 1500;Vortex;0;0;1.1;0;3~400 В 50 Гц;36.9;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;SPF;SPF 1400;Vortex;0;0;1.1;0;1~230 В 50 Гц;34.542;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 5200;Vortex;0;0;4.4;0;3~400 В 50 Гц;52.961;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 4000;Vortex;0;0;3.4;0;3~400 В 50 Гц;51.636;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 2600;Vortex;0;0;2.1;0;3~400 В 50 Гц;45.402;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 1400;Vortex;0;0;1.1;0;1~230 В 50 Гц;31.876;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 1600;Vortex;0;0;1.2;0;3~400 В 50 Гц;48.015;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTK;GTK 1300;Unknown;0;0;1.0;0;3~400 В 50 Гц;57.143;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTK;GTK 2600;Unknown;0;0;2.1;0;3~400 В 50 Гц;69.894;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTK;GTK 5200;Unknown;0;0;4.4;0;3~400 В 50 Гц;57.636;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTK;GTK 3700;Unknown;0;0;3.1;0;3~400 В 50 Гц;81.846;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 1250;Vortex;0;0;0.8;2700;1~230 В 50 Гц;20.768;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 1200;Vortex;0;0;0.84;2650;1~230 В 50 Гц;15.048;;9;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 1000;Vortex;0;0;0.73;2800;1~230 В 50 Гц;13.065;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 600;Vortex;0;0;0.4;2750;1~230 В 50 Гц;13.038;8.064;8;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;GTF;GTF 500;Vortex;0;0;0.36;2800;1~230 В 50 Гц;9.269;;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95
+KESSEL;SPZ;SPZ 1000;Grinder;0;0;0.69;2800;1~230 В 50 Гц;12.075;10.205;16;0;0;0;CatalogTable;KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 66

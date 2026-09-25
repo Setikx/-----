@@ -1,6 +1,6 @@
 import json,glob,os,csv,collections,numpy as np
 from common import despike
-BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa','liancheng','sempa','standart','shinmaywa','hydroo','shimge','aquario','speroni','jung','pentax','herborner']
+BR=['caprari','dreno','masdaf','tsunami','purity','aikon','aquastrong','vandjord','fancy','kq','homa','liancheng','sempa','standart','shinmaywa','hydroo','shimge','aquario','speroni','jung','pentax','herborner','kessel']
 allr=[];log=collections.defaultdict(list);ids=set()
 for b in BR:
     R=json.load(open(f'out/{b}.json')); keep=[]
@@ -43,6 +43,7 @@ log['speroni']+=[tuple(x) for x in json.load(open('out/speroni_excluded.json'))]
 log['jung']+=[tuple(x) for x in json.load(open('out/jung_excluded.json'))]
 log['pentax']+=[tuple(x) for x in json.load(open('out/pentax_excluded.json'))]
 log['herborner']+=[tuple(x) for x in json.load(open('out/herborner_excluded.json'))]
+log['kessel']+=[tuple(x) for x in json.load(open('out/kessel_excluded.json'))]
 log['tsunami']+=[tuple(x) for x in json.load(open('out/tsunami_excluded.json'))]
 json.dump({k:v for k,v in log.items()},open('final/excluded.json','w'),ensure_ascii=False,indent=1)
 print('TOTAL',len(allr))

@@ -1,0 +1,2721 @@
+[
+  {
+    "Id": "7617df34",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 7500",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 6.4,
+    "P1Kw": 7.5,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.156,
+          "V": 41.733
+        },
+        {
+          "Q": 1.599,
+          "V": 40.363
+        },
+        {
+          "Q": 3.17,
+          "V": 38.992
+        },
+        {
+          "Q": 4.94,
+          "V": 37.669
+        },
+        {
+          "Q": 5.921,
+          "V": 37.04
+        },
+        {
+          "Q": 8.134,
+          "V": 35.84
+        },
+        {
+          "Q": 11.419,
+          "V": 34.172
+        },
+        {
+          "Q": 15.259,
+          "V": 32.219
+        },
+        {
+          "Q": 18.759,
+          "V": 30.384
+        },
+        {
+          "Q": 21.256,
+          "V": 28.989
+        },
+        {
+          "Q": 23.398,
+          "V": 27.808
+        },
+        {
+          "Q": 25.25,
+          "V": 26.641
+        },
+        {
+          "Q": 26.039,
+          "V": 26.011
+        },
+        {
+          "Q": 27.699,
+          "V": 23.806
+        },
+        {
+          "Q": 29.2,
+          "V": 17.535
+        },
+        {
+          "Q": 30.768,
+          "V": 4.144
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 7.5 кВт / P2 6.4 кВт, 13 А (стр. 146). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "f98ce736",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 11000",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 9.5,
+    "P1Kw": 11,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.156,
+          "V": 67.478
+        },
+        {
+          "Q": 2.109,
+          "V": 66.044
+        },
+        {
+          "Q": 5.956,
+          "V": 63.204
+        },
+        {
+          "Q": 7.847,
+          "V": 61.827
+        },
+        {
+          "Q": 9.717,
+          "V": 60.496
+        },
+        {
+          "Q": 13.386,
+          "V": 58.027
+        },
+        {
+          "Q": 15.184,
+          "V": 56.916
+        },
+        {
+          "Q": 16.821,
+          "V": 55.852
+        },
+        {
+          "Q": 20.318,
+          "V": 53.136
+        },
+        {
+          "Q": 22.027,
+          "V": 51.624
+        },
+        {
+          "Q": 23.609,
+          "V": 50.105
+        },
+        {
+          "Q": 26.089,
+          "V": 47.325
+        },
+        {
+          "Q": 26.835,
+          "V": 46.206
+        },
+        {
+          "Q": 27.785,
+          "V": 44.103
+        },
+        {
+          "Q": 29.235,
+          "V": 31.308
+        },
+        {
+          "Q": 30.143,
+          "V": 15.752
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 11 кВт / P2 9.5 кВт, 18.8 А (стр. 146). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "1ea2dcce",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 4400",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.7,
+    "P1Kw": 4.4,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.178,
+          "V": 51.519
+        },
+        {
+          "Q": 1.608,
+          "V": 50.076
+        },
+        {
+          "Q": 3.084,
+          "V": 48.608
+        },
+        {
+          "Q": 5.999,
+          "V": 45.737
+        },
+        {
+          "Q": 7.353,
+          "V": 44.407
+        },
+        {
+          "Q": 8.582,
+          "V": 43.195
+        },
+        {
+          "Q": 9.642,
+          "V": 42.138
+        },
+        {
+          "Q": 10.49,
+          "V": 41.271
+        },
+        {
+          "Q": 13.085,
+          "V": 38.347
+        },
+        {
+          "Q": 14.607,
+          "V": 36.515
+        },
+        {
+          "Q": 16.128,
+          "V": 34.616
+        },
+        {
+          "Q": 17.537,
+          "V": 32.786
+        },
+        {
+          "Q": 18.72,
+          "V": 31.16
+        },
+        {
+          "Q": 20.234,
+          "V": 27.402
+        },
+        {
+          "Q": 20.694,
+          "V": 21.66
+        },
+        {
+          "Q": 21.168,
+          "V": 9.405
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 4.4 кВт / P2 3.7 кВт, 7.5 А (стр. 146). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "663a25fb",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 5200",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.4,
+    "P1Kw": 5.2,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.178,
+          "V": 46.268
+        },
+        {
+          "Q": 1.599,
+          "V": 44.886
+        },
+        {
+          "Q": 3.138,
+          "V": 43.459
+        },
+        {
+          "Q": 6.309,
+          "V": 40.642
+        },
+        {
+          "Q": 7.813,
+          "V": 39.337
+        },
+        {
+          "Q": 9.175,
+          "V": 38.158
+        },
+        {
+          "Q": 10.331,
+          "V": 37.147
+        },
+        {
+          "Q": 11.216,
+          "V": 36.347
+        },
+        {
+          "Q": 13.63,
+          "V": 34.127
+        },
+        {
+          "Q": 14.975,
+          "V": 32.864
+        },
+        {
+          "Q": 16.308,
+          "V": 31.553
+        },
+        {
+          "Q": 17.549,
+          "V": 30.232
+        },
+        {
+          "Q": 18.62,
+          "V": 28.942
+        },
+        {
+          "Q": 19.932,
+          "V": 26.613
+        },
+        {
+          "Q": 20.462,
+          "V": 22.216
+        },
+        {
+          "Q": 21.018,
+          "V": 10.733
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 5.2 кВт / P2 4.4 кВт, 8.7 А (стр. 146). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "5f65b11a",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 1300",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.9,
+    "P1Kw": 1.3,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.161,
+          "V": 20.592
+        },
+        {
+          "Q": 1.414,
+          "V": 18.443
+        },
+        {
+          "Q": 2.108,
+          "V": 17.457
+        },
+        {
+          "Q": 3.539,
+          "V": 15.692
+        },
+        {
+          "Q": 4.239,
+          "V": 14.924
+        },
+        {
+          "Q": 5.517,
+          "V": 13.647
+        },
+        {
+          "Q": 6.622,
+          "V": 12.682
+        },
+        {
+          "Q": 7.176,
+          "V": 12.246
+        },
+        {
+          "Q": 8.366,
+          "V": 11.371
+        },
+        {
+          "Q": 9.031,
+          "V": 10.893
+        },
+        {
+          "Q": 10.583,
+          "V": 9.758
+        },
+        {
+          "Q": 12.428,
+          "V": 8.363
+        },
+        {
+          "Q": 13.422,
+          "V": 7.552
+        },
+        {
+          "Q": 15.497,
+          "V": 5.585
+        },
+        {
+          "Q": 16.556,
+          "V": 4.38
+        },
+        {
+          "Q": 18.663,
+          "V": 1.406
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 1.3 кВт / P2 0.9 кВт, 2.5 А (стр. 143). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "1f1b1c50",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 2500",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.9,
+    "P1Kw": 2.5,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.156,
+          "V": 32.489
+        },
+        {
+          "Q": 1.384,
+          "V": 30.64
+        },
+        {
+          "Q": 2.576,
+          "V": 28.961
+        },
+        {
+          "Q": 3.751,
+          "V": 27.441
+        },
+        {
+          "Q": 4.931,
+          "V": 26.069
+        },
+        {
+          "Q": 6.137,
+          "V": 24.834
+        },
+        {
+          "Q": 7.39,
+          "V": 23.723
+        },
+        {
+          "Q": 8.71,
+          "V": 22.724
+        },
+        {
+          "Q": 11.783,
+          "V": 20.811
+        },
+        {
+          "Q": 13.329,
+          "V": 19.677
+        },
+        {
+          "Q": 14.774,
+          "V": 18.272
+        },
+        {
+          "Q": 16.135,
+          "V": 16.444
+        },
+        {
+          "Q": 17.429,
+          "V": 14.041
+        },
+        {
+          "Q": 18.671,
+          "V": 10.911
+        },
+        {
+          "Q": 19.88,
+          "V": 6.901
+        },
+        {
+          "Q": 21.072,
+          "V": 1.86
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 2.5 кВт / P2 1.9 кВт, 4.4 А (стр. 143). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "8c6cc864",
+    "Manufacturer": "KESSEL",
+    "Series": "STZ",
+    "Model": "STZ 3700",
+    "Country": "Германия",
+    "Application": "канализационный погружной с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.1,
+    "P1Kw": 3.7,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.161,
+          "V": 34.695
+        },
+        {
+          "Q": 1.67,
+          "V": 33.528
+        },
+        {
+          "Q": 3.32,
+          "V": 32.351
+        },
+        {
+          "Q": 5.061,
+          "V": 31.175
+        },
+        {
+          "Q": 6.845,
+          "V": 30.014
+        },
+        {
+          "Q": 8.624,
+          "V": 28.879
+        },
+        {
+          "Q": 10.35,
+          "V": 27.783
+        },
+        {
+          "Q": 11.973,
+          "V": 26.737
+        },
+        {
+          "Q": 15.197,
+          "V": 24.483
+        },
+        {
+          "Q": 17.022,
+          "V": 23.007
+        },
+        {
+          "Q": 18.894,
+          "V": 21.316
+        },
+        {
+          "Q": 20.788,
+          "V": 19.401
+        },
+        {
+          "Q": 22.68,
+          "V": 17.253
+        },
+        {
+          "Q": 24.543,
+          "V": 14.862
+        },
+        {
+          "Q": 26.353,
+          "V": 12.22
+        },
+        {
+          "Q": 28.085,
+          "V": 9.317
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. Погружной насос для чёрных стоков с измельчителем. P1 3.7 кВт / P2 3.1 кВт, 6.4 А (стр. 143). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "16a26eb2",
+    "Manufacturer": "KESSEL",
+    "Series": "KTP",
+    "Model": "KTP 300",
+    "Country": "Германия",
+    "Application": "дренажный погружной (чистая/слабозагрязнённая вода)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.21,
+    "P1Kw": 0.34,
+    "Rpm": 2800,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.504,
+          "V": 5.335
+        },
+        {
+          "Q": 1.009,
+          "V": 4.991
+        },
+        {
+          "Q": 1.257,
+          "V": 4.814
+        },
+        {
+          "Q": 1.753,
+          "V": 4.48
+        },
+        {
+          "Q": 2.001,
+          "V": 4.323
+        },
+        {
+          "Q": 2.498,
+          "V": 3.988
+        },
+        {
+          "Q": 2.746,
+          "V": 3.831
+        },
+        {
+          "Q": 3.002,
+          "V": 3.674
+        },
+        {
+          "Q": 3.994,
+          "V": 3.045
+        },
+        {
+          "Q": 4.242,
+          "V": 2.897
+        },
+        {
+          "Q": 4.499,
+          "V": 2.75
+        },
+        {
+          "Q": 4.747,
+          "V": 2.593
+        },
+        {
+          "Q": 4.995,
+          "V": 2.445
+        },
+        {
+          "Q": 5.491,
+          "V": 2.16
+        },
+        {
+          "Q": 5.987,
+          "V": 1.875
+        },
+        {
+          "Q": 6.492,
+          "V": 1.59
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 94",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_094.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 94. KESSEL Tauchpumpe. P1 0.34 кВт / P2 0.21 кВт, 1.6 А (стр. 159). Частота вращения 2800 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "7681618f",
+    "Manufacturer": "KESSEL",
+    "Series": "SPF",
+    "Model": "SPF 4500",
+    "Country": "Германия",
+    "Application": "канализационный погружной (чёрные стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.7,
+    "P1Kw": 4.5,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.403,
+          "V": 21.489
+        },
+        {
+          "Q": 6.664,
+          "V": 19.87
+        },
+        {
+          "Q": 10.878,
+          "V": 18.712
+        },
+        {
+          "Q": 15.516,
+          "V": 17.237
+        },
+        {
+          "Q": 20.262,
+          "V": 15.624
+        },
+        {
+          "Q": 25.295,
+          "V": 13.378
+        },
+        {
+          "Q": 29.945,
+          "V": 11.032
+        },
+        {
+          "Q": 34.983,
+          "V": 8.479
+        },
+        {
+          "Q": 39.821,
+          "V": 5.922
+        },
+        {
+          "Q": 45.058,
+          "V": 3.231
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Насос для чёрных стоков со свободновихревым колесом. P1 4.5 кВт / P2 3.7 кВт, 7.5 А (стр. 126). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "70f62e50",
+    "Manufacturer": "KESSEL",
+    "Series": "SPF",
+    "Model": "SPF 3000",
+    "Country": "Германия",
+    "Application": "канализационный погружной (чёрные стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.7,
+    "P1Kw": 3.2,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.403,
+          "V": 17.877
+        },
+        {
+          "Q": 6.032,
+          "V": 16.001
+        },
+        {
+          "Q": 10.678,
+          "V": 14.466
+        },
+        {
+          "Q": 15.94,
+          "V": 12.494
+        },
+        {
+          "Q": 20.253,
+          "V": 10.376
+        },
+        {
+          "Q": 24.8,
+          "V": 7.976
+        },
+        {
+          "Q": 30.137,
+          "V": 5.333
+        },
+        {
+          "Q": 36.457,
+          "V": 2.13
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Насос для чёрных стоков со свободновихревым колесом. P1 3.2 кВт / P2 2.7 кВт, 5.4 А (стр. 126). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "5cbe4209",
+    "Manufacturer": "KESSEL",
+    "Series": "SPF",
+    "Model": "SPF 1500",
+    "Country": "Германия",
+    "Application": "канализационный погружной (чёрные стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 1.4,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 2.908,
+          "V": 7.759
+        },
+        {
+          "Q": 5.414,
+          "V": 7.519
+        },
+        {
+          "Q": 7.874,
+          "V": 7.257
+        },
+        {
+          "Q": 11.565,
+          "V": 6.83
+        },
+        {
+          "Q": 12.796,
+          "V": 6.677
+        },
+        {
+          "Q": 15.302,
+          "V": 6.349
+        },
+        {
+          "Q": 17.762,
+          "V": 5.988
+        },
+        {
+          "Q": 20.223,
+          "V": 5.616
+        },
+        {
+          "Q": 23.914,
+          "V": 5.014
+        },
+        {
+          "Q": 25.19,
+          "V": 4.806
+        },
+        {
+          "Q": 28.881,
+          "V": 4.139
+        },
+        {
+          "Q": 31.204,
+          "V": 3.69
+        },
+        {
+          "Q": 32.162,
+          "V": 3.504
+        },
+        {
+          "Q": 34.025,
+          "V": 3.115
+        },
+        {
+          "Q": 34.984,
+          "V": 2.913
+        },
+        {
+          "Q": 36.9,
+          "V": 2.509
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Насос для чёрных стоков со свободновихревым колесом. P1 1.4 кВт / P2 1.1 кВт, 2.7 А (стр. 126). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "25f718fb",
+    "Manufacturer": "KESSEL",
+    "Series": "SPF",
+    "Model": "SPF 1400",
+    "Country": "Германия",
+    "Application": "канализационный погружной (чёрные стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 1.6,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 4.555,
+          "V": 7.326
+        },
+        {
+          "Q": 5.375,
+          "V": 7.237
+        },
+        {
+          "Q": 7.829,
+          "V": 6.952
+        },
+        {
+          "Q": 10.33,
+          "V": 6.646
+        },
+        {
+          "Q": 15.286,
+          "V": 5.978
+        },
+        {
+          "Q": 16.512,
+          "V": 5.804
+        },
+        {
+          "Q": 17.74,
+          "V": 5.618
+        },
+        {
+          "Q": 20.241,
+          "V": 5.246
+        },
+        {
+          "Q": 22.696,
+          "V": 4.852
+        },
+        {
+          "Q": 25.15,
+          "V": 4.436
+        },
+        {
+          "Q": 27.651,
+          "V": 4.009
+        },
+        {
+          "Q": 28.878,
+          "V": 3.791
+        },
+        {
+          "Q": 32.607,
+          "V": 3.102
+        },
+        {
+          "Q": 33.268,
+          "V": 2.982
+        },
+        {
+          "Q": 33.928,
+          "V": 2.85
+        },
+        {
+          "Q": 34.542,
+          "V": 2.719
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Насос для чёрных стоков со свободновихревым колесом. P1 1.6 кВт / P2 1.1 кВт, 7.3 А (стр. 126). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "14a3bd2f",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 5200",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.4,
+    "P1Kw": 5.2,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.449,
+          "V": 21.264
+        },
+        {
+          "Q": 4.907,
+          "V": 19.575
+        },
+        {
+          "Q": 7.879,
+          "V": 18.503
+        },
+        {
+          "Q": 12.326,
+          "V": 17.043
+        },
+        {
+          "Q": 15.291,
+          "V": 16.178
+        },
+        {
+          "Q": 19.754,
+          "V": 14.992
+        },
+        {
+          "Q": 22.749,
+          "V": 14.243
+        },
+        {
+          "Q": 27.225,
+          "V": 13.13
+        },
+        {
+          "Q": 30.154,
+          "V": 12.367
+        },
+        {
+          "Q": 34.473,
+          "V": 11.113
+        },
+        {
+          "Q": 37.439,
+          "V": 10.095
+        },
+        {
+          "Q": 41.152,
+          "V": 8.604
+        },
+        {
+          "Q": 43.38,
+          "V": 7.603
+        },
+        {
+          "Q": 47.076,
+          "V": 5.81
+        },
+        {
+          "Q": 49.621,
+          "V": 4.462
+        },
+        {
+          "Q": 52.961,
+          "V": 2.327
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 5.2 кВт / P2 4.4 кВт, 8.7 А (стр. 147). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "a281c37e",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 4000",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.4,
+    "P1Kw": 4.0,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.404,
+          "V": 18.281
+        },
+        {
+          "Q": 3.366,
+          "V": 17.284
+        },
+        {
+          "Q": 7.8,
+          "V": 15.862
+        },
+        {
+          "Q": 10.743,
+          "V": 15.014
+        },
+        {
+          "Q": 15.177,
+          "V": 13.917
+        },
+        {
+          "Q": 18.121,
+          "V": 13.26
+        },
+        {
+          "Q": 22.592,
+          "V": 12.296
+        },
+        {
+          "Q": 25.573,
+          "V": 11.647
+        },
+        {
+          "Q": 29.951,
+          "V": 10.65
+        },
+        {
+          "Q": 32.82,
+          "V": 9.968
+        },
+        {
+          "Q": 37.217,
+          "V": 8.754
+        },
+        {
+          "Q": 39.806,
+          "V": 7.89
+        },
+        {
+          "Q": 43.104,
+          "V": 6.659
+        },
+        {
+          "Q": 45.265,
+          "V": 5.778
+        },
+        {
+          "Q": 49.326,
+          "V": 4.024
+        },
+        {
+          "Q": 51.636,
+          "V": 2.918
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 4 кВт / P2 3.4 кВт, 6.6 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "05a0c2b2",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 2600",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.1,
+    "P1Kw": 2.6,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.703,
+          "V": 13.642
+        },
+        {
+          "Q": 3.815,
+          "V": 12.843
+        },
+        {
+          "Q": 6.938,
+          "V": 12.074
+        },
+        {
+          "Q": 10.072,
+          "V": 11.314
+        },
+        {
+          "Q": 12.134,
+          "V": 10.809
+        },
+        {
+          "Q": 15.257,
+          "V": 10.053
+        },
+        {
+          "Q": 18.38,
+          "V": 9.288
+        },
+        {
+          "Q": 21.503,
+          "V": 8.498
+        },
+        {
+          "Q": 24.614,
+          "V": 7.68
+        },
+        {
+          "Q": 27.737,
+          "V": 6.828
+        },
+        {
+          "Q": 30.859,
+          "V": 5.923
+        },
+        {
+          "Q": 33.971,
+          "V": 4.961
+        },
+        {
+          "Q": 36.045,
+          "V": 4.28
+        },
+        {
+          "Q": 39.168,
+          "V": 3.199
+        },
+        {
+          "Q": 42.29,
+          "V": 2.039
+        },
+        {
+          "Q": 45.402,
+          "V": 0.787
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 2.6 кВт / P2 2.1 кВт, 4.5 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "ae462f4c",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 1400",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.1,
+    "P1Kw": 1.5,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.439,
+          "V": 10.757
+        },
+        {
+          "Q": 2.239,
+          "V": 9.985
+        },
+        {
+          "Q": 2.905,
+          "V": 9.715
+        },
+        {
+          "Q": 4.376,
+          "V": 9.153
+        },
+        {
+          "Q": 6.043,
+          "V": 8.61
+        },
+        {
+          "Q": 7.471,
+          "V": 8.189
+        },
+        {
+          "Q": 8.306,
+          "V": 7.96
+        },
+        {
+          "Q": 16.19,
+          "V": 5.762
+        },
+        {
+          "Q": 21.061,
+          "V": 4.422
+        },
+        {
+          "Q": 22.943,
+          "V": 3.901
+        },
+        {
+          "Q": 24.089,
+          "V": 3.564
+        },
+        {
+          "Q": 25.782,
+          "V": 3.026
+        },
+        {
+          "Q": 28.019,
+          "V": 2.271
+        },
+        {
+          "Q": 29.471,
+          "V": 1.766
+        },
+        {
+          "Q": 30.138,
+          "V": 1.529
+        },
+        {
+          "Q": 31.876,
+          "V": 0.9
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 1.5 кВт / P2 1.1 кВт, 6.5 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "9d5f2522",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 1600",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.2,
+    "P1Kw": 1.6,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 4.263,
+          "V": 8.989
+        },
+        {
+          "Q": 7.386,
+          "V": 8.382
+        },
+        {
+          "Q": 10.52,
+          "V": 7.783
+        },
+        {
+          "Q": 12.605,
+          "V": 7.388
+        },
+        {
+          "Q": 15.728,
+          "V": 6.803
+        },
+        {
+          "Q": 18.851,
+          "V": 6.228
+        },
+        {
+          "Q": 21.973,
+          "V": 5.659
+        },
+        {
+          "Q": 25.096,
+          "V": 5.099
+        },
+        {
+          "Q": 27.182,
+          "V": 4.731
+        },
+        {
+          "Q": 30.304,
+          "V": 4.184
+        },
+        {
+          "Q": 33.427,
+          "V": 3.646
+        },
+        {
+          "Q": 36.55,
+          "V": 3.116
+        },
+        {
+          "Q": 39.684,
+          "V": 2.596
+        },
+        {
+          "Q": 41.758,
+          "V": 2.253
+        },
+        {
+          "Q": 44.881,
+          "V": 1.747
+        },
+        {
+          "Q": 48.015,
+          "V": 1.25
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 1.6 кВт / P2 1.2 кВт, 2.9 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "15e4c011",
+    "Manufacturer": "KESSEL",
+    "Series": "GTK",
+    "Model": "GTK 1300",
+    "Country": "Германия",
+    "Application": "канализационный погружной (серые стоки)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 1.0,
+    "P1Kw": 1.3,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.367,
+          "V": 12.546
+        },
+        {
+          "Q": 4.249,
+          "V": 11.355
+        },
+        {
+          "Q": 8.217,
+          "V": 10.28
+        },
+        {
+          "Q": 12.176,
+          "V": 9.306
+        },
+        {
+          "Q": 14.828,
+          "V": 8.706
+        },
+        {
+          "Q": 18.796,
+          "V": 7.871
+        },
+        {
+          "Q": 22.755,
+          "V": 7.1
+        },
+        {
+          "Q": 26.723,
+          "V": 6.381
+        },
+        {
+          "Q": 30.691,
+          "V": 5.699
+        },
+        {
+          "Q": 34.66,
+          "V": 5.04
+        },
+        {
+          "Q": 38.628,
+          "V": 4.394
+        },
+        {
+          "Q": 42.596,
+          "V": 3.748
+        },
+        {
+          "Q": 45.238,
+          "V": 3.307
+        },
+        {
+          "Q": 49.207,
+          "V": 2.629
+        },
+        {
+          "Q": 53.166,
+          "V": 1.908
+        },
+        {
+          "Q": 57.143,
+          "V": 1.139
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков с канальным колесом. P1 1.3 кВт / P2 1 кВт, 2.5 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "560dc0d4",
+    "Manufacturer": "KESSEL",
+    "Series": "GTK",
+    "Model": "GTK 2600",
+    "Country": "Германия",
+    "Application": "канализационный погружной (серые стоки)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 2.1,
+    "P1Kw": 2.6,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.648,
+          "V": 19.544
+        },
+        {
+          "Q": 5.24,
+          "V": 18.059
+        },
+        {
+          "Q": 9.824,
+          "V": 16.702
+        },
+        {
+          "Q": 14.416,
+          "V": 15.465
+        },
+        {
+          "Q": 19.017,
+          "V": 14.318
+        },
+        {
+          "Q": 24.029,
+          "V": 13.195
+        },
+        {
+          "Q": 28.622,
+          "V": 12.192
+        },
+        {
+          "Q": 33.206,
+          "V": 11.225
+        },
+        {
+          "Q": 37.79,
+          "V": 10.269
+        },
+        {
+          "Q": 42.382,
+          "V": 9.307
+        },
+        {
+          "Q": 46.966,
+          "V": 8.316
+        },
+        {
+          "Q": 51.55,
+          "V": 7.282
+        },
+        {
+          "Q": 56.134,
+          "V": 6.175
+        },
+        {
+          "Q": 60.726,
+          "V": 4.985
+        },
+        {
+          "Q": 65.31,
+          "V": 3.682
+        },
+        {
+          "Q": 69.894,
+          "V": 2.256
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков с канальным колесом. P1 2.6 кВт / P2 2.1 кВт, 4.9 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "7265d438",
+    "Manufacturer": "KESSEL",
+    "Series": "GTK",
+    "Model": "GTK 5200",
+    "Country": "Германия",
+    "Application": "канализационный погружной (серые стоки)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 4.4,
+    "P1Kw": 5.2,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.002,
+          "V": 31.42
+        },
+        {
+          "Q": 3.385,
+          "V": 30.138
+        },
+        {
+          "Q": 8.459,
+          "V": 28.299
+        },
+        {
+          "Q": 11.832,
+          "V": 27.197
+        },
+        {
+          "Q": 16.892,
+          "V": 25.771
+        },
+        {
+          "Q": 20.277,
+          "V": 24.935
+        },
+        {
+          "Q": 25.386,
+          "V": 23.776
+        },
+        {
+          "Q": 28.793,
+          "V": 23.039
+        },
+        {
+          "Q": 33.812,
+          "V": 21.941
+        },
+        {
+          "Q": 37.072,
+          "V": 21.2
+        },
+        {
+          "Q": 42.085,
+          "V": 20.083
+        },
+        {
+          "Q": 44.465,
+          "V": 19.596
+        },
+        {
+          "Q": 48.271,
+          "V": 18.878
+        },
+        {
+          "Q": 50.802,
+          "V": 18.431
+        },
+        {
+          "Q": 55.161,
+          "V": 17.697
+        },
+        {
+          "Q": 57.636,
+          "V": 17.271
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков с канальным колесом. P1 5.2 кВт / P2 4.4 кВт, 8.7 А (стр. 147). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "bbfd4733",
+    "Manufacturer": "KESSEL",
+    "Series": "GTK",
+    "Model": "GTK 3700",
+    "Country": "Германия",
+    "Application": "канализационный погружной (серые стоки)",
+    "Impeller": "Unknown",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 3.1,
+    "P1Kw": 3.7,
+    "Rpm": 0,
+    "Poles": 0,
+    "Voltage": "3~400 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.799,
+          "V": 23.193
+        },
+        {
+          "Q": 6.811,
+          "V": 21.437
+        },
+        {
+          "Q": 12.298,
+          "V": 19.888
+        },
+        {
+          "Q": 17.785,
+          "V": 18.455
+        },
+        {
+          "Q": 23.272,
+          "V": 17.136
+        },
+        {
+          "Q": 28.779,
+          "V": 15.923
+        },
+        {
+          "Q": 34.266,
+          "V": 14.803
+        },
+        {
+          "Q": 39.753,
+          "V": 13.748
+        },
+        {
+          "Q": 43.408,
+          "V": 13.068
+        },
+        {
+          "Q": 48.905,
+          "V": 12.051
+        },
+        {
+          "Q": 54.391,
+          "V": 10.982
+        },
+        {
+          "Q": 59.879,
+          "V": 9.814
+        },
+        {
+          "Q": 65.375,
+          "V": 8.471
+        },
+        {
+          "Q": 70.862,
+          "V": 6.887
+        },
+        {
+          "Q": 76.359,
+          "V": 4.963
+        },
+        {
+          "Q": 81.846,
+          "V": 2.606
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков с канальным колесом. P1 3.7 кВт / P2 3.1 кВт, 6.5 А (стр. 145). Частота вращения в каталоге не указана."
+  },
+  {
+    "Id": "9b7a17b9",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 1250",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.8,
+    "P1Kw": 1.3,
+    "Rpm": 2700,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.976,
+          "V": 10.793
+        },
+        {
+          "Q": 2.316,
+          "V": 10.2
+        },
+        {
+          "Q": 3.662,
+          "V": 9.593
+        },
+        {
+          "Q": 4.916,
+          "V": 9.026
+        },
+        {
+          "Q": 6.399,
+          "V": 8.34
+        },
+        {
+          "Q": 7.706,
+          "V": 7.725
+        },
+        {
+          "Q": 9.019,
+          "V": 7.101
+        },
+        {
+          "Q": 10.423,
+          "V": 6.42
+        },
+        {
+          "Q": 11.633,
+          "V": 5.822
+        },
+        {
+          "Q": 13.037,
+          "V": 5.123
+        },
+        {
+          "Q": 14.344,
+          "V": 4.459
+        },
+        {
+          "Q": 15.553,
+          "V": 3.839
+        },
+        {
+          "Q": 16.938,
+          "V": 3.119
+        },
+        {
+          "Q": 18.167,
+          "V": 2.468
+        },
+        {
+          "Q": 19.448,
+          "V": 1.787
+        },
+        {
+          "Q": 20.768,
+          "V": 1.07
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 1.3 кВт / P2 0.8 кВт, 5.4 А (стр. 117). Частота вращения 2700 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "dbea89f3",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 1200",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.84,
+    "P1Kw": 1.4,
+    "Rpm": 2650,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.976,
+          "V": 9.1
+        },
+        {
+          "Q": 3.299,
+          "V": 8.359
+        },
+        {
+          "Q": 5.513,
+          "V": 7.479
+        },
+        {
+          "Q": 7.593,
+          "V": 6.508
+        },
+        {
+          "Q": 9.512,
+          "V": 5.495
+        },
+        {
+          "Q": 11.244,
+          "V": 4.488
+        },
+        {
+          "Q": 12.761,
+          "V": 3.536
+        },
+        {
+          "Q": 14.038,
+          "V": 2.687
+        },
+        {
+          "Q": 15.048,
+          "V": 1.99
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 1.4 кВт / P2 0.84 кВт, 6.2 А (стр. 110). Частота вращения 2650 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "cb4e9dd8",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 1000",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.73,
+    "P1Kw": 1.27,
+    "Rpm": 2800,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.974,
+          "V": 9.596
+        },
+        {
+          "Q": 1.979,
+          "V": 9.174
+        },
+        {
+          "Q": 2.482,
+          "V": 8.95
+        },
+        {
+          "Q": 2.984,
+          "V": 8.713
+        },
+        {
+          "Q": 4.004,
+          "V": 8.212
+        },
+        {
+          "Q": 5.009,
+          "V": 7.684
+        },
+        {
+          "Q": 6.014,
+          "V": 7.105
+        },
+        {
+          "Q": 7.019,
+          "V": 6.499
+        },
+        {
+          "Q": 8.024,
+          "V": 5.84
+        },
+        {
+          "Q": 9.029,
+          "V": 5.154
+        },
+        {
+          "Q": 9.532,
+          "V": 4.798
+        },
+        {
+          "Q": 10.035,
+          "V": 4.429
+        },
+        {
+          "Q": 11.054,
+          "V": 3.665
+        },
+        {
+          "Q": 11.557,
+          "V": 3.269
+        },
+        {
+          "Q": 12.06,
+          "V": 2.861
+        },
+        {
+          "Q": 13.065,
+          "V": 2.017
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 1.27 кВт / P2 0.73 кВт, 5.6 А (стр. 160). Частота вращения 2800 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "ab77a864",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 600",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.4,
+    "P1Kw": 0.65,
+    "Rpm": 2750,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0,
+          "V": 8.064
+        },
+        {
+          "Q": 1.853,
+          "V": 7.409
+        },
+        {
+          "Q": 4.634,
+          "V": 6.388
+        },
+        {
+          "Q": 6.69,
+          "V": 5.263
+        },
+        {
+          "Q": 8.1,
+          "V": 4.394
+        },
+        {
+          "Q": 9.977,
+          "V": 3.075
+        },
+        {
+          "Q": 12.234,
+          "V": 1.172
+        },
+        {
+          "Q": 13.038,
+          "V": 0.446
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 0.65 кВт / P2 0.4 кВт, 2.9 А (стр. 117). Частота вращения 2750 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "e315e38f",
+    "Manufacturer": "KESSEL",
+    "Series": "GTF",
+    "Model": "GTF 500",
+    "Country": "Германия",
+    "Application": "дренажный погружной (серые стоки)",
+    "Impeller": "Vortex",
+    "HasCutter": false,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.36,
+    "P1Kw": 0.6,
+    "Rpm": 2800,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0.435,
+          "V": 8.184
+        },
+        {
+          "Q": 0.908,
+          "V": 7.874
+        },
+        {
+          "Q": 1.108,
+          "V": 7.748
+        },
+        {
+          "Q": 1.496,
+          "V": 7.52
+        },
+        {
+          "Q": 2.849,
+          "V": 6.748
+        },
+        {
+          "Q": 3.465,
+          "V": 6.34
+        },
+        {
+          "Q": 3.878,
+          "V": 6.055
+        },
+        {
+          "Q": 4.863,
+          "V": 5.335
+        },
+        {
+          "Q": 5.894,
+          "V": 4.493
+        },
+        {
+          "Q": 6.428,
+          "V": 3.997
+        },
+        {
+          "Q": 6.759,
+          "V": 3.685
+        },
+        {
+          "Q": 7.464,
+          "V": 3.009
+        },
+        {
+          "Q": 8.013,
+          "V": 2.451
+        },
+        {
+          "Q": 8.597,
+          "V": 1.878
+        },
+        {
+          "Q": 8.835,
+          "V": 1.645
+        },
+        {
+          "Q": 9.269,
+          "V": 1.224
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 95",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_095.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 95. Погружной насос для серых стоков со свободновихревым колесом. P1 0.6 кВт / P2 0.36 кВт, 2.7 А (стр. 159). Частота вращения 2800 мин⁻¹ по каталогу."
+  },
+  {
+    "Id": "22e37575",
+    "Manufacturer": "KESSEL",
+    "Series": "SPZ",
+    "Model": "SPZ 1000",
+    "Country": "Германия",
+    "Application": "канализационный с измельчителем",
+    "Impeller": "Grinder",
+    "HasCutter": true,
+    "DnOut": 0,
+    "FreePassageMm": 0,
+    "P2Kw": 0.69,
+    "P1Kw": 1.2,
+    "Rpm": 2800,
+    "Poles": 2,
+    "Voltage": "1~230 В 50 Гц",
+    "WeightKg": 0,
+    "InertiaKgM2": 0,
+    "ImpellerDmm": 0,
+    "TrimMin": 0.85,
+    "SpeedMin": 0.6,
+    "NominalQ": 0,
+    "NominalH": 0,
+    "NominalEta": 0,
+    "RangeQmin": 0,
+    "RangeQmax": 0,
+    "Curve": {
+      "QH": [
+        {
+          "Q": 0,
+          "V": 10.205
+        },
+        {
+          "Q": 0.784,
+          "V": 9.779
+        },
+        {
+          "Q": 1.573,
+          "V": 9.339
+        },
+        {
+          "Q": 2.358,
+          "V": 8.883
+        },
+        {
+          "Q": 3.147,
+          "V": 8.414
+        },
+        {
+          "Q": 3.936,
+          "V": 7.928
+        },
+        {
+          "Q": 4.721,
+          "V": 7.429
+        },
+        {
+          "Q": 5.51,
+          "V": 6.913
+        },
+        {
+          "Q": 6.56,
+          "V": 6.203
+        },
+        {
+          "Q": 7.346,
+          "V": 5.651
+        },
+        {
+          "Q": 8.134,
+          "V": 5.085
+        },
+        {
+          "Q": 8.923,
+          "V": 4.504
+        },
+        {
+          "Q": 9.712,
+          "V": 3.909
+        },
+        {
+          "Q": 10.497,
+          "V": 3.294
+        },
+        {
+          "Q": 11.286,
+          "V": 2.669
+        },
+        {
+          "Q": 12.075,
+          "V": 2.025
+        }
+      ],
+      "QP": [],
+      "QEta": [],
+      "QNpsh": []
+    },
+    "Source": {
+      "Document": "KESSEL AG, Programmübersicht 2023 (PÜ 2023), стр. 66",
+      "Url": "https://www.kessel.at/fileadmin/assets/katalog/PUE23/PUE23_066.pdf",
+      "Date": "2026-09",
+      "Quality": "CatalogTable"
+    },
+    "Notes": "Оцифровка векторной кривой каталога (Q, м³/ч — H, м), PÜ 2023 стр. 66. Насос для чёрных стоков с режущим колесом. P1 1.2 кВт / P2 0.69 кВт, 5.2 А (стр. 108). Частота вращения 2800 мин⁻¹ по каталогу. Кривая из раздела «Rückstauhebeanlage Ecolift» (единственный насос установки)."
+  }
+]
